@@ -1,2 +1,2 @@
 # panduan-distribusi
-Panduan Destribusi BlankOn
+Panduan Distribusi BlankOn
