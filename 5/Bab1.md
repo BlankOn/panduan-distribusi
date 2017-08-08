@@ -174,7 +174,7 @@ Edisi Reguler :
       konteks cuaca yang dapat merubah tampilan komputer. Artinya tampilan di
       pagi hari akan berbeda dengan di malam hari, juga demikian misalnya bila
       di luar sedang terang benderang atau sedang hujan disertai petir maka
-      BlankOn akan menyesuaikan. Fitur ini hanya terdapat di BlankOn dan tidak
+    akan menyesuaikan. Fitur ini hanya terdapat di BlankOn dan tidak
       tersedia di distro Ubuntu.
     * GNOME versi 2.26 sebagai lingkungan desktop atau desktop environment yang
       sangat sederhana, kaya fitur dan mudah digunakan,
@@ -237,7 +237,7 @@ Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai
 distro BlankOn Linux :
     * ​http://www.blankonlinux.or.id, situs resmi BlankOn Linux.
     * ​http://cdimage.blankonlinux.or.id, halaman web untuk mengunduh distro
-      BlankOn Linux.
+    Linux.
     * ​http://dev.blankonlinux.or.id, situs WIKI untuk informasi pengembangan
       distro BlankOn Linux.
 Last modified on 05/30/2009 07:41:52 PM

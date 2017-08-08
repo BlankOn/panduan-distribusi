@@ -1,18 +1,18 @@
-   BlankOn
- About_Trac
-    * About_Trac
-    * Preferences
-    * Login
-    * Help/Guide
-    * Wiki
-    * Roadmap
-    * Browse_Repository
-    * View_Reports
-[q                 ]
-    * BlankOn  /
-    * Wiki  /
-    * Dokumentasi  /
-    * Panduan  /
+
+
+    *
+
+
+
+
+
+
+
+
+
+  /
+
+
     * 5  /
     * Bab2
 ## BAB II : Memasang BlankOn Linux
@@ -67,7 +67,7 @@ Sebelum melakukan pemasangan BlankOn Linux, lakukan beberapa persiapan seperti
 berikut :
    1. Persiapkan CD dari BlankOn Linux sebagai bekal untuk proses pemasangan,
       baca kembali subbab sebelumnya untuk mengetahui cara mendapatkan CD
-      BlankOn Linux, pastikan CD dalam keadaan baik agar proses pemasangan
+    Linux, pastikan CD dalam keadaan baik agar proses pemasangan
       lancar.
    1. Backup atau buat cadangan dari data penting Anda ke media penyimpanan
       cadangan (seperti Flash Disk, Harddisk lain, CD/DVD) agar data Anda aman
@@ -160,7 +160,7 @@ pemasangan BlankOn Linux. Berikut uraian setiap langkahnya :
       kemudian klik tombol “Maju”.
    1. Proses pemasangan
       Jika Anda siap untuk melakukan pemasangan, klik tombol “Maju”. Maka
-      BlankOn Linux akan dipasang ke partisi harddisk yang telah Anda tentukan.
+    Linux akan dipasang ke partisi harddisk yang telah Anda tentukan.
       Proses pemasangan memakan waktu sekitar 5 sampai 30 menit, tergantung
       dari kecepatan komputer Anda. Sembari menunggu pemasangan, Anda bisa
       membuka berbagai permainan kecil yang ada di menu BlankOn > Permainan.
@@ -230,7 +230,7 @@ alternate.png]
       manual, pilih “Manual”. Di dalam panduan ini, akan dibahas mengenai cara
       mempartisi dari harddisk yang sudah memiliki partisi.
       Pada menu daftar partisi, pilih partisi kosong yang ingin Anda pasang
-      BlankOn Linux. Partisi kosong ditandai dengan tulisan “RUANG KOSONG”.
+    Linux. Partisi kosong ditandai dengan tulisan “RUANG KOSONG”.
       Jika tidak terdapat partisi kosong sama sekali, Anda bisa memotong
       partisi harddisk yang ada dengan memilih partisi yang ingin dipotong,
       lalu menekan tombol Enter. Kemudian pada menu partisi, pilih menu “Ubah
@@ -361,7 +361,7 @@ Last modified on 05/31/2009 06:07:07 AM
  
  
  
----
-[**Daftar Isi Wiki BlankOn**](/DaftarIsi/README.md)
+
+
  
-[**Indeks Wiki BlankOn**](/Indeks.md)
+

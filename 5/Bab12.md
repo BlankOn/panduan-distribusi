@@ -1,18 +1,18 @@
-   BlankOn
- About_Trac
-    * About_Trac
-    * Preferences
-    * Login
-    * Help/Guide
-    * Wiki
-    * Roadmap
-    * Browse_Repository
-    * View_Reports
-[q                 ]
-    * BlankOn  /
-    * Wiki  /
-    * Dokumentasi  /
-    * Panduan  /
+
+
+    *
+
+
+
+
+
+
+
+
+
+  /
+
+
     * 5  /
     * Bab12
 ## BAB XII : Pengenalan Antarmuka Teks
@@ -366,7 +366,7 @@ Last modified on 07/20/2009 11:53:07 AM
  
  
  
----
-[**Daftar Isi Wiki BlankOn**](/DaftarIsi/README.md)
+
+
  
-[**Indeks Wiki BlankOn**](/Indeks.md)
+
