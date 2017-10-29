@@ -29,7 +29,7 @@ Pada perkembangan selanjutnya, Linux juga dipaketkan dengan perangkat lunak lain
 
 Saat ini, banyak sekali terdapat distro-distro Linux yang memiliki segmen pasar, fitur, kelengkapan dan cita rasa yang berbeda. Anda bisa melihat semua distribusi Linux yang ada melalui situs  http://www.distrowatch.com. Distro Linux juga bisa disebut sebagai sistem operasi atau operating system (OS) karena sudah memiliki perangkat lunak untuk melakukan operasi pada komputer. Linux pada awalnya berkembang di lingkungan server, karena Linux sangat handal dalam hal **kestabilan sistem**. Namun, dengan semakin pesatnya dunia perangkat lunak terbuka, Linux kini juga merambah ke dunia **Desktop**. Perkembangan sangat pesat ini tidak lepas dari peran para sukarelawan yang berjasa dalam menyumbangkan ide dan tenaganya untuk mengembangkan Linux.
 
-# 1.1.	Kelebihan Linux 
+## 1.1.	Kelebihan Linux 
 Sebagai suatu sistem operasi, Linux secara umum memiliki berbagai kelebihan dan kekurangan daripada sistem operasi lainnya. Berikut adalah kelebihan dari Linux :
 * Linux bisa didapatkan secara bebas tanpa perlu membayar lisensi. Anda juga bisa mengunduh kode sumber Linux jika ingin melihatnya tanpa ada batasan apapun.
 * Linux memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk keperluan laptop, desktop dan server. Jika perangkat lunak yang tersedia terasa kurang, Anda dapat menambahkannya dengan mudah melalui repository yang tersedia.
@@ -40,7 +40,7 @@ Sebagai suatu sistem operasi, Linux secara umum memiliki berbagai kelebihan dan 
 1.Linux kurang memiliki dukungan dari produsen perangkat keras dalam hal penyediaan perangkat **lunak pengendali (driver)**. Hampir semua perangkat lunak pengendali yang saat ini ada di Linux merupakan hasil jerih payah komunitas, dan sebagian kecil murni dukungan dari produsen perangkat keras.
 2.Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan permbuat **permainan** masih menggunakan sistem operasi Microsoft Windows sebagai platform mereka.
 
-# 1.2.	Apa itu BlankOn Linux?
+## 1.2.	Apa itu BlankOn Linux?
 
 BlankOn Linux merupakan salah satu distro Linux yang berisikan perangkat lunak (software) yang dapat digunakan untuk keperluan **Desktop, Laptop,** dan **Workstation**. Dengan dipadukan oleh berbagai pernak–pernik khas Indonesia, distro ini sangat cocok digunakan untuk pengguna komputer di Indonesia.
 
@@ -48,12 +48,12 @@ BlankOn Linux dikembangkan oleh **Yayasan Penggerak Linux Indonesia (YPLI** bers
 
 Pengembangan BlankOn bukan semata-mata ingin membuat distribusi Linux baru, namun lebih dimotivasi oleh keinginan untuk meningkatkan kualitas dan kuantitas dalam kemampuan pengembangan perangkat lunak bebas/terbuka, yang pada hakikatnya merupakan salah ciri khas bangsa Indonesia yang memiliki semangat bergotong-royong. Tim pengembang BlankOn percaya bahwa bangsa Indonesia mampu dan tidak kalah dengan bangsa-bangsa lain di dunia dan oleh karena itu aktif mengundang siapa pun yang berminat dan memiliki semangat yang sama untuk bergabung dalam pengembangan BlankOn.
 
-# 1.3.	Asal nama BlankOn Linux
+## 1.3.	Asal nama BlankOn Linux
 
 Nama BlankOn berasal dari nama penutup kepala beberapa suku/budaya yang ada di Indonesia, antara lain suku Jawa, suku Sunda, dan daerah lainnya. Dari asal kata tersebut, BlankOn diharapkan menjadi penutup atau pelindung dari ketergantungan dengan perangkat lunak tertutup.
 Selain itu, nama BlankOn juga bisa diartikan menjadi **Blank (angka biner 0)** dan **On (angka biner 1**. BlankOn diharapkan menjadikan orang yang **belum sadar** menjadi **sadar** bahwa Linux bisa dimanfaatkan untuk meningkatkan keterampilan dalam bidang **Teknologi Informasi**.
 
-# 1.4.	Sejarah BlankOn Linux
+## 1.4.	Sejarah BlankOn Linux
 
 BlankOn Linux pertama kali dikembangkan oleh **YPLI** pada tahun 2004 dengan nama kode "Bianglala". Pada saat itu, BlankOn merupakan turunan dari distro **Fedora Core 3**. Namun, rilis BlankOn pada saat itu berakhir sampai versi 1.1 dan akhirnya mati suri.
 
@@ -65,7 +65,7 @@ Pada bulan November 2008, BlankOn Linux 4.0 dirilis dengan nama kode **Meuligoe*
 
 Rilis terakhir pada saat buku ini ditulis adalah BlankOn Linux 9.1 , dengan nama kode Suroboyo yang merupakan turunan dari Debian. Sejak Versi 6.0 Ombilin tidak murni berbasis Ubuntu dan mulai rilis 6.0 Ombilin BlankOn tidak lagi mengikuti budaya mutlak Ubuntu, sehingga sudah banyak program yang diambil dari pembuatnya langsung.
 
-# 1.5.	Fitur BlankOn X Tambora
+## 1.5.	Fitur BlankOn X Tambora
 BlankOn X Tambora berisikan berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, laptop dan workstation. Perangkat lunak yang tersedia juga bisa ditambah dengan perangkat lunak lainnya agar sesuai dengan keperluan.
 
 Secara umum, fitur-fitur dari BlankOn X Tambora adalah sebagai berikut :
@@ -81,7 +81,7 @@ Secara umum, fitur-fitur dari BlankOn X Tambora adalah sebagai berikut :
 *	Peramban web Firefox untuk mengakses situs Internet,
 *	Dan Lebih Banyak Lagi Kami menyertakan ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
 
-# 1.6.	Pengembangan BlankOn Linux
+## 1.6.	Pengembangan BlankOn Linux
 Seperti yang dijelaskan sebelumnya, BlankOn Linux dikembangkan oleh Yayasan Penggerak Linux Indonesia (YPLI) bersama para komunitas pengembang Linux yang tergabung menjadi Tim Pengembang BlankOn Linux. Proyek BlankOn Linux terbuka untuk siapa saja yang terlibat dan berperan aktif dalam pengembangan BlankOn Linux ini.
 Dalam pengembangan proyek BlankOn Linux Tim Pengembang BlankOn dibagi menjadi dua tim:
 * Tim Rilis
@@ -89,7 +89,7 @@ Dalam pengembangan proyek BlankOn Linux Tim Pengembang BlankOn dibagi menjadi du
 
 Di dalam kedua tim tersebut terdapat tim-tim kecil yang bekerja sesuai tugasnya. Halaman ini menjelaskan tim apa saja yang ada dan tugas-tugasnya.
 
-# 1.6.1.  Tim Rilis BlankOn
+## 1.6.1.  Tim Rilis BlankOn
 
 Tim ini bertanggung jawab dalam menerbitkan sebuah rilis BlankOn. Tim ini dipimpin oleh seorang Manajer Rilis. Tim kecil yang ada dipimpin oleh seorang **Koordinator**.
 
@@ -107,7 +107,7 @@ Tim ini bertanggung jawab dalam mengumpulkan dokumentasi untuk pengguna pada seb
 
 
 
-# 1.6.2.  Tim Proyek BlankOn
+## 1.6.2.  Tim Proyek BlankOn
 
 Tim ini tidak terlibat secara langsung dalam sebuah rilis, namun lebih cenderung ke pelaksanaan jalannya proyek BlankOn secara keseluruhan. Tim-tim ini tidak dipimpin oleh seseorang namun lebih ke kepemimpinan mandiri. Tim kecil yang ada dalam Tim Proyek dipimpin oleh seorang koordinator.
 
@@ -154,7 +154,7 @@ Tim ini bertanggung jawab dalam menyediakan informasi baru, kliping tentang Blan
 
 ### Tim Bisnis
 Tim ini bertanggung jawab dalam kegiatan yang berhubungan dengan bisnis komersial. Tim ini dipandu oleh YPLI. Jika Anda berminat untuk menjadi pengembang BlankOn Linux, silahkan membuat akun baru di situs pengembangan BlankOn Linux yaitu  http://dev.blankonlinux.or.id  dan bergabung di milis pengembang BlankOn Linux di blankon-dev@…. Anda bisa memilih menjadi salah satu dari tim yang disebutkan di atas. Kontribusi dari Anda sangat diperlukan agar BlankOn Linux bisa menjadi lebih baik.
-# 1.6.3.  	Tautan dan Umpan Balik
+## 1.6.3.  	Tautan dan Umpan Balik
 Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai distro BlankOn Linux :
 *	http://www.blankonlinux.or.id, situs resmi BlankOn Linux.
 *	http://cdimage.blankonlinux.or.id, halaman web untuk mengunduh distro BlankOn Linux.
