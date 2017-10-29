@@ -19,7 +19,7 @@ Singkatnya: buku ini bebas diperjualbelikan, didistribusikan ulang, digandakan, 
 © 2016, Tim Pengembang BlankOn
 
  
-### BAB 1 APA ITU LINUX DAN BLANKON LINUX?
+# BAB 1 APA ITU LINUX DAN BLANKON LINUX?
 
 Kata “Linux” saat ini semakin banyak didengar oleh pecinta Teknologi Informasi dan Komunikasi (TIK) di seluruh dunia termasuk di Indonesia. Saat ini, Linux telah menjadi salah satu sistem operasi yang banyak digunakan di berbagai kalangan, seperti kalangan bisnis, pendidikan, dan pemerintahan. Hal ini disebabkan karena Linux bersifat terbuka dan merdeka. Siapapun bisa mengembangkannya dan menggunakannya secara bebas. Linux merupakan kernel atau dasar dari Sistem Operasi yang pertama kali ditulis oleh seorang mahasiswa **Finlandia** bernama **Linus Benedict Torvalds** pada tahun 1991. Hasil karyanya dilisensikan secara bebas dan terbuka (Free Software) sehingga siapa pun boleh mengembangkannya.
 
