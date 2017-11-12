@@ -121,7 +121,7 @@ Dalam contoh pada buku ini adalah mengganti latar belakang pada destop, maka dar
 Pilih salah satu tab (misal tab  Gambar latar), klik salah satu gambar yang akan dijadikan latar belakang untuk destop, klik tombol **Select**, maka secara otomatis gambar latar belakang pada destop berubah sesuai gambar yang tadi dipilih.
 
 #### 4.2.2.2.  Mengganti Latar Belakang dengan Gambar Koleksi Pribadi
-Anda dapat mengganti gambar latar belakang pada destop dengan gambar koleksi milik pribadi, berikut caranya: cari gambar yang akan dijadikan latar belakang di direktori komputer Anda, kemudian** klik kanan gambar** tersebut, pilih **Jadikan gambar Latar**.
+Anda dapat mengganti gambar latar belakang pada destop dengan gambar koleksi milik pribadi, berikut caranya: cari gambar yang akan dijadikan latar belakang di direktori komputer Anda, kemudian **klik kanan gambar** tersebut, pilih **Jadikan gambar Latar**.
  
 ## 4.3. Pengaturan Pengguna
 Sistem operasi BlankOn merupakan sistem operasi multiuser atau banyak pengguna. Linux bisa digunakan oleh banyak pengguna yang memiliki ruang dan lingkungan masing-masing. Setiap pengguna juga memiliki nama akun pengguna (userid) dan kata sandi. Nama pengguna dan sandi ini akan diminta pada saat pertama kali menjalankan BlankOn. Oleh karena itu, pengetahuan tentang manajemen pengguna sangat dibutuhkan dalam mempelajari BlankOn. Baik bagi mereka yang sekadar pengguna rumahan yang hanya memilik satu jenis pengguna di sistem mereka, ataupun mereka yang bertindak sebagai sistem administrator. 
