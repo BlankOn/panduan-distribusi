@@ -6,10 +6,10 @@ Buku Panduan BlankOn 11 Uluwatu ini disusun oleh Tim Dokumentasi BlankOn bersama
 ## Tim Penyusun
 Tim penyusun buku Panduan BlankOn 11 Uluwatu ini terdiri dari;
 ### Penulis
-  * Umul Sidikoh, umulsidikoh@gmail.com
-  * Faiq Aminuddin, dampuawang@gmail.com
-  * TS Faizal, trisfaizal@gmail.com
-  * Reza
+  * [Faiq Aminuddin](https://github.com/FaiqAminuddin)
+  * [Umul Sidiqoh](https://github.com/umulsidikoh)
+  * [TS Faizal](https://github.com/trisfaizal)
+  * Yudha
 
 ### Penyunting
   * ???
