@@ -1,6 +1,6 @@
 # Memasang BlankOn
 
-Bab ini akan membahas bagaimana cara memasang BlankOn pada komputer. Pemasangan BlankOn akan sangat mudah dilakukan apabila Anda sudah memahami persiapan dan langkah-langkah apa saja yang perlu dilakukan.
+Bab ini membahas bagaimana cara memasang BlankOn pada komputer. Pemasangan BlankOn akan sangat mudah dilakukan apabila Anda sudah memahami persiapan dan langkah-langkah apa saja yang perlu dilakukan.
 
 ## Kebutuhan Sistem
 Sebelum melakukan pemasangan, maka perlu diperhatikan terlebih dahulu apakah komputer Anda sudah memenuhi syarat spesifikasi minimal agar BlankOn bisa berjalan dengan lancar. Berikut ini adalah spesifikasi minimal untuk BlankOn XI Uluwatu:
@@ -8,13 +8,13 @@ Sebelum melakukan pemasangan, maka perlu diperhatikan terlebih dahulu apakah kom
   * Memori RAM 1 GB
   * Kartu video atau VGA minimal memiliki memori 128 MB atau 512 MB untuk efek desktop.
   * Media Simpan dengan ukuran 12 GB atau lebih.
-  * Menggunakan arsitektur amd64bit.
+  * Menggunakan arsitektur amd 64bit.
 
 ## Cara Mendapatkan BlankOn
 Untuk mendapatkan berkas iso BlankOn, Anda bisa mengunduhnya dari situs resmi BlankOn [http://cdimage.blankonlinux.or.id/](http://cdimage.blankonlinux.or.id/). Berkas cetakan tersebut selanjutnya dapat dibuat *bootable* ke Flashdisk atau Harddisk External dengan Unetbootin, cara lainya adalah dengan dibakar ke DVD kosong menggunakan aplikasi pembakar DVD seperti Brasero, K3b, Nero, Roxio, dsb.
 
 ### Tip:
-Agar proses pengunduhan berkas iso BlankOn lebih lancar, Anda dapat memanfaatkan situs cermin (*mirror*) sebagai sumber mengunduh berikut ini:
+Agar proses pengunduhan berkas iso BlankOn lebih lancar, Anda dapat memanfaatkan situs cermin (*mirror*) berikut ini:
 
   * http://kambing.ui.ac.id/iso/blankon
   * http://mirror.unej.ac.id/blankon-cd

@@ -1,16 +1,14 @@
 # Manajemen Paket BlankOn XI Uluwatu
 
-Bab ini menjelaskan tentang cara memasang, menghapus dan merawat perangkat lunak pada BlankOn XI Uluwatu. BlankOn Linux sudah menyertakan berbagai perangkat lunak untuk keperluan dasar seperti aplikasi perkantoran, multimedia, internet, grafis, dan lain-lain. Namun, jika Anda merasa kurang dengan perangkat lunak yang sudah terpasang, Anda dapat melakukan pemasangan perangkat lunak yang Anda inginkan sesuai dengan keperluan.
+Bab ini menjelaskan tentang cara memasang, menghapus dan merawat perangkat lunak pada BlankOn XI Uluwatu. BlankOn Linux sudah menyertakan berbagai perangkat lunak untuk keperluan dasar seperti aplikasi perkantoran, multimedia, internet, grafis, dan lain-lain. Anda juga dapat melakukan pemasangan perangkat lunak baru yang Anda inginkan sesuai dengan keperluan.
 
 #### INGAT!
   * Pemasangan dan penghapusan perangkat lunak membutuhkan hak administratif karena dapat mengubah sistem. Oleh karena itu, yang dapat melakukan hal tersebut hanyalah pengguna yang memiliki kewenangan administratif.
 
 ## Pengaturan Perangkat Lunak pada BlankOn Linux
-Seperti pada distro Linux lainnya, pemasangan perangkat lunak pada BlankOn menggunakan sistem manajemen paket perangkat lunak. Manajemen paket yang ada di BlankOn Linux bernama APT.
+Seperti pada distro Linux lainnya, pemasangan perangkat lunak pada BlankOn menggunakan sistem manajemen paket perangkat lunak. Manajemen paket yang digunakan BlankOn Linux adalah APT. Hampir semua perangkat lunak Linux berasal dari lumbung paket (*package repository*). APT adalah program yang berfungsi untuk mengunduh (*download*) paket yang Anda pilih dari lumbung dan memasangnya di komputer.
 
-Hampir semua perangkat lunak Linux berasal dari lumbung paket (*package repository*). APT adalah program yang berfungsi untuk mengunduh (*download*) paket yang Anda pilih dari lumbung dan memasangnya di komputer.
-
-Dengan kata lain, Anda tidak perlu mengunduh sendiri paket perangkat lunak yang ingin Anda pasang. Anda hanya perlu menentukan sumber paket atau lumbung paket perangkat lunak tersebut melalui APT, dan meminta perangkat lunak yang ingin dipasang atau dihapus. APT akan melakukan apa yang Anda inginkan termasuk mengunduh paket, memasang, melakukan konfigurasi sistem, pemutakhiran (*update*) serta penghapusan.
+Dengan APT, Anda hanya perlu menentukan sumber paket atau lumbung paket perangkat lunak melalui APT, dan meminta perangkat lunak yang ingin dipasang atau dihapus. APT akan melakukan apa yang Anda inginkan termasuk mengunduh paket, memasang, melakukan konfigurasi sistem, pemutakhiran (*update*) serta penghapusan.
 
 Lumbung paket dapat berada dari empat sumber, yaitu:
   * Server Web
@@ -27,7 +25,6 @@ Selain lumbung paket resmi, juga terdapat lumbung paket-lumbung paket lainnya ya
   * [http://pandawa.ipb.ac.id/blankon](http://pandawa.ipb.ac.id/blankon) (Institut Pertanian Bogor)
 
 ## Pengaturan Lumbung Paket
-
 Untuk melakukan pengaturan lumbung paket APT, klik Menu utama **BlankOn** => **Sistem** => **Administrator** => **Manajer Paket Synaptic**. Setelah Manajer Paket Synaptic terbuka, **Pengaturan** => **Repositori**. Berikut adalah cara-cara pengaturan lumbung paket dari setiap jenis sumber.
 
 ### Lumbung Paket Resmi BlankOn (Internet)
@@ -44,7 +41,7 @@ Terdapat dua cara untuk melakukan pemasangan dan penghapusan perangkat lunak. Ya
 ### Manajer Paket Synaptic
 Jika Anda ingin memasang atau menghapus perangkat lunak secara detail, Anda bisa menggunakan aplikasi Synaptic yang bisa Anda buka melalui **Menu utama BlankOn** =>  **Administrasi** => **Manajer paket Synaptic**
 
-Ketikkan nama aplikasi pada kotak pencarian cepat. Aplikasi ini menampilkan daftar paket perangkat lunak secara detail. Selain itu,  Anda juga bisa menambah dan menghapus aplikasi atau pustaka sistem. Untuk menandai paket perangkat lunak yang ingin dipasang, **klik kanan** pada aplikasi yang hendak dipasang lalu pilih menu **Tandai untuk Pemasangan**.
+Ketik nama aplikasi pada kotak pencarian cepat. Aplikasi ini menampilkan daftar paket perangkat lunak secara detail. Selain itu,  Anda juga bisa menambah dan menghapus aplikasi atau pustaka sistem. Untuk menandai paket perangkat lunak yang ingin dipasang, **klik kanan** pada aplikasi yang hendak dipasang lalu pilih menu **Tandai untuk Pemasangan**.
 
 Sedangkan jika ingin menghapus paket perangkat lunak, klik kanan pada aplikasi lalu pilih menu **Tandai untuk dibuang**. Kadangkala, suatu paket perangkat lunak akan meminta satu atau beberapa paket perangkat lunak untuk dipasang (ketergantungan).
 
@@ -55,9 +52,9 @@ Untuk menerapkannya, klik tombol **Terapkan** pada *toolbar*, kemudian klik tomb
 ### Melalui Perintah apt
 Menggunakan perintah apt-get sangat sederhana sekali. Anda cukup ketikkan nama paket perangkat lunak yang ingin dipasang/dihapus, maka APT akan melakukan hal yang Anda inginkan.
 
-Untuk menggunakan fitur ini, bukalah antarmuka teks misalnya melalui Terminal dengan klik **Menu Utama BlankOn** => **Perkakas Sistem** => **Terminal**.
+Untuk menggunakan fitur ini, bukalah Terminal dengan klik **Menu Utama BlankOn** => **Perkakas Sistem** => **Terminal**.
 
-Pada terminal ketikkan perintah `sudo apt install namapaket`. Ubah “namapaket” sesuai dengan nama paket perangkat lunak yang hendak Anda pasang. Misalnya, untuk memasang aplikasi htop, Anda dapat mengetik perintah `sudo apt install hatop`;
+Pada terminal ketik perintah `sudo apt install namapaket`. Ubah “namapaket” sesuai dengan nama paket perangkat lunak yang hendak Anda pasang. Misalnya, untuk memasang aplikasi htop, Anda dapat mengetik perintah `sudo apt install hatop`;
 ```terminal
 blankon@blankon:~$ sudo apt install htop
 ```
