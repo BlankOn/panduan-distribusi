@@ -5,6 +5,7 @@ Buku Panduan BlankOn XI Uluwatu ini disusun oleh Tim Dokumentasi BlankOn bersama
 
 ## Tim Penyusun Buku Panduan BlankOn XI 
 Tim penyusun buku Panduan BlankOn 11 Uluwatu ini terdiri dari;
+
   * [Faiq Aminuddin](https://github.com/FaiqAminuddin)
   * [TS Faizal](https://github.com/trisfaizal)
   * [Yudha Satya Ami Putra](https://github.com/blu3f4lc0n)
@@ -12,6 +13,7 @@ Tim penyusun buku Panduan BlankOn 11 Uluwatu ini terdiri dari;
 ## Lisensi
 Buku ini menggunakan lisensi Creative Commons Attribution-ShareAlike 3.0 Unported License (CC by SA).
 Singkatnya: buku ini bebas diperjualbelikan, didistribusikan ulang, digandakan, dan dikembangkan dengan syarat:
+
   * Menyantumkan informasi tentang penyusun asli buku ini
   * Menggunakan lisensi yang sama dengan buku ini juga (CC-by-SA) 
 
