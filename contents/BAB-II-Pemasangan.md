@@ -8,7 +8,7 @@ Sebelum melakukan pemasangan, maka perlu diperhatikan terlebih dahulu apakah kom
   * Memori RAM 1 GB
   * Kartu video atau VGA minimal memiliki memori 128 MB atau 512 MB untuk efek desktop.
   * Media Simpan dengan ukuran 12 GB atau lebih.
-  * Menggunakan arsitektur amd 64bit.
+  * Menggunakan arsitektur amd 64 bit.
 
 ## Cara Mendapatkan BlankOn
 Untuk mendapatkan berkas iso BlankOn, Anda bisa mengunduhnya dari situs resmi BlankOn [http://cdimage.blankonlinux.or.id/](http://cdimage.blankonlinux.or.id/). Berkas cetakan tersebut selanjutnya dapat dibuat *bootable* ke Flashdisk atau Harddisk External dengan Unetbootin, cara lainya adalah dengan dibakar ke DVD kosong menggunakan aplikasi pembakar DVD seperti Brasero, K3b, Nero, Roxio, dsb.
@@ -52,7 +52,9 @@ Sebelum melakukan pemasangan BlankOn, lakukan beberapa persiapan seperti berikut
 Jendela yang tampil pertama ketika Anda menjalankan BlankOn XI Uluwatu melalui DVD atau Flashdisk adalah **Pilih Bahasa** dan **Pilih Moda**.
 
 ### Mengatur Bahasa
-Secara baku BlankOn XI Uluwatu menyediakan dua bahasa ketika akan melakukan pemasang, yaitu **Bahasa Inggris** dan **Bahasa Indonesia**, pilih bahasa yang sesuai, dalam buku Panduan ini menggunakan **Antarmuka Bahasa Indonesia**.
+Secara baku BlankOn XI Uluwatu menyediakan dua bahasa ketika akan melakukan pemasang, yaitu **Bahasa Inggris** dan **Bahasa Indonesia**. Pilih bahasa yang sesuai, dalam buku Panduan ini menggunakan **Antarmuka Bahasa Indonesia**.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang02.png)
 
 ### Memilih Moda
 Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu melalui Live DVD/USB tanpa memasangnya ke komputer atau langsung memasangnya pada media simpan.
@@ -60,15 +62,40 @@ Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu me
 ## Memasang BlankOn
 Klik tombol **Pasang BlankOn**
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang03.png)
+
 ### Pilih Zona waktu
 Beberapa saat setelah Anda menekan tombol **Pasang BlankOn**, maka tampil jendela untuk memilih **Zona Waktu** sesuai tempat Anda berada. Contoh, pilih **Asia/Jakarta**, klik tombol **Lanjut** untuk menuju proses berikutnya.
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang04.png)
+
 ### Pilih Media
-Pilih media simpan di komputer Anda sebagai tempat pemasangan BlankOn XI Uluwatu. Jika di komputer Anda terpasang lebih dari satu media simpan, harap berhati-hati dalam memilih media simpan yang akan digunakan. Klik tombol **Lanjut**.
+Klik **Pilih diska...** dan pilih media simpan di komputer Anda sebagai tempat pemasangan BlankOn XI Uluwatu. Jika di komputer Anda terpasang lebih dari satu media simpan, harap berhati-hati dalam memilih media simpan yang akan digunakan. Klik tombol **Lanjut**.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang05.png)
+
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang06.png)
+
+### Memilih Moda Pemasangan
+BlankOn menyediakan dua moda pemasangan;
+1. Pemasangan Bersih
+2. Moda Mahir
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang07.png)
+
+### Pemasangan Bersih
+Bila kita memilih **Pemasangan Bersih**, pada kotak dialog berikutnya akan muncul peringatan;
+>**Peringatan:** Tindakan ini akan menghapus program, dokumen, foto, musik dan berkas lain di semua sistem operasi yang ada.
+
+Bila Anda setuju, klik **lanjut**. Bila Anda tidak setuju, klik **Batal**.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang08.png)
+
 
 ### Memilih Partisi
-Dalam contoh, media simpan/*harddisk* yang akan digunakan masih kosong dan belum memilik partisi, maka Anda perlu membuat partisi secara manual dengan cara menge-klik **Masuk ke moda mahir**.
-    
+Bila media simpan/*harddisk* yang akan digunakan masih kosong dan belum memiliki partisi, maka Anda perlu membuat partisi secara manual dengan cara memilih **Masuk ke moda mahir**.
+
 #### Buat Partisi
 Klik tombol **Buat** untuk mulai membuat partisi.
     
@@ -103,25 +130,50 @@ Klik tombol **Buat** untuk membuat partisi baru pada ruang kosong di media simpa
 #### Personalisasi
 Masukkan informasi tentang nama komputer, nama pengguna serta *password*/kata sandi pengguna. Ketik beberapa informasi tersebut pada kotak yang tersedia. Jika ketika Anda ingin masuk ke destop tanpa harus memasukkan kata sandi,klik dan beri tanda pada kotak di samping kiri **Masuk secara otomatis**. Klik tombol **Lanjut** untuk melanjutkan ke langkah berikutnya.
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang09.png)
+
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang10.png)
+
 #### Ringkasan Pemasangan
 Periksa ringkasan informasi yang telah dibuat sebelumnya. **Ringkasan Pemasangan** berisi keterangan dari Media simpan dan partisi target pemasangan, Nama komputer, Nama pengguna, dan keterangan mode masuk ke destop. Klik tombol **Pasang BlankOn** untuk melakukan pemasangan BlankOn sesungguhnya.
 
 **Catatan:**
   * Jika Anda masih ragu untuk melanjutkan ke proses berikutnya tekan tombol **Kembali** untuk menyunting/*mengedit informasi pada komputer yang akan dipasang BlankOn.
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang11.png)
+
 #### Proses Pemasangan
 Ketika muncul tampilan proses Pemasangan BlankOn yang sedang berlangsung, tunggu beberapa saat hingga selesai.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang12.png)
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang13.png)
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang14.png)
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang15.png)
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang17.png)
+
+Bila pada saat proses pemasangan muncul kotak pesan **blankon-installer is not responding**, Anda tetap dapat melanjutkan pemasangan dengan memilih **Wait* **.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang16.png)
 
 #### Pemasangan Selesai
 Setelah proses pemasangan berhasil maka akan muncul jendela berisi dua pilihan yaitu **Lanjut menggunakan sistem dalam moda live** atau **Mula Ulang**, klik salah satu dari kedua pilihan tersebut sesuai selera Anda.
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang18.png)
+
 ## Pasang BlankOn Berdampingan dengan Sistem Operasi Lain
 Pada sub bab sebelumnya sudah dijelaskan cara memasang BlankOn XI Uluwatu pada media simpan yang masih kosong atau pada komputer yang belum memiliki sistem operasi. Pada sub bab ini akan dijelaskan bagaimana cara memasang BlankOn XI Uluwatu pada komputer yang sudah memiliki sistem operasi tanpa menghapus sistem operasi tersebut, atau dengan kata lain memasang BlankOn berdampingan dengan sistem operasi lain (*dual boot*)
 
-Bila pada media simpan masih ada partisi yang kosong, kita dapat langsung BlankOn pada partisi tersebut. Akak tetapi media simpan sudah tidak memiliki partisi yang masih kosong maka Anda perlu menyiapkan partisi kosong dengan cara memotong salah satu partisi yang sudah ada. Di bawah ini adalah penjelasan singkat cara menyiapkan partisi baru pada komputer yang belum memiliki partisi kosong
+Bila pada media simpan masih ada partisi yang kosong, kita dapat langsung BlankOn pada partisi tersebut. Akan tetapi jika media simpan sudah tidak memiliki partisi yang masih kosong maka Anda perlu menyiapkan partisi kosong dengan cara memotong salah satu partisi yang sudah ada. Di bawah ini adalah penjelasan singkat cara menyiapkan partisi baru pada komputer yang belum memiliki partisi kosong
 
 ### Menyiapkan Partisi
 Nyalakan komputer dan jalan BlankOn XI Uluwatu melalui **live DVD** atau **Flashdisk**, kemudian pilih opsi **Lanjut menggunakan sistem dalam moda live**.
+
+![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang03.png)
 
 ##### Catatan:
   * Jika media simpan di komputer yang akan dipasang BlankOn XI Uluwatu sudah tersedia partisi kosong langsung pilih **Pasang BlankOn**.
@@ -150,6 +202,4 @@ Jika muncul peringatan untuk melakukan perubahan klik **Terapkan Semua Operasi**
 Maka proses penggeseran partisi segera berlangsung. Tunggu hingga selesai, kemudian klik tombol **Tutup**. Lama proses penggeseran partisi tergantung dari banyaknya data dan spesifikasi komputer yang Anda gunakan.
 
 Sekarang Anda sudah memiliki area yang masih kosong pada media simpan yang terpasang di komputer Anda. Area kosong tersebut dapat digunakan sebagai tempat pemasangan sistem operasi baru. Anda dapat langsung membuat partisi baru atau langsung memasang sistem operasi baru pada area kosong tersebut. Dalam  buku ini menggunakan pilih kedua, yaitu memasang langsung sistem operasi baru pada area kosong tersebut, caranya kurang lebih sama dengan memasang BlankOn yang sudah dijelaskan pada sub bab sebelumnya.
-
-
 
