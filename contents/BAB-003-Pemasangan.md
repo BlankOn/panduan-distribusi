@@ -54,7 +54,7 @@ Jendela yang tampil pertama ketika Anda menjalankan BlankOn XI Uluwatu melalui D
 ### Mengatur Bahasa
 Secara baku BlankOn XI Uluwatu menyediakan dua bahasa ketika akan melakukan pemasang, yaitu **Bahasa Inggris** dan **Bahasa Indonesia**. Pilih bahasa yang sesuai, dalam buku Panduan ini menggunakan **Antarmuka Bahasa Indonesia**.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang02.png)
+![](Pasang02.png)
 
 ### Memilih Moda
 Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu melalui Live DVD/USB tanpa memasangnya ke komputer atau langsung memasangnya pada media simpan.
@@ -62,27 +62,27 @@ Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu me
 ## Memasang BlankOn
 Klik tombol **Pasang BlankOn**
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang03.png)
+![](Pasang03.png)
 
 ### Pilih Zona waktu
 Beberapa saat setelah Anda menekan tombol **Pasang BlankOn**, maka tampil jendela untuk memilih **Zona Waktu** sesuai tempat Anda berada. Contoh, pilih **Asia/Jakarta**, klik tombol **Lanjut** untuk menuju proses berikutnya.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang04.png)
+![](Pasang04.png)
 
 ### Pilih Media
 Klik **Pilih diska...** dan pilih media simpan di komputer Anda sebagai tempat pemasangan BlankOn XI Uluwatu. Jika di komputer Anda terpasang lebih dari satu media simpan, harap berhati-hati dalam memilih media simpan yang akan digunakan. Klik tombol **Lanjut**.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang05.png)
+![](Pasang05.png)
 
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang06.png)
+![](Pasang06.png)
 
 ### Memilih Moda Pemasangan
 BlankOn menyediakan dua moda pemasangan;
 1. Pemasangan Bersih
 2. Moda Mahir
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang07.png)
+![](Pasang07.png)
 
 ### Pemasangan Bersih
 Bila kita memilih **Pemasangan Bersih**, pada kotak dialog berikutnya akan muncul peringatan;
@@ -90,7 +90,7 @@ Bila kita memilih **Pemasangan Bersih**, pada kotak dialog berikutnya akan muncu
 
 Bila Anda setuju, klik **lanjut**. Bila Anda tidak setuju, klik **Batal**.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang08.png)
+![](Pasang08.png)
 
 
 ### Memilih Partisi
@@ -130,10 +130,10 @@ Klik tombol **Buat** untuk membuat partisi baru pada ruang kosong di media simpa
 #### Personalisasi
 Masukkan informasi tentang nama komputer, nama pengguna serta *password*/kata sandi pengguna. Ketik beberapa informasi tersebut pada kotak yang tersedia. Jika ketika Anda ingin masuk ke destop tanpa harus memasukkan kata sandi,klik dan beri tanda pada kotak di samping kiri **Masuk secara otomatis**. Klik tombol **Lanjut** untuk melanjutkan ke langkah berikutnya.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang09.png)
+![](Pasang09.png)
 
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang10.png)
+![](Pasang10.png)
 
 #### Ringkasan Pemasangan
 Periksa ringkasan informasi yang telah dibuat sebelumnya. **Ringkasan Pemasangan** berisi keterangan dari Media simpan dan partisi target pemasangan, Nama komputer, Nama pengguna, dan keterangan mode masuk ke destop. Klik tombol **Pasang BlankOn** untuk melakukan pemasangan BlankOn sesungguhnya.
@@ -141,29 +141,29 @@ Periksa ringkasan informasi yang telah dibuat sebelumnya. **Ringkasan Pemasangan
 **Catatan:**
   * Jika Anda masih ragu untuk melanjutkan ke proses berikutnya tekan tombol **Kembali** untuk menyunting/*mengedit informasi pada komputer yang akan dipasang BlankOn.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang11.png)
+![](Pasang11.png)
 
 #### Proses Pemasangan
 Ketika muncul tampilan proses Pemasangan BlankOn yang sedang berlangsung, tunggu beberapa saat hingga selesai.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang12.png)
+![](Pasang12.png)
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang13.png)
+![](Pasang13.png)
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang14.png)
+![](Pasang14.png)
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang15.png)
+![](Pasang15.png)
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang17.png)
+![](Pasang17.png)
 
 Bila pada saat proses pemasangan muncul kotak pesan **blankon-installer is not responding**, Anda tetap dapat melanjutkan pemasangan dengan memilih **Wait* **.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang16.png)
+![](Pasang16.png)
 
 #### Pemasangan Selesai
 Setelah proses pemasangan berhasil maka akan muncul jendela berisi dua pilihan yaitu **Lanjut menggunakan sistem dalam moda live** atau **Mula Ulang**, klik salah satu dari kedua pilihan tersebut sesuai selera Anda.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang18.png)
+![](Pasang18.png)
 
 ## Pasang BlankOn Berdampingan dengan Sistem Operasi Lain
 Pada sub bab sebelumnya sudah dijelaskan cara memasang BlankOn XI Uluwatu pada media simpan yang masih kosong atau pada komputer yang belum memiliki sistem operasi. Pada sub bab ini akan dijelaskan bagaimana cara memasang BlankOn XI Uluwatu pada komputer yang sudah memiliki sistem operasi tanpa menghapus sistem operasi tersebut, atau dengan kata lain memasang BlankOn berdampingan dengan sistem operasi lain (*dual boot*)
@@ -173,7 +173,7 @@ Bila pada media simpan masih ada partisi yang kosong, kita dapat langsung BlankO
 ### Menyiapkan Partisi
 Nyalakan komputer dan jalan BlankOn XI Uluwatu melalui **live DVD** atau **Flashdisk**, kemudian pilih opsi **Lanjut menggunakan sistem dalam moda live**.
 
-![](file:///media/faiq/kartu2gb/panduan-distribusi/CuplikanLayar/Pasang03.png)
+![](Pasang03.png)
 
 ##### Catatan:
   * Jika media simpan di komputer yang akan dipasang BlankOn XI Uluwatu sudah tersedia partisi kosong langsung pilih **Pasang BlankOn**.
