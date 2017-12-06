@@ -1,5 +1,6 @@
 # BAB 1 APA ITU LINUX DAN BLANKON LINUX?
 
+![](file:///media/faiq/kartu2gb/panduan-distribusi/Gambar/logo-blankon.jpg)
 Kata “Linux” saat ini semakin banyak didengar oleh pecinta Teknologi Informasi dan Komunikasi (TIK) di seluruh dunia termasuk di Indonesia. Saat ini, Linux telah menjadi salah satu sistem operasi yang banyak digunakan di berbagai kalangan, seperti kalangan bisnis, pendidikan, dan pemerintahan. Hal ini disebabkan karena Linux bersifat terbuka dan merdeka. Siapapun bisa mengembangkannya dan menggunakannya secara bebas. Linux merupakan kernel atau dasar dari Sistem Operasi yang pertama kali ditulis oleh seorang mahasiswa **Finlandia** bernama **Linus Benedict Torvalds** pada tahun 1991. Hasil karyanya dilisensikan secara bebas dan terbuka (*Free Software*) sehingga siapa pun boleh mengembangkannya.
 
 Kemudian **Richard Stallman**, seorang aktivis perangkat lunak pendiri **Free Sofware Foundation** (FSF) berniat untuk menggabungkan Linux ke dalam proyek sistem operasinya yang bernama **GNU (GNU is Not Unix)**. Karena pada saat itu, proyek GNU sama sekali belum selesai mengimplementasikan kernel sistem operasi. Akhirnya, dengan dirilisnya kernel Linux, terjadilah perkawinan antara peralatan (*tools*) yang dibuat oleh proyek GNU dengan kernel Linux yang dibuat oleh **Linus Torvalds**, sehingga menghasilkan sistem operasi baru bernama **GNU/Linux**, sebuah sistem operasi yang mirip dengan **UNIX**. Kesemua komponen dari sistem operasi GNU/Linux dilisensikan berdasarkan lisensi yang disebut **GNU General Public License (GPL)** yang ditulis sendiri oleh Richard Stallman. Lisensi ini memungkinkan setiap orang untuk secara bebas mengembangkan bahkan menjual Linux dengan syarat semua pengembangan yang telah dilakukan harus juga dipublikasikan kepada umum.
@@ -59,20 +60,20 @@ Setelah tertunda beberapa tahun, di awal tahun 2017, BlankOn X dirilis dengan na
 
 
 
-### Fitur BlankOn 11 Uluwatu
+### Fitur BlankOn XI Uluwatu
 berisikan berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, laptop dan *workstation*. Perangkat lunak yang tersedia juga bisa ditambah dengan perangkat lunak lainnya agar sesuai dengan keperluan.
 
-Secara umum, fitur-fitur dari BlankOn 11 Uluwatu adalah sebagai berikut :
-* BlankOn Desktop - Gabungan dari Manokwari yang terus dikembangkan dan **Gnome ...** [manokwari blankonlinux](http://manokwari.blankonlinux.or.id/)
-* Menggunakan kernel Linux versi **.....** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
+Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut :
+* BlankOn Desktop - Gabungan dari [Manokwari](http://manokwari.blankonlinux.or.id/) dan **Gnome**
+* Menggunakan kernel Linux versi **4.9.30-1** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
 * Perangkat lunak untuk keperluan Anda berkomputer, seperti keperluan perkantoran, grafis, internet, multimedia, dan sebagainya.
 * Antarmuka menggunakan Bahasa Indonesia, sehingga bisa lebih dimengerti oleh orang awam,
 * Sudah menyertakan dukungan format multimedia yang lengkap, seperti untuk memutar mp3, DVD, dan format lainnya,
 * Dukungan pada berbagai aksara daerah di Indonesia sehingga kita dapat menulis aksara Bugis, Batak Toba, Bali, Sunda, Rejang dan Jawa.
 * Menggunakan tema dan tampilan grafis khas Indonesia.
-* GNOME versi .... sebagai lingkungan desktop atau desktop environment yang sangat sederhana, kaya fitur, serta dukungan Manokwari yang mudah digunakan,
+* GNOME versi 3.26.2 sebagai lingkungan desktop atau desktop environment yang sangat sederhana, kaya fitur, serta dukungan Manokwari yang mudah digunakan,
 * **LibreOffice versi ....** untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
-* Peramban web Firefox untuk mengakses situs Internet,
+* Peramban web **Firefox Quantum** untuk mengakses situs Internet,
 * Dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
 
 
