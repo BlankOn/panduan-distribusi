@@ -1,3 +1,4 @@
+\newpage
 # Ihwal Buku
 
 Buku Panduan BlankOn XI Uluwatu ini disusun oleh Tim Dokumentasi BlankOn bersama beberapa kontributor. Buku ini dikembangkan dari buku panduan BlankOn X Tambora yang ditulis dengan lisensi CC by SA oleh Tim Dokumentasi BlankOn sebelumnya; [Sokibi](istanalinux@gmail.com) (koordinator), [Umul Sidikoh](umulsidikoh@gmail.com), [Faiq Aminuddin](dampuawang@gmail.com), [TS Faizal](trisfaizal@gmail.com), dan [Dicky Bagus](dicky.bagus@gmail.com). Adapun sampul buku panduan BlankOn X Tambora adalah karya Muhammad Irfan.

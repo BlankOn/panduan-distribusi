@@ -1,5 +1,5 @@
-<span id="anchor-102"></span> Aplikasi Perkantoran
-==================================================
+\newpage
+# Aplikasi Perkantoran
 
 Untuk kebutuhan perkantoran, BlankOn menyediakan sebuah paket aplikasi
 perkantoran yang bernama LibreOffice. LibreOffice merupakan aplikasi

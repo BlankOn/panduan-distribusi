@@ -1,3 +1,4 @@
+\newpage
 # Destop BlankOn
 
 BlankOn menyediakan lingkungan kerja atau *desktop environment* yang sangat mudah digunakan bernama [Manokwari](http://manokwari.blankonlinux.or.id/). Destop ini sederhana, namun lengkap dari sisi fitur. Pada bab ini, dijelaskan mengenai pengenalan bagian serta pengaturan pada destop BlankOn untuk keperluan bekerja sehari-hari. 

@@ -1,3 +1,4 @@
+\newpage
 # Manajemen Paket BlankOn XI Uluwatu
 
 Bab ini menjelaskan tentang cara memasang, menghapus dan merawat perangkat lunak pada BlankOn XI Uluwatu. BlankOn Linux sudah menyertakan berbagai perangkat lunak untuk keperluan dasar seperti aplikasi perkantoran, multimedia, internet, grafis, dan lain-lain. Anda juga dapat melakukan pemasangan perangkat lunak baru yang Anda inginkan sesuai dengan keperluan.

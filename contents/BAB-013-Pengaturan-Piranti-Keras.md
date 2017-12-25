@@ -1,5 +1,5 @@
-<span id="anchor-196"></span> Pengaturan Perangkat Keras
-========================================================
+\newpage
+# Pengaturan Perangkat Keras
 
 Pengaturan perangkat keras yang terpasang di komputer menggunakan
 BlankOn sangat mudah sekali. Anda hampir tidak perlu melakukan
@@ -26,8 +26,7 @@ Beberapa produsen perangkat keras mulai maju untuk mengembangkan
 driver-nya untuk Linux mengingat Linux semakin populer saat ini sebagai
 sistem operasi untuk Desktop.
 
-<span id="anchor-197"></span>Konfigurasi Monitor
-------------------------------------------------
+## Konfigurasi Monitor
 
 Konfigurasi monitor di BlankOn sudah diatur sedemikian rupa, sehingga
 resolusi layar monitor sesuai dengan kemampuan monitor yang Anda miliki.

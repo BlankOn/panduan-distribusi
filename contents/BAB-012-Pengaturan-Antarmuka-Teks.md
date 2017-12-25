@@ -1,5 +1,5 @@
-<span id="anchor-178"></span> Pengenalan Antar Muka Teks
-========================================================
+\newpage
+# Pengenalan Antar Muka Teks
 
 Antarmuka dasar untuk pengoperasian sistem operasi Linux sebenarnya
 adalah antarmuka berbasis teks, atau sering disebut Command Line.

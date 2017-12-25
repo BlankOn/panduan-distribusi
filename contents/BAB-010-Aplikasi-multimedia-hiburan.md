@@ -1,5 +1,5 @@
-<span id="anchor-151"></span> Aplikasi Multimedia dan Hiburan
-=============================================================
+\newpage
+# Aplikasi Multimedia dan Hiburan
 
 BlankOn menyediakan berbagai aplikasi multimedia dan hiburan yang bisa
 menghibur Anda di saat sibuk bekerja untuk berproduktivitas. Selain itu,

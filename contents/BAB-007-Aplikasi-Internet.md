@@ -1,5 +1,5 @@
-<span id="anchor-89"></span> Aplikasi Internet
-==============================================
+\newpage
+# Aplikasi Internet
 
 Seperti yang kita ketahui bahwa internet telah menciptakan revolusi yang
 sangat tidak terduga dalam dunia teknologi, informasi maupun komunikasi.

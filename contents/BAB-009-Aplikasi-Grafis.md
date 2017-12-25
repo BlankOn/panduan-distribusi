@@ -1,4 +1,7 @@
-<span id="anchor-127"></span>Penyunting Bitmap/Raster GIMP
+\newpage
+# Aplikasi Grafis
+
+## Penyunting Bitmap/Raster GIMP
 ----------------------------------------------------------
 
 Untuk keperluan editing gambar/foto yang berbasis bitmap, BlankOn

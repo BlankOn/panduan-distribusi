@@ -1,6 +1,5 @@
-<span id="anchor-209"></span>  Kemana Selanjutnya? 
-==================================================
-
+\newpage
+# Penutup
 <span id="anchor-210"></span>Umpan Balik 
 -----------------------------------------
 

@@ -1,3 +1,4 @@
+\newpage
 # Memasang BlankOn
 
 Bab ini membahas bagaimana cara memasang BlankOn pada komputer. Pemasangan BlankOn akan sangat mudah dilakukan apabila Anda sudah memahami persiapan dan langkah-langkah apa saja yang perlu dilakukan.

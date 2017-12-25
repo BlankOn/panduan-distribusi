@@ -1,3 +1,4 @@
+\newpage
 # Apa Itu Linux dan BlankOn Linux?
 
 ![](Gambar/logo-blankon.jpg)

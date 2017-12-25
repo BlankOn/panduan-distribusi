@@ -1,5 +1,6 @@
-<span id="anchor-67"></span> Menggunakan Peramban Berkas
-========================================================
+\newpage
+# Menggunakan Peramban Berkas
+
 
 Untuk melakukan manajemen berkas di komputer yang menggunakan sistem
 operasi BlankOn, Anda dapat menggunakan peramban berkas yang bernama

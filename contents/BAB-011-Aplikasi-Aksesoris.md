@@ -1,5 +1,5 @@
-<span id="anchor-163"></span> Aplikasi Aksesoris
-================================================
+\newpage
+# Aplikasi Aksesoris
 
 Bagi sebagian orang, memiliki komputer yang mempunyai semua aplikasi
 yang dibutuhkan dalam kegiatannya setiap hari mungkin menjadi kebutuhan
