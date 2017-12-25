@@ -17,10 +17,13 @@ Sebagai suatu sistem operasi, Linux secara umum memiliki berbagai kelebihan dan 
 * Linux memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk keperluan laptop, desktop dan server. Jika perangkat lunak yang tersedia terasa kurang, Anda dapat menambahkannya dengan mudah melalui repository yang tersedia.
 * Linux sangat stabil karena jarang sekali *crash* maupun *hang*. Anda juga tidak perlu selalu melakukan *restart* jika melakukan konfigurasi sistem.
 * Linux lebih aman terhadap virus, karena selain jumlah virus di Linux sangat sedikit. Linux juga sangat ketat dalam hal **pengelolaan keamanan**.
-* Perbaikan kutu (*bug*) atau cacat yang terdapat di Linux sangat cepat, karena Linux dikembangkan secara komunitas dan setiap komunitas bisa memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut.  Apapun yang memiliki kelebihan pasti memiliki kekurangan, karena pada hakikatnya apa yang diciptakan oleh manusia tidak akan pernah sempurna. Berikut adalah berbagai kekurangan dari Linux :
+* Perbaikan kutu (*bug*) atau cacat yang terdapat di Linux sangat cepat, karena Linux dikembangkan secara komunitas dan setiap komunitas bisa memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut.
 
-1. Linux kurang memiliki dukungan dari produsen perangkat keras dalam hal penyediaan perangkat **lunak pengendali (driver)**. Hampir semua perangkat lunak pengendali yang saat ini ada di Linux merupakan hasil jerih payah komunitas, dan sebagian kecil murni dukungan dari produsen perangkat keras.
-2. Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan permbuat **permainan** masih menggunakan sistem operasi Microsoft Windows sebagai platform mereka.
+## Kekurangan Linux
+Apapun yang memiliki kelebihan pasti memiliki kekurangan, karena pada hakikatnya apa yang diciptakan oleh manusia tidak akan pernah sempurna. Berikut adalah berbagai kekurangan dari Linux :
+
+* Linux kurang memiliki dukungan dari produsen perangkat keras dalam hal penyediaan perangkat **lunak pengendali (driver)**. Hampir semua perangkat lunak pengendali yang saat ini ada di Linux merupakan hasil jerih payah komunitas, dan sebagian kecil murni dukungan dari produsen perangkat keras.
+* Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan permbuat **permainan** masih menggunakan sistem operasi Microsoft Windows sebagai platform mereka.
 
 ## Apa itu BlankOn Linux?
 
@@ -64,7 +67,8 @@ Setelah tertunda beberapa tahun, di awal tahun 2017, BlankOn X dirilis dengan na
 ### Fitur BlankOn XI Uluwatu
 berisikan berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, laptop dan *workstation*. Perangkat lunak yang tersedia juga bisa ditambah dengan perangkat lunak lainnya agar sesuai dengan keperluan.
 
-Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut :
+Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut:
+
 * BlankOn Desktop - Gabungan dari [Manokwari](http://manokwari.blankonlinux.or.id/) dan **Gnome**
 * Menggunakan kernel Linux versi **4.9.30-1** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
 * Perangkat lunak untuk keperluan Anda berkomputer, seperti keperluan perkantoran, grafis, internet, multimedia, dan sebagainya.
@@ -73,7 +77,7 @@ Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut :
 * Dukungan pada berbagai aksara daerah di Indonesia sehingga kita dapat menulis aksara Bugis, Batak Toba, Bali, Sunda, Rejang dan Jawa.
 * Menggunakan tema dan tampilan grafis khas Indonesia.
 * GNOME versi 3.26.2 sebagai lingkungan desktop atau desktop environment yang sangat sederhana, kaya fitur, serta dukungan Manokwari yang mudah digunakan,
-* **LibreOffice versi ....** untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
+* **LibreOffice versi** untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
 * Peramban web **Firefox Quantum** untuk mengakses situs Internet,
 * Dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
 
@@ -102,20 +106,23 @@ Tim ini bertanggung jawab dalam melakukan riset dan menyediakan solusi dalam sua
 Bertanggung jawab terhadap tugas-tugas operasional infrastruktur BlankOn, yaitu menjaga ketersediaan dan kualitas layanan infrastruktur. Artinya, Tim ini harus tanggap terhadap masalah pada ketersediaan layanan (server tidak boleh mati, dsb), dan juga masalah kualitas (kecepatan akses tidak boleh lambat, dst). Tim ini juga bertanggung jawab terhadap instalasi-instalasi layanan yang baru, baik fisik maupun perangkat lunak. Tim ini dibagi berdasarkan jenis layanan yang disediakan, diantaranya:
 
     * Umum: Tim ini menangani hal-hal administrasi umum, termasuk (namun tidak terbatas pada):
-      * Akun SSH
-      * Layanan web
-      * bzr/git
+      	
+	* Akun SSH
+      	* Layanan web
+      	* bzr/git
 
     * Lumbung paket
 Tim ini menangani operasional lumbung paket, termasuk (namun tidak terbatas pada):
-      * Membuka kunci lumbung
-      * Membuat komponen baru
-      * Sinkronisasi antara server
-      * Menambah/hapus paket secara manual
-      * DVDRepo
+
+      	* Membuka kunci lumbung
+      	* Membuat komponen baru
+      	* Sinkronisasi antara server
+      	* Menambah/hapus paket secara manual
+      	* DVDRepo
 
     * Pabrik
 Tim ini menangani operasional pabrik-pabrik, baik pabrik paket maupun pabrik CD. Tugas-tugasnya termasuk (namun tidak terbatas pada):
+
       * Menjalankan/menghentikan pabrik
       * Menambah tugas pabrik secara manual
       * Membantu pemaket melakukan sidik gangguan saat ada kegagalan pengiriman paket
@@ -137,7 +144,8 @@ Tim ini bertanggung jawab dalam menyediakan informasi baru, kliping tentang Blan
 Tim ini bertanggung jawab dalam kegiatan yang berhubungan dengan bisnis komersial. Tim ini dipandu oleh YPLI. Jika Anda berminat untuk menjadi pengembang BlankOn Linux, silahkan membuat akun baru di situs pengembangan BlankOn Linux yaitu  http://dev.blankonlinux.or.id  dan bergabung di milis pengembang BlankOn Linux di blankon-dev@…. Anda bisa memilih menjadi salah satu dari tim yang disebutkan di atas. Kontribusi dari Anda sangat diperlukan agar BlankOn Linux bisa menjadi lebih baik.
 
 ## Tautan dan Umpan Balik
-Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai distro BlankOn Linux :
+Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai distro BlankOn Linux:
+
   * http://www.blankonlinux.or.id, situs resmi BlankOn Linux.
   * http://cdimage.blankonlinux.or.id, halaman web untuk mengunduh distro BlankOn Linux.
   * http://dev.blankonlinux.or.id, situs wiki untuk informasi pengembangan distro BlankOn Linux.
