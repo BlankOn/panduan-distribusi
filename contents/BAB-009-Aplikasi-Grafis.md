@@ -2,7 +2,6 @@
 # Aplikasi Grafis
 
 ## Penyunting Bitmap/Raster GIMP
-----------------------------------------------------------
 
 Untuk keperluan editing gambar/foto yang berbasis bitmap, BlankOn
 menyediakan aplikasi bernama GIMP (www.gimp.org). Aplikasi ini merupakan
@@ -275,9 +274,6 @@ Dengan seringnya menggunakan tombol pintas tertentu pada papan tik, maka
 secara otomatis Anda akan hapal dengan sendirinya. Pengaturan dari
 tiap-tiap palat ada kotak alat dapat dilakukan melalui **Alat Opsi**
 yang secara baku berada di bawah **Kotak Alat**.
-
-  -------------------------- -------------------
-  -------------------------- -------------------
 
 Terdapat 33 jenis alat dalam kotak alat utama ini. Cukup banyak untuk
 penggunaan sehari-hari. Setiap alat akan diikuti dengan beberapa opsi
