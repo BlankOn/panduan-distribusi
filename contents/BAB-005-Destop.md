@@ -1,17 +1,18 @@
 \newpage
 # Destop BlankOn
 
-BlankOn menyediakan lingkungan kerja atau *desktop environment* yang sangat mudah digunakan bernama [Manokwari](http://manokwari.blankonlinux.or.id/). Destop ini sederhana, namun lengkap dari sisi fitur. Pada bab ini, dijelaskan mengenai pengenalan bagian serta pengaturan pada destop BlankOn untuk keperluan bekerja sehari-hari. 
-Sesaat setelah komputer dinyalakan, akan tampil destop BlankOn. Destop BlankOn terdiri dari dua bagian utama, yaitu **Latar Belakang** dan **Menu Favorit**. 
+BlankOn menyediakan lingkungan kerja atau *desktop environment* yang sangat mudah digunakan bernama [Manokwari](http://manokwari.blankonlinux.or.id/). Destop ini sederhana, namun lengkap dari sisi fitur. Pada bab ini, dijelaskan mengenai pengenalan bagian serta pengaturan pada destop BlankOn untuk keperluan bekerja sehari-hari.
+
+Sesaat setelah komputer dinyalakan, akan tampil destop BlankOn. Destop BlankOn terdiri dari dua bagian utama, yaitu **Latar Belakang** dan **Menu Favorit**.
 
 ## Mengenal Destop BlankOn
   * Area kerja
 Area kerja merupakan tempat di mana jendela-jendela aplikasi ditempatkan serta ikon-ikon destop ditampilkan. 
-  
-  * Panel
-Panel berisi ikon-ikon dan objek yang membantu Anda dalam bekerja. Panel bawaan di BlankOn menggunakan panel yang merupakan pengembangan mandiri dari pengembang BlankOn yang diberi nama Manokwari. Berikut adalah bagian-bagian dari Manokwari: 
 
-### Menu Utama 
+  * Panel
+Panel berisi ikon-ikon dan objek yang membantu Anda dalam bekerja. Panel bawaan di BlankOn menggunakan panel yang merupakan pengembangan mandiri dari pengembang BlankOn yang diberi nama Manokwari. Berikut adalah bagian-bagian dari Manokwari:
+
+### Menu Utama
 Menu Utama digunakan untuk membuka suatu aplikasi atau perintah tertentu. Ketika menu utama diklik maka secara otomatis muncul beberapa menu berdasarkan kelompok aplikasi dan perintah penting tertentu. Menu Utama berbentuk logo **BlankOn** dan berada di pojok kiri atas.
 
 ### Bilah Aplikasi
@@ -58,6 +59,7 @@ Panel Kanan terdriri dari 4 bagian;
 
 #### Bookmarks
 Bookmarks berisi tautan untuk membuka laman;
+
   - Laman BlankOn: blankonlinux.or.id
   - Laman Panduan BlankOn: panduan.blankonlinux.or.id
   - Grup BlankOn di Facebook: facebook.com/groups/blankonlinux
@@ -65,19 +67,22 @@ Bookmarks berisi tautan untuk membuka laman;
 
 #### Music Player
 Music Player berisi tombol-tombol pemutar musik (Audacious). Ada 5 tombol;
+
 - Stop/Quit : Mematikan aplikasi
 - Previous : Memutar kembali musik sebelumnya (dalam daftar musik yang sedang diputar)
 - Play/Pause : Memutar atau menjeda 
 - Next : Memutar musik selanjutnya (dalam daftar musik yang sedang diputar).
 - Repeat : mengulang pemutaran musik.
     
-#### 4.1.7.3.  Weather
+#### Weather
 Weather menyajikan prakiraan cuaca setempat yang meliputi suhu dan kecerahan dalam sepekan. Pada weather terdapat dua tombol;
+
 - Ikon roda gerigi untuk membuka panel opsi sehingga kita dapat menentukan lokasi, satuan suhu, mph atau kph atau m/s, dan memilih warna latar.
 - Ikon lingkaran berpanah untuk memuat ulang data cuaca yang ditampilkan
 
-#### 4.1.7.4.  System Settings
+#### System Settings
 System Settings menampilkan tautan-tautan untuk membuka panel pengaturan;
+
 - Latar Belakang
 - Pengguna
 - Tanggal & Waktu
@@ -102,11 +107,13 @@ Untuk membuka suatu aplikasi pada BlankOn, Anda bisa memanfaatkan menu Aplikasi 
 
 ### Tombol Pintas 
 Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jendela aplikasi, Anda bisa menggunakan tombol pintas atau keyboard shortcut tertentu yang setiap perpaduannya memiliki fungsi khusus. Berikut adalah penjelasan masing-masing tombol pintas: 
+
 ##### Tombol Pintas Fungsi 
-| Tombol Pintas  | Keterangan  |
-| :---------------------- |:-----------------------------------------------------------------|
+
+| Tombol Pintas  	| 				Keterangan			  	|
+| ---------------------- |-----------------------------------------------------------------|
 | PrtSc / SysRq           | Mengambil tangkapan layar pada destop.                            |
-| Alt + Prt Sc            |  Mengambil tangkapan layar dari jendela yang sedang aktif.        |
+| Alt + Prt Sc            | Mengambil tangkapan layar dari jendela yang sedang aktif.        |
 | Alt + Tab               | Berpindah antar jendela yang sedang aktif.                        | 
 | Ctrl + Alt + Left/Right | Cursor Berpindah antara area kerja.                               | 
 | Alt+F4                  | Menutup jendela yang sedang aktif.                                | 
@@ -138,6 +145,7 @@ Anda dapat mengganti gambar latar belakang pada destop dengan gambar koleksi mil
  
 ## Pengaturan Pengguna
 Sistem operasi BlankOn merupakan sistem operasi multiuser atau banyak pengguna. Linux bisa digunakan oleh banyak pengguna yang memiliki ruang dan lingkungan masing-masing. Setiap pengguna juga memiliki nama akun pengguna (userid) dan kata sandi. Nama pengguna dan sandi ini akan diminta pada saat pertama kali menjalankan BlankOn. Oleh karena itu, pengetahuan tentang manajemen pengguna sangat dibutuhkan dalam mempelajari BlankOn. Baik bagi mereka yang sekadar pengguna rumahan yang hanya memilik satu jenis pengguna di sistem mereka, ataupun mereka yang bertindak sebagai sistem administrator. 
+
 Untuk melakukan pengaturan informasi pribadi seperti nama, foto, kata sandi dan sebagainya untuk disimpan oleh sistem, Anda bisa membuka pengaturannya dengan klik **Pengaturan => Sistem => Pengguna**. Sebelum melakukan pengaturan Anda harus **Membuka Kunci** dengan cara klik tombol **Buka Kunci**. Masukkan **sandi Administrator** untuk pembukaan kunci tersebut. 
 
 ### Tambah Pengguna
@@ -147,7 +155,9 @@ Untuk menambahkan akun, klik **tombol + (tambah)** dipojok kiri bawah, maka sege
 - Nama pengguna: user1
 
 Lakukan juga pengaturan sandi untuk pengguna yang akan ditambahkan, yaitu dengan klik **set a password now**, kemudian isikan/ketik sandi Anda pada **kotak Sandi**, ketik ulang sandi yang sama pada kotak **Verifikasi**, jika semua pengaturan sudah selesai, klik tombol **Tambah** untuk menerapkan proses penambahan pengguna baru.
+
 Maka segera muncul jendela konfirmasi yang meminta sandi, ketik Sandi Adminstrator Anda, kemudian tekan tombol **Authenticate**.
+
 Sekarang, Anda bisa melihat pengguna baru pada daftar pengguna. Untuk menggunakan sistem dengan pengguna yang baru ditambahkan tadi, silakan keluar dari destop BlankOn melalui **menu utama BlankOn => Sessions => Keluar (logout)**, kemudian masuk menggunakan akun yang sudah ditambahkan.
 
 ### Mengganti Gambar Pengguna
@@ -155,7 +165,7 @@ Untuk mengganti gambar akun, tombol **Buka kunci**, ketik sandi **Administrator*
 Jika ingin menggunakan gambar yang tersimpan di komputer, klik **Ramban lebih banyak gambar**..., kemudian lakukan pencarian pada folder dimana Anda meletakkan gambar yang ingin digunakan, klik gambar tersebut kemudian klik tombol **buka** di pojok kanan atas jendela, atur besarnya tampilan gambar, kemudian klik **Pilih**.
 
 ### Hapus Pengguna 
-Untuk menghapus pengguna yang sudah ada, klik ikon **gembok** atau tulisan **Buka kunci** di sebelah kanan atas. Anda akan ditanyakan kata sandi, ketikkan kata sandi **Administrator** Anda,   klik tombol **Authenticate**, kemudian klik pengguna yang akan dihapus, setelah itu klik pada tombol **- (minus)** yang terletak di sebelah kiri bagian bawah pada menu pengaturan pengguna. 
+Untuk menghapus pengguna yang sudah ada, klik ikon **gembok** atau tulisan **Buka kunci** di sebelah kanan atas. Anda akan ditanyakan kata sandi, ketikkan kata sandi **Administrator** Anda, klik tombol **Authenticate**, kemudian klik pengguna yang akan dihapus, setelah itu klik pada tombol **- (minus)** yang terletak di sebelah kiri bagian bawah pada menu pengaturan pengguna. 
 
 ### Privasi
 Privasi dapat digunakan untuk mengontrol bagian dekstop yang dapat dilihat oleh pihak lain. Anda juga dapat menggunakan pengaturan Privasi untuk membersihkan riwayat penggunaan komputer dan berkas-berkas/file yang tidak diperlukan.
@@ -178,18 +188,24 @@ Anda dapat mengatur pemberitahuan agar tampil secara otomatis dengan melakukan k
 Layanan lokasi ini dapat aktif bila komputer terhubung dengan internet
        
 #### Pemakaian & Riwayat 
-Dengan menyalakan Pemakaian & Riwayat, komputer akan mencatat riwayat penggunaan komputer seperti berkas apa saja yang telah dibuka. Pencatatan riwayat ini dapat mempermudah Anda bila hendak membuka atau menggunakan kembali berkas-berkas tersebut. Anda juga dapat mengatur jangka waktu penyimpanan riwayat (selama 1, 7, atau 30 hari atau bahkan selamanya/tanpa batasan). Pada bagian bawah kotak dialog Pemakaian & Riwayat, ada tombol **Bersihkan Riwayat Baru-baru Ini**.
+Dengan menyalakan Pemakaian & Riwayat, komputer akan mencatat riwayat penggunaan komputer seperti berkas apa saja yang telah dibuka. Pencatatan riwayat ini dapat mempermudah Anda bila hendak membuka atau menggunakan kembali berkas-berkas tersebut. 
+
+Anda juga dapat mengatur jangka waktu penyimpanan riwayat (selama 1, 7, atau 30 hari atau bahkan selamanya/tanpa batasan). Pada bagian bawah kotak dialog Pemakaian & Riwayat, ada tombol **Bersihkan Riwayat Baru-baru Ini**.
 
 #### Kosongkan Tong Sampah & Berkas Temporer
 Berkas-berkas pada Tong Sampah dan Berkas-berkas Temporer dapat dihapus baik secara manual maupun secara otomatis. Pada tatanan Privasi, Anda dapat menyalakan dan mengatur pembersihan berkas-berkas pada tong sampah dan atau berkas-berkas temporer.
+
 Anda juga dapat mengatur jangka waktu pembersihan berkas pada tong sampah dan atau berkas temporer secara otomatis (setiap 1 jam, 1 hari, 7 hari, 14 hari, atau 30 hari).
 Pada bagian bawah kotak dialog Kosongkan Tong Sampah & Berkas Temporer terdapat dua tombol pembersihan secara langsung;
+
 - Kosongkan Tong Sampah
 - Bersihkan Berkas Temporer
 
 ### Mengunci Layar 
 Jika Anda akan meninggalkan komputer dalam keadaan hidup dan Anda tidak ingin komputer diutak-atik oleh orang lain, Anda bisa mengunci layar komputer tersebut. Sehingga, jika ingin kembali bekerja dengan destop, Anda harus kembali memasukkan sandi terlebih dahulu. 
+
 Untuk melakukan hal ini, Anda bisa mengaktifkan fitur kunci layar dengan klik **menu utama BlankOn => Session => Kunci Layar (Lock Screen)**, atau dengan menekan tombol **Ctrl+Alt+l** pada **papan tik**. 
+
 Pada kondisi terkunci, tampilan monitor komputer akan lansung dalam keadaan blank. Jika ingin mengaktifkan destop, geser mouse atau tekan sembarang tombol di keyboard, masukkan sandi Anda, kemudian klik tombol Buka Kunci (Unlock) kembali. 
 
 ### Mengakhiri Sesi 
@@ -199,4 +215,6 @@ Untuk mengakhiri sesi bekerja Anda di BlankOn tanpa mematikan komputer, caranya 
 Untuk menghidupkan ulang komputer saat sedang digunakan, **menu utama BlankOn => Session => Nyalakan Ulang (Restart) => Nyalakan Ulang Seakrang (Restart Now)**.
 
 ### Mematikan Komputer 
-Untuk mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Matikan   (Shutdown)** lalu klik tombol **Matikan Sekarang (Shutdown Now)** maka komputer secara otomatis akan mati sendiri.
+Untuk mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Matikan (Shutdown)** lalu klik tombol **Matikan Sekarang (Shutdown Now)** maka komputer secara otomatis akan mati sendiri.
+
+
