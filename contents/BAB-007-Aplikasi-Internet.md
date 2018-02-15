@@ -5,11 +5,9 @@ Seperti yang kita ketahui bahwa internet telah menciptakan revolusi yang
 sangat tidak terduga dalam dunia teknologi, informasi maupun komunikasi.
 Kini, Internet menjadi kebutuhan yang sangat penting bagi setiap orang
 untuk mengakses informasi atau berkomunikasi dengan orang lain di
-seluruh penjuru dunia. Pengertian internet (*interconnection
-networking*) sendiri adalah jaringan komunikasi global yang terbuka dan
+seluruh penjuru dunia. Pengertian internet sendiri adalah jaringan komunikasi global yang terbuka dan
 menghubungkan jutaan, bahkan milyaran jaringan komputer dengan berbagai
-tipe dan jenis, dengan menggunakan tipe komunikasi seperti **telepon,
-satelit dan lain sebagainya**.
+tipe dan jenis, dengan menggunakan tipe komunikasi seperti telepon, satelit dan lain sebagainya.
 
 Pada masa kini biaya untuk jaringan Internet sudah tidak semahal seperti
 pada saat pertama kali diperkenalkan. Bahkan, beberapa tempat umum
@@ -22,11 +20,11 @@ surat elektronik dan pesan instan.
 
 ## <span id="anchor-90"></span>Koneksi ke Jaringan Internet
 
-Ada berbagai macam koneksi ke internet, baik yang mengunakan kabel (*wire*) maupun yang tanpa kabel (*wireless*). Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus menyambungkan komputer ke jaringan Internet. Untuk tersambung dengan insternet kita dapat memilih LAN, Wi-Fi, Modem 3G/HSDPA, atau Modem ADSL.
+Ada berbagai macam koneksi ke internet, baik yang mengunakan kabel (*wire*) maupun yang tanpa kabel (*wireless*). Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus menyambungkan komputer ke jaringan Internet. Untuk tersambung dengan internet kita dapat memilih LAN, Wi-Fi, Modem 3G/HSDPA, atau Modem ADSL.
 
 ### <span id="anchor-91"></span>Melalui kabel LAN 
 
-Pada umumnya, tempat-tempat kerja menyediakan jaringan Internet melalui jaringan kabel (wired). Untuk melakukan koneksi internet melalui kabel, cukup **sambungkan kabel RJ-45 dari jaringan LAN Anda ke LANCard atau NIC** yang ada di komputer atau laptop Anda. Jika muncul pesan bahwa sambungan sudah terjalin pada area notifikasi, berarti komputer telah sukses bergabung dengan jaringan tanpa masalah.
+Pada umumnya, tempat-tempat kerja menyediakan jaringan Internet melalui jaringan kabel. Untuk melakukan koneksi internet melalui kabel, cukup sambungkan kabel RJ-45 dari jaringan LAN Anda ke LANCard atau NIC yang ada di komputer atau laptop Anda. Jika muncul pesan bahwa sambungan sudah terjalin pada area notifikasi, berarti komputer telah sukses bergabung dengan jaringan tanpa masalah.
 
 Isilah kotak teks **DNS Servers** dengan nomor IP dari DNS Server di Internet, apabila ada lebih dari satu DNS Server bisa menambahkannya dengan dipisah tanda koma (“,”). Anda bisa menanyakan bagaimana pengaturan jaringan di tempat Anda kepada administrator jaringan di tempat Anda.
 
@@ -43,7 +41,8 @@ Untuk melakukan koneksi Internet melalui hotspot, sangat mudah sekali. Jika kart
 
 Jika ternyata koneksi tidak terjalin, mungkin Anda perlu melakukan penyetelan konfigurasi jaringan secara manual;
 
-  - Klik kanan pada ikon koneksi jaringan pada area notifikasi,   _ klik menu **Sunting sambungan**
+  - Klik kanan pada ikon koneksi jaringan pada area notifikasi, 
+  - klik menu **Sunting sambungan**
   - **Buka Nirkabel**, pada tab ini, klik pada **nama jaringan** yang ingin Anda atur yang diawali dengan teks **Auto**,
   - klik pada tombol **Ubah**.
   - buka tab **Pengaturan IPv4**, 
@@ -55,7 +54,7 @@ Sekarang, Anda bisa mengulangi melakukan koneksi ke jaringan hotspot yang sudah 
 
 ### <span id="anchor-93"></span>Melalui modem ADSL 
 
-Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan telepon PSTN. Penggunaan modem ADSL tidak serepot menggunakan ISP berbasis radio yang menjamur saat ini, karena tidak perlu membangun tower yang tinggi. Cukup mengandalkan jaringan telpon PSTN yang sudah terpasang. Biasanya, modem ADSL yang ada saat ini sekaligus berfungsi sebagai router untuk jaringan. Anda cukup menyambungkan kabel LAN RJ-45 dari modem ADSL ke **LAN Card ** pada komputer, maka komputer akan langsung melakukan koneksi terhadap modem tersebut. Tidak akan lama, koneksi akan terjalin dan Anda bisa mulai ber-internet ria.
+Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan telepon PSTN. Penggunaan modem ADSL tidak serepot menggunakan ISP berbasis radio yang menjamur saat ini, karena tidak perlu membangun tower yang tinggi. Cukup mengandalkan jaringan telpon PSTN yang sudah terpasang. Biasanya, modem ADSL yang ada saat ini sekaligus berfungsi sebagai router untuk jaringan. Anda cukup menyambungkan kabel LAN RJ-45 dari modem ADSL ke **LAN Card** pada komputer, maka komputer akan langsung melakukan koneksi terhadap modem tersebut. Tidak akan lama, koneksi akan terjalin dan Anda bisa mulai ber-internet ria.
 
 ### <span id="anchor-94"></span>Melalui Mobile Broadband
 

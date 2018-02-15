@@ -71,16 +71,18 @@ berisikan berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, la
 Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut:
 
 * BlankOn Desktop - Gabungan dari [Manokwari](http://manokwari.blankonlinux.or.id/) dan **Gnome**
-* Menggunakan kernel Linux versi **4.9.30-1** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
+* Menggunakan kernel Linux versi **3.26.2** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
 * Perangkat lunak untuk keperluan Anda berkomputer, seperti keperluan perkantoran, grafis, internet, multimedia, dan sebagainya.
 * Antarmuka menggunakan Bahasa Indonesia, sehingga bisa lebih dimengerti oleh orang awam,
 * Sudah menyertakan dukungan format multimedia yang lengkap, seperti untuk memutar mp3, DVD, dan format lainnya,
 * Dukungan pada berbagai aksara daerah di Indonesia sehingga kita dapat menulis aksara Bugis, Batak Toba, Bali, Sunda, Rejang dan Jawa.
 * Menggunakan tema dan tampilan grafis khas Indonesia.
 * GNOME versi 3.26.2 sebagai lingkungan desktop atau desktop environment yang sangat sederhana, kaya fitur, serta dukungan Manokwari yang mudah digunakan,
-* **LibreOffice versi** untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
-* Peramban web **Firefox Quantum** untuk mengakses situs Internet,
-* Dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
+* LibreOffice versi 6.0.1.1 untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
+* peramban web **Firefox Quantum** 58.0.1 dan **Midori** untuk mengakses situs Internet,
+* Inkscape 0.92 untuk keperluan desain grafis dan Gimp 2.8.20 untuk mengolah foto,
+* Vim 8.0.1453 untuk menulis dan menyuting berbagai berkas berbasis teks melalui Terminal.
+* dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
 
 
 ### Pengembangan BlankOn Linux
