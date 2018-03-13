@@ -26,7 +26,7 @@ Selain lumbung paket resmi, juga terdapat lumbung paket-lumbung paket lainnya ya
   * [http://pandawa.ipb.ac.id/blankon](http://pandawa.ipb.ac.id/blankon) (Institut Pertanian Bogor)
 
 ## Pengaturan Lumbung Paket
-Untuk melakukan pengaturan lumbung paket APT, klik Menu utama **BlankOn** => **Sistem** => **Administrator** => **Manajer Paket Synaptic**. Setelah Manajer Paket Synaptic terbuka, **Pengaturan** => **Repositori**. Berikut adalah cara-cara pengaturan lumbung paket dari setiap jenis sumber.
+Untuk melakukan pengaturan lumbung paket APT, klik Menu utama **BlankOn** => **Administrasi** => **Synaptic Manajer Paket**. Setelah Synaptic terbuka, pilih **Pengaturan** => **Repositori**. Berikut adalah cara-cara pengaturan lumbung paket dari setiap jenis sumber.
 
 ### Lumbung Paket Resmi BlankOn (Internet)
 Jika Anda ingin melakukan pengaturan sumber perangkat lunak dari *mirror* resmi BlankOn linux, Anda bisa melihat pada tab **Perangkat Lunak BlankOn**. Pilih semua cabang perangkat lunak yang tersedia pada bagian **Paket dari Internet**. Kemudian tentukan cermin yang akan Anda gunakan pada bagian **Unduh dari**.
@@ -56,12 +56,14 @@ Menggunakan perintah apt-get sangat sederhana sekali. Anda cukup ketikkan nama p
 Untuk menggunakan fitur ini, bukalah Terminal dengan klik **Menu Utama BlankOn** => **Perkakas Sistem** => **Terminal**.
 
 Pada terminal ketik perintah `sudo apt install namapaket`. Ubah “namapaket” sesuai dengan nama paket perangkat lunak yang hendak Anda pasang. Misalnya, untuk memasang aplikasi htop, Anda dapat mengetik perintah `sudo apt install hatop`;
+
 ```terminal
 blankon@blankon:~$ sudo apt install htop
 ```
 Tekan tombol **Enter** untuk memasang paket perangkat lunak. Isikan kata sandi sesuai dengan yang Anda buat ketika melakukan pemasangan BlankOn.
 
 Sedangkan untuk menghapus suatu perangkat lunak, ketik perintah `sudo apt remove namapaket`. Contoh di bawah ini adalah perintah untuk menghapus aplikasi htop;
+
 ```terminal
 blankon@blankon:~$ sudo apt remove htop
 ```
@@ -69,8 +71,10 @@ Tekan tombol **Enter** untuk menghapus paket perangkat lunak.
 
 Ketika APT meminta konfirmasi, ketik **y** dan tekan tombol **Enter** untuk menyetujui penghapusan atau pemasangan, atau ketik **n** dan tekan tombol **Enter** untuk membatalkan.
 
-#### TIP:
+**TIP:**
+
   * Untuk memasang/menghapus lebih dari satu paket perangkat lunak, Anda dapat mengetik nama-nama paket dengan dipisahkan dengan spasi. Contoh, jika ingin memasang perangkat lunak aplikasi Kino dan Audacity sekaligus, Anda dapat mengetik perintah `sudo apt-get install kino audacity`.
+
 ```terminal
 blankon@blankon:~$ sudo apt-get install kino audacity
 ```

@@ -157,7 +157,7 @@ Ketika muncul tampilan proses Pemasangan BlankOn yang sedang berlangsung, tunggu
 
 ![](CuplikanLayar/Pasang17.png)
 
-Bila pada saat proses pemasangan muncul kotak pesan **blankon-installer is not responding**, Anda tetap dapat melanjutkan pemasangan dengan memilih **Wait* **.
+Bila pada saat proses pemasangan muncul kotak pesan **blankon-installer is not responding**, Anda tetap dapat melanjutkan pemasangan dengan memilih **Wait**.
 
 ![](CuplikanLayar/Pasang16.png)
 

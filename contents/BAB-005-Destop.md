@@ -7,24 +7,29 @@ Sesaat setelah komputer dinyalakan, akan tampil destop BlankOn. Destop BlankOn t
 
 ## Mengenal Destop BlankOn
   * Area kerja
-Area kerja merupakan tempat di mana jendela-jendela aplikasi ditempatkan serta ikon-ikon destop ditampilkan. 
+
+    Area kerja merupakan tempat di mana jendela-jendela aplikasi ditempatkan serta ikon-ikon destop ditampilkan. 
 
   * Panel
-Panel berisi ikon-ikon dan objek yang membantu Anda dalam bekerja. Panel bawaan di BlankOn menggunakan panel yang merupakan pengembangan mandiri dari pengembang BlankOn yang diberi nama Manokwari. Berikut adalah bagian-bagian dari Manokwari:
+
+    Panel berisi ikon-ikon dan objek yang membantu Anda dalam bekerja. Panel bawaan di BlankOn menggunakan panel yang merupakan pengembangan mandiri dari pengembang BlankOn yang diberi nama Manokwari. Berikut adalah bagian-bagian dari Manokwari:
 
 ### Menu Utama
-Menu Utama digunakan untuk membuka suatu aplikasi atau perintah tertentu. Ketika menu utama diklik maka secara otomatis muncul beberapa menu berdasarkan kelompok aplikasi dan perintah penting tertentu. Menu Utama berbentuk logo **BlankOn** dan berada di pojok kiri atas.
+![](Gambar/MenuUtama.png)
+Menu Utama berbentuk logo **BlankOn** dan berada di pojok kiri atas. Menu Utama digunakan untuk membuka suatu aplikasi atau perintah tertentu. Ketika menu utama diklik maka secara otomatis muncul beberapa menu berdasarkan kelompok aplikasi dan perintah penting tertentu.
 
 ### Bilah Aplikasi
-Bilah Aplikasi berisi daftar aplikasi atau perintah tertentu yang sedang dibuka, bilah ini berada di sebelah kanan Menu Utama.
+Aplikasi berada di sebelah kanan Menu Utama. Bilah Aplikasi berisi daftar aplikasi atau perintah tertentu yang sedang dibuka. Bilah 
 
 ### Notifikasi
-Notifkasi menampilkan informasi dari **sistem** dan **aplikasi** tertentu yang sedang aktif. Ketika aplikasi atau sistem ingin memberikan suatu informasi, maka akan muncul notifikasi di bagian atas layar. Contoh, jika Anda mendapatkan pesan obrolan atau surel baru maka akan ada notifikasi di bagian atas layar yang menginformasikan hal tersebut.
+Notifikasi menampilkan informasi dari **sistem** dan **aplikasi** tertentu yang sedang aktif. Ketika aplikasi atau sistem ingin memberikan suatu informasi, maka akan muncul notifikasi di bagian atas layar. Contoh, jika Anda mendapatkan pesan obrolan atau surel baru maka akan ada notifikasi di bagian atas layar yang menginformasikan hal tersebut.
 
 #### Menyembunyikan Notifikasi
 Jika Anda sedang bekerja dan tidak ingin diganggu oleh notifikasi, Anda dapat menyembunyikan atau mematikan notifikasi, berikut caranya:
 
-Klik menu utama  **BlankOn** => **Pengaturan** => **Pribadi** => **Notfikasi**, kemudian **matikan notifikasi** dengan mengklik tombol di samping **Notification Banner** sehingga **tanda centang** berubah menjadi **tanda silang**.
+Klik menu utama  **BlankOn** => **Pengaturan**  => **Notifikasi**, kemudian matikan notifikasi dengan mengklik tombol di samping **Popup Notification** sehingga tulisan **Nyala** berubah menjadi **Mati**.
+
+![](CuplikanLayar/Notifikasi.png)
 
 Jika notifikasi dimatikan, maka notifikasi tidak muncul pada bagian atas layar, akan tetapi tetap terbuka jika Anda mengeklik bagian jam.
 
@@ -35,17 +40,17 @@ Anda juga dapat mengatur notifikasi aplikasi satu persatu dengan memilih aplikas
 Berisi keterangan tentang hari, jam, tanggal, bulan, tahun.
 
 #### Mengatur Tanggal dan Waktu Secara Manual
-Kadang kala Jam dan tanggal di notifikasi tidak sesuai dengan dengan keadaan yang sebenarnya, tapi jangan kuatir, Anda dapat mengatur **Tanggal dan Waktu** secara **manual**, untuk melakukan **pengaturan** Jam dan tanggal tersebut, lakukan langkah berikut; klik **Menu utama BlankOn => Pengaturan => Sistem => Tanggal & Waktu**, matikan pengaturan **Tanggal & Waktu Otomatis** dengan melakukan klik pada tombol yang tersedia sehingga **tanda cetang** berubah menjadi **tanda silang**. Klik **Tanggal & Waktu**, maka secara otomatis muncul subjendela pengatur **Tanggal dan Waktu** secara manual, klik tanda **tambah (+)** untuk menambah (memajukan) **Jam**, **Menit**, **Hari**, **Bulan**, dan **Tahun** sedangkan untuk **mengurangi** (memundurkan) dapat dilakukan dengan klik  tanda **minus (-)**.
+Anda dapat mengatur Tanggal dan Waktu secara manual dengan menge-klik **Menu utama BlankOn** => **Pengaturan** => **Rincian** => **Tanggal & Waktu**. Matikan pengaturan **Tanggal & Waktu Otomatis** dengan melakukan klik pada tombol yang tersedia sehingga tulisan **Nyala** berubah menjadi **Mati**. Klik **Tanggal & Waktu**, maka secara otomatis muncul subjendela pengatur **Tanggal dan Waktu** secara manual, klik tanda **tambah (+)** untuk menambah (memajukan) **Jam**, **Menit**, **Hari**, **Bulan**, dan **Tahun** sedangkan untuk **mengurangi** (memundurkan) dapat dilakukan dengan klik  tanda **minus (-)**.
 
 ### Penukar Area Kerja
-BlankOn menyediakan empat buah area kerja yang bisa Anda gunakan. Jika sebuah area kerja penuh, Anda bisa berpindah ke area kerja lain dengan memanfaatkan penukar area kerja.  Anda dapat memindahkan suatu jendela dari suatu area kerja ke area kerja lainnya dengan cara **klik kanan Aplikasi yang akan dipindah => Pindah Ke Area Kerja Lain**. Untuk melihat aplikasi yang sedang aktif pada Area Kerja tertentu klik ikon **Penukar Area Kerja** di pojok kanan atas Destop, kemudian pilih salah satu area kerja dimana aplikasi tersebut berada. 
+BlankOn menyediakan empat buah area kerja yang bisa Anda gunakan. Jika sebuah area kerja penuh, Anda bisa berpindah ke area kerja lain dengan memanfaatkan penukar area kerja.  Anda dapat memindahkan suatu jendela dari suatu area kerja ke area kerja lainnya dengan cara **klik kanan Aplikasi yang akan dipindah** => **Pindah Ke Area Kerja Lain**. Untuk melihat aplikasi yang sedang aktif pada Area Kerja tertentu klik ikon **Penukar Area Kerja** di pojok kanan atas Destop, kemudian pilih salah satu area kerja dimana aplikasi tersebut berada. 
 
 ### Panel Menu Utama
 Panel Menu Utama berisi menu berdasarkan kelompok aplikasi dan perintah penting tertentu. Terdapat beberapa kelompok menu yaitu menu **Aplikasi, Perkakas Sistem, dan Adminitrasi**.
 
 Menu Aplikasi untuk membuka aplikasi yang terpasang. Menu aplikasi terdiri dari beberapa kelompok aplikasi dalam sub menu. 
 
-Menu **Perkakas Sistem** dan **Adminitrasi** digunakan untuk membuka beberapa peralatan yang berhubungan dengan pengaturan sistem dan perangkat keras.
+Menu **Perkakas Sistem** dan **Administrasi** digunakan untuk membuka beberapa peralatan yang berhubungan dengan pengaturan sistem dan perangkat keras.
 
 Di bawah menu kelompok aplikasi terdapat menu kelompok **Preferensi** dan **Pengaturan** yang dapat digunakan untuk melakukan pengaturan destop sistem. 
 
