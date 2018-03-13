@@ -30,7 +30,7 @@ Agar proses pengunduhan berkas iso BlankOn lebih lancar, Anda dapat memanfaatkan
   * ftp://singo.ub.ac.id/linux/blankon/
 
 Bagi Anda yang memiliki koneksi terbatas atau tidak dapat terhubung dengan internet, dapat membeli DVD BlankOn melalui toko penjual DVD atau meminjamnya dari teman yang telah memilikinya. Berikut adalah beberapa toko penjual CD/DVD Linux yang ada di Indonesia: 
-	
+​	
   * Juragan Kambing ( http://juragan.kambing.ui.ac.id/)
   * Toko Baliwae ( http://toko.baliwae.com/)
   * Gudang Linux ( http://gudanglinux.com/)
@@ -55,7 +55,7 @@ Jendela yang tampil pertama ketika Anda menjalankan BlankOn XI Uluwatu melalui D
 ### Mengatur Bahasa
 Secara baku BlankOn XI Uluwatu menyediakan dua bahasa ketika akan melakukan pemasang, yaitu **Bahasa Inggris** dan **Bahasa Indonesia**. Pilih bahasa yang sesuai, dalam buku Panduan ini menggunakan **Antarmuka Bahasa Indonesia**.
 
-![](CuplikanLayar/Pasang02.png)
+![](CuplikanLayar/Pasang/3PilihBahasa.png)
 
 ### Memilih Moda
 Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu melalui Live DVD/USB tanpa memasangnya ke komputer atau langsung memasangnya pada media simpan.
@@ -63,7 +63,7 @@ Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu me
 ## Memasang BlankOn
 Klik tombol **Pasang BlankOn**
 
-![](CuplikanLayar/Pasang03.png)
+![](CuplikanLayar/Pasang/5Pasang.png)
 
 ### Pilih Zona waktu
 Beberapa saat setelah Anda menekan tombol **Pasang BlankOn**, maka tampil jendela untuk memilih **Zona Waktu** sesuai tempat Anda berada. Contoh, pilih **Asia/Jakarta**, klik tombol **Lanjut** untuk menuju proses berikutnya.
@@ -94,44 +94,17 @@ Bila Anda setuju, klik **lanjut**. Bila Anda tidak setuju, klik **Batal**.
 ![](CuplikanLayar/Pasang08.png)
 
 
-### Memilih Partisi
-Bila media simpan/*harddisk* yang akan digunakan masih kosong dan belum memiliki partisi, maka Anda perlu membuat partisi secara manual dengan cara memilih **Masuk ke moda mahir**.
+### Pemasangan Moda Mahir
+Selain pemasangan bersih, Anda dapat juga memilih pemasangan dengan Moda Mahir cara memilih **Masuk ke moda mahir** sehingga muncul jendela untuk mengatur partisi.
 
-#### Buat Partisi
-Klik tombol **Buat** untuk mulai membuat partisi.
-    
-#### Pilih Jenis Partis
-Buat partisi baru pada media simpan, tentukan ukurannya dengan cara klik bagian partisi atau mengeser tanda kotak kecil bagian atas. Partisi yang akan dibuat berwarna biru, sedangkan yang masih kosong berwarna abu-abu. Tentukan juga jenis partisi yang akan digunakan, dalam contoh pilih **Primary**, klik tombol **Apply** untuk melanjutkan ke langkah berikutnya.
+> **Peringatan**: Fitur moda mahir masih dalam pengembangan. Anda mungkin akan menemui beberapa kutu dan kesalahan yang dapat berujuang pada kehilangan data. Jika itu terjadi, silakan laporkan ke https://github.com/BlankOn/Uluwatu/issues .
 
-##### Catatan Mengenai Partisi
-  * Partisi *Primary*/Primer: Jenis partisi ini merupakan partisi utama di media simpan (*harddisk*) untuk sistem operasi pada umumnya. Partisi primer hanya bisa dibuat maksimal 4 partisi. Hal ini berbeda dengan sistem DOS yang hanya mengijinkan satu jenis partisi primer untuk sistem. Jika kita memakai sistem operasi Linux, jenis partisi ini akan terbaca sebagai partisi 1, 2, 3 dan 4. Misalnya terbaca sebagai sda1, sda2, sda3 dan sda4, sedangkan jika kita menggunakan Sistem Operasi Windows akan terbaca sebagai partisi C,D,E dan F.
-
-  * Partisi *Extended*/Perluasan: Partisi Extended/Perluasan: Merupakan partisi perluasan untuk mengatasi kekurangan partisi primer dimana hanya dimungkinkan adanya 4 partisi. Jika ingin memiliki partisi lebih dari 4 maka partisi extended/perluasan dibutuhkan yaitu dengan cara mengubah satu partisi primer menjadi partisi extended/perluasan. Di dalam partisi extended ini dapat dibuat partisi logical untuk mendapatkan partisi yang lebih banyak. Partisi extended tidak dapat digunakan menyimpan data. Partisi jenis ini selalu menempati nomor partisi 4 (empat) dari partisi primer. Jika ada 2 partisi primer pada *harddisk* sda maka posisi partisi extended adalah sda4.
-
-  * Partisi Logical: Jenis partisi logical selalu dibuat di dalam partisi extended/perluasan. Partisi ini akan terbaca mulai angka 5 (lima). Misalnya kita membuat 5 jenis partisi logical di dalam partisi extended maka masing-masing akan terbaca sebagai sda5, sda6, sda7, dan seterusnya.
-
-#### Memilih Mount Point
-Pilih **Mount Point** atau titik kait untuk partisi yang akan dibuat. Contoh, kita pilih **/Home**. Klik tombol **Apply** untuk menerapkan pembuatan partisi yang telah dilakukan.
-
-#### Membuat Partisi Extended
-Klik tombol **Buat** untuk membuat partisi baru pada media simpan yang masih kosong, pada sub menu jenis partisi pilih **Extended**.  Tujuan dari langkah ini adalah agar kita dapat membuat partisi lebih dari empat dalam media simpan. Jika semua langkah dirasa sudah benar, klik tombol **Apply** untuk menerapkan pembuatan partisi.
-
-#### Membuat Partisi Root
-Klik tombol **Buat** untuk membuat partisi baru dalam partisi *extended* (partisi jenis ini disebut partisi *logical*). Tentukan ukuran partisi yang akan dibuat, misalnya 28,88 GB. Bila kita ingin membuat partisi untuk sistem operasi maka pada sub menu **Mount Point** pilih /**(root)**. Klik tombol **Apply** untuk menerapkan pembuatan partisi.
-
-#### Membua Partisi Swap
-Klik tombol **Buat** untuk membuat partisi baru sebagai partisi Swap. Gunakan ukuran dua kali lipat dari ukuran RAM fisik yang terpasang di komputer. Pada sub menu **Mount Point** pilih **use as Swap**. Klik tombol **Apply** untuk menerapkan pembuatan partisi.
-
-**Catatan**
-  * Jika ukuran **RAM fisik** yang terpasang sudah besar tidak perlu menggunakan acuan dua kali lipat.
-
-#### Membuat Partisi Bebas
-Klik tombol **Buat** untuk membuat partisi baru pada ruang kosong di media simpan sisa dari partisi yang telah dibuat sebelumnya. Karena partisi ini tidak akan dikaitkan sebagai sistem tertentu pada komputer (digunakan sebagai partisi bebas), maka pada sub menu **Mount point** pilih **Without mount point**. Klik tombol **Apply** untuk menerapkan pembuatan partisi. Pembuatan partisi sudah selesai. Untuk melanjutkan proses pemasangan BlankOn XI uluwatu, klik tombol **Apply**.
+![](CuplikanLayar/Pasang/ModaMahir.png)	
 
 #### Personalisasi
 Masukkan informasi tentang nama komputer, nama pengguna serta *password*/kata sandi pengguna. Ketik beberapa informasi tersebut pada kotak yang tersedia. Jika ketika Anda ingin masuk ke destop tanpa harus memasukkan kata sandi,klik dan beri tanda pada kotak di samping kiri **Masuk secara otomatis**. Klik tombol **Lanjut** untuk melanjutkan ke langkah berikutnya.
 
-![](CuplikanLayar/Pasang09.png)
+![](CuplikanLayar/Pasang09.png)			
 
 
 ![](CuplikanLayar/Pasang10.png)
@@ -174,13 +147,10 @@ Bila pada media simpan masih ada partisi yang kosong, kita dapat langsung BlankO
 ### Menyiapkan Partisi
 Nyalakan komputer dan jalan BlankOn XI Uluwatu melalui **live DVD** atau **Flashdisk**, kemudian pilih opsi **Lanjut menggunakan sistem dalam moda live**.
 
-![](CuplikanLayar/Pasang03.png)
-
-##### Catatan:
-  * Jika media simpan di komputer yang akan dipasang BlankOn XI Uluwatu sudah tersedia partisi kosong langsung pilih **Pasang BlankOn**.
+Jika media simpan di komputer yang akan dipasang BlankOn XI Uluwatu sudah tersedia partisi kosong langsung pilih **Pasang BlankOn**.
 
 ##### Peringatan
-  * Sebelum mengikuti panduan pada sub bab ini lebih lanjut, sebaiknya pahami dulu lebih dalam mengenai manajemen partisi pada komputer. Anda juga perlu membuat data cadangan (*backup*) data penting yang ada di dalam partisi yang akan disunting ke media simpan luar (misal: hard disk external), karena resiko kehilangan data sangat besar.
+  * Sebelum mengikuti panduan pada sub bab ini lebih lanjut, sebaiknya pahami dulu lebih dalam mengenai manajemen partisi pada komputer. Anda juga perlu membuat data cadangan (*backup*) data penting yang ada di dalam partisi yang akan disunting ke media simpan luar (misal: *hard* *disk* *external*), karena resiko kehilangan data sangat besar.
 
 #### Menjalankan GParted
 Untuk mengatur partisi di media simpan pada BlankOn XI Uluwatu dapat dilakukan dengan menggunakan aplikasi penyunting partisi bernama **Gparted**, berikut cara menggunakannya:

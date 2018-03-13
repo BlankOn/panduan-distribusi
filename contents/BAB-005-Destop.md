@@ -59,8 +59,10 @@ Menu **Lokasi** digunakan untuk membuka isi suatu folder dengan peramban berkas 
 Di bagian paling bawah Panel Menu Utama terdapat satu buah menu yaitu **Sessions**. Menu Sessions berisi beberapa tombol dalam bentuk ikon yang fungsinya untuk **Mengunci layar (lock screen)**, **keluar (logout)**, **Nyalakan ulang (restart)**, dan **Matikan (shutdown)**.
 
 ### Panel Kanan
-Panel Kanan muncul bila kita mengarahkan kursor tetikus / mouse ke tepi kanan-atas destop beberapa saat.
-Panel Kanan terdriri dari 4 bagian;
+
+![](CuplikanLayar/live/PanelKananId.png)
+
+Panel Kanan muncul bila kita mengarahkan kursor tetikus / *mouse* ke tepi kanan-atas destop beberapa saat. Panel Kanan terdriri dari 4 bagian;
 
 #### Bookmarks
 Bookmarks berisi tautan untuk membuka laman;
@@ -78,7 +80,7 @@ Music Player berisi tombol-tombol pemutar musik (Audacious). Ada 5 tombol;
 - Play/Pause : Memutar atau menjeda 
 - Next : Memutar musik selanjutnya (dalam daftar musik yang sedang diputar).
 - Repeat : mengulang pemutaran musik.
-    
+  
 #### Weather
 Weather menyajikan prakiraan cuaca setempat yang meliputi suhu dan kecerahan dalam sepekan. Pada weather terdapat dua tombol;
 
@@ -105,13 +107,14 @@ System Settings menampilkan tautan-tautan untuk membuka panel pengaturan;
 - Berbagi Pakai
 
 #### Jam dan tanggal
-- Jam ditampilkan dengan format **HH:MM**, tanggal ditampilkan dengan format **DDD**, **DD MMMM YYYY** misalnya; **07:32 Sun**, **25 December 2016**. 
-   
+- Jam ditampilkan dengan format **HH:MM**, sedangkan tanggal ditampilkan dengan format **DDD**, **DD MMMM YYYY** misalnya; **05:16 Tue**, **13 March 2018**. 
+
+  ​
 ## Bekerja dengan Aplikasi 
 Untuk membuka suatu aplikasi pada BlankOn, Anda bisa memanfaatkan menu Aplikasi pada bagian menu utama. Aplikasi yang berada di dalam menu tersebut dikelompokkan berdasarkan jenisnya, yaitu : **Aksesoris**, **Perkantoran**, **Internet**, **Suara & Video**, dsb. Jadi, Anda bisa lebih mudah mencari aplikasi yang akan Anda buka. 
 
 ### Tombol Pintas 
-Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jendela aplikasi, Anda bisa menggunakan tombol pintas atau keyboard shortcut tertentu yang setiap perpaduannya memiliki fungsi khusus. Berikut adalah penjelasan masing-masing tombol pintas: 
+Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jendela aplikasi, Anda bisa menggunakan tombol pintas atau keyboard *shortcut* tertentu yang setiap perpaduannya memiliki fungsi khusus. Berikut adalah penjelasan masing-masing tombol pintas: 
 
 ##### Tombol Pintas Fungsi 
 
@@ -119,35 +122,41 @@ Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jende
 | ---------------------- |-----------------------------------------------------------------|
 | PrtSc / SysRq           | Mengambil tangkapan layar pada destop.                            |
 | Alt + Prt Sc            | Mengambil tangkapan layar dari jendela yang sedang aktif.        |
-| Alt + Tab               | Berpindah antar jendela yang sedang aktif.                        | 
-| Ctrl + Alt + Left/Right | Cursor Berpindah antara area kerja.                               | 
-| Alt+F4                  | Menutup jendela yang sedang aktif.                                | 
-| Alt+F5                  | Mengembalikan ukuran jendela yang sedang aktif ke ukuran normal.  | 
-| Alt+Space               | Menampilkan menu untuk memanipulasi jendela yang aktif            | 
-| Alt+F10                 | Memperbesar jendela yang sedang aktif.                            | 
-| Alt+F8                  | Mengubah ukuran jendela yang sedang aktif                         | 
-| Alt+F7                  | Memindahkan jendela yang sedang aktif                             | 
-| Ctrl+Alt+L              | Mengunci layar                                                    | 
+| Alt + Tab               | Berpindah antar jendela yang sedang aktif.                        |
+| Ctrl + Alt + Left/Right | Cursor Berpindah antara area kerja.                               |
+| Alt+F4                  | Menutup jendela yang sedang aktif.                                |
+| Alt+F5                  | Mengembalikan ukuran jendela yang sedang aktif ke ukuran normal.  |
+| Alt+Space               | Menampilkan menu untuk memanipulasi jendela yang aktif            |
+| Alt+F10                 | Memperbesar jendela yang sedang aktif.                            |
+| Alt+F8                  | Mengubah ukuran jendela yang sedang aktif                         |
+| Alt+F7                  | Memindahkan jendela yang sedang aktif                             |
+| Ctrl+Alt+L              | Mengunci layar                                                    |
 
 #### Tambahkan Aplikasi ke Menu Favorit
-Anda dapat menambah atau mengurangi Aplikasi yang sering digunakan pada **Menu Favorit** di destop sesuai dengan keinginan. Berikut caranya; **Menu utama BlankOn => Aplikasi => Nama Aplikasi**, kemudian klik kanan aplikasi yang akan Anda masukan ke dalam Panel bawah, pilih opsi **tambahkan ke desktop** atau **Add to Desktop**.
+Anda dapat menambah aplikasi yang sering digunakan pada **Menu Favorit** di destop sesuai dengan keinginan dengan cara klik kanan pada nama aplikasi pada panel kiri. Misalnya kita ingin menambakan aplikasi Vim pada Menu Favorit, klik menu utama **BlakOn** => **Aksesoris** , kemudian klik kanan pada label **Vim**, kemudian klik **Add to Desktop**.
+
+![](CuplikanLayar/KlikKananAplikasi.png)
 
 #### Hapus Aplikasi dari Menu Favorit
-Untuk menghapus aplikasi dari Menu Favorit lakukan langkah berikut; klik tombol kiri tetikus, tahan aplikasi tersebut, kemudian seret ke tempat sampah yang secara otomutis muncul  di atas panel tersebut, sedangkan untuk mengubah nama aplikasi, klik **menu utama BlankOn => Lokasi => Desktop**, kemudian klik kanan nama aplikasi pilih ubah nama atau rename, tulis nama sesuai yang di kehendaki. 
+Untuk menghapus aplikasi dari Menu Favorit lakukan langkah berikut; klik tombol kiri tetikus, tahan aplikasi tersebut, kemudian seret ke tempat sampah yang secara otomatis muncul  di atas panel tersebut.
+
+![](CuplikanLayar/HapusFavorit.png)
+
+ Adapun untuk mengubah nama aplikasi, klik menu utama **BlankOn** => **Lokasi** => **Desktop**, kemudian klik kanan nama aplikasi, pilih ubah nama, tulis nama sesuai yang dikehendaki. 
 
 ### Mengganti Latar Belakang
 Anda bisa mengatur tampilan latar belakang destop sesuai selera. Latar Belakang dapat Anda ganti dengan gambar yang sudah disediakan secara baku oleh BlankOn atau dengan gambar koleksi Pribadi.
 
 #### Mengganti Latar Belakang dengan Gambar Baku
-Untuk mengganti gambar Latar belakang dengan gambar tertentu yang sudah disediakan secara baku oleh BlankOn lakukan cara berikut:
-**Klik Pengaturan => Pribadi => Latar Belakang**,  maka otomatis tampil jendela untuk mengatur Latar Belakang yang terdiri dari **2 (dua) menu**, yaitu; **Latar Belakang (background)** dan **Kunci Layar (lockscreen)**. Latar Belakang digunakan untuk mengatur gambar latar belakang pada destop, sedangkan Kunci Layar digunakan untuk mengatur gambar latar belakang ketika Anda mengunci komputer.
+Untuk mengganti gambar Latar belakang dengan gambar tertentu yang sudah disediakan secara baku oleh BlankOn, klik **Pengaturan** => **Latar Belakang**,  maka otomatis tampil jendela untuk mengatur Latar Belakang.  Ada 2 (dua) menu, yaitu; **Latar Belakang (*background*)** dan **Kunci Layar (*lockscreen*)**. Latar Belakang digunakan untuk mengatur gambar latar belakang pada destop, sedangkan Kunci Layar digunakan untuk mengatur gambar latar belakang ketika Anda mengunci komputer.
+
 Dalam contoh pada buku ini adalah mengganti latar belakang pada destop, maka dari itu klik menu Latar Belakang, sesaat setelah menu latar belakang diklik maka secara otomatis tampil subjendela pengatur latar belakang yang terdiri dari 3 (tiga) tab, yaitu **Gambar latar**, **Gambar**, dan **Warna**. 
 
 Pilih salah satu tab (misal tab  Gambar latar), klik salah satu gambar yang akan dijadikan latar belakang untuk destop, klik tombol **Select**, maka secara otomatis gambar latar belakang pada destop berubah sesuai gambar yang tadi dipilih.
 
 #### Mengganti Latar Belakang dengan Gambar Koleksi Pribadi
 Anda dapat mengganti gambar latar belakang pada destop dengan gambar koleksi milik pribadi, berikut caranya: cari gambar yang akan dijadikan latar belakang di direktori komputer Anda, kemudian **klik kanan gambar** tersebut, pilih **Jadikan gambar Latar**.
- 
+
 ## Pengaturan Pengguna
 Sistem operasi BlankOn merupakan sistem operasi multiuser atau banyak pengguna. Linux bisa digunakan oleh banyak pengguna yang memiliki ruang dan lingkungan masing-masing. Setiap pengguna juga memiliki nama akun pengguna (userid) dan kata sandi. Nama pengguna dan sandi ini akan diminta pada saat pertama kali menjalankan BlankOn. Oleh karena itu, pengetahuan tentang manajemen pengguna sangat dibutuhkan dalam mempelajari BlankOn. Baik bagi mereka yang sekadar pengguna rumahan yang hanya memilik satu jenis pengguna di sistem mereka, ataupun mereka yang bertindak sebagai sistem administrator. 
 
@@ -191,7 +200,7 @@ Anda dapat mengatur pemberitahuan agar tampil secara otomatis dengan melakukan k
 
 #### Location Services (Off atau On)
 Layanan lokasi ini dapat aktif bila komputer terhubung dengan internet
-       
+​       
 #### Pemakaian & Riwayat 
 Dengan menyalakan Pemakaian & Riwayat, komputer akan mencatat riwayat penggunaan komputer seperti berkas apa saja yang telah dibuka. Pencatatan riwayat ini dapat mempermudah Anda bila hendak membuka atau menggunakan kembali berkas-berkas tersebut. 
 
