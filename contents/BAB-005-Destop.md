@@ -5,6 +5,10 @@ BlankOn menyediakan lingkungan kerja atau *desktop environment* yang sangat muda
 
 Sesaat setelah komputer dinyalakan, akan tampil destop BlankOn. Destop BlankOn terdiri dari dua bagian utama, yaitu **Latar Belakang** dan **Menu Favorit**.
 
+![](CuplikanLayar/live/DestopId.png)
+
+
+
 ## Mengenal Destop BlankOn
   * Area kerja
 
@@ -16,7 +20,8 @@ Sesaat setelah komputer dinyalakan, akan tampil destop BlankOn. Destop BlankOn t
 
 ### Menu Utama
 ![](Gambar/MenuUtama.png)
-Menu Utama berbentuk logo **BlankOn** dan berada di pojok kiri atas. Menu Utama digunakan untuk membuka suatu aplikasi atau perintah tertentu. Ketika menu utama diklik maka secara otomatis muncul beberapa menu berdasarkan kelompok aplikasi dan perintah penting tertentu.
+
+Menu Utama berbentuk logo BlankOn dan berada di pojok kiri atas. Menu Utama digunakan untuk membuka suatu aplikasi atau perintah tertentu. Ketika menu utama diklik maka secara otomatis muncul beberapa menu berdasarkan kelompok aplikasi dan perintah penting tertentu.
 
 ### Bilah Aplikasi
 Aplikasi berada di sebelah kanan Menu Utama. Bilah Aplikasi berisi daftar aplikasi atau perintah tertentu yang sedang dibuka. Bilah 
@@ -46,17 +51,19 @@ Anda dapat mengatur Tanggal dan Waktu secara manual dengan menge-klik **Menu uta
 BlankOn menyediakan empat buah area kerja yang bisa Anda gunakan. Jika sebuah area kerja penuh, Anda bisa berpindah ke area kerja lain dengan memanfaatkan penukar area kerja.  Anda dapat memindahkan suatu jendela dari suatu area kerja ke area kerja lainnya dengan cara **klik kanan Aplikasi yang akan dipindah** => **Pindah Ke Area Kerja Lain**. Untuk melihat aplikasi yang sedang aktif pada Area Kerja tertentu klik ikon **Penukar Area Kerja** di pojok kanan atas Destop, kemudian pilih salah satu area kerja dimana aplikasi tersebut berada. 
 
 ### Panel Menu Utama
-Panel Menu Utama berisi menu berdasarkan kelompok aplikasi dan perintah penting tertentu. Terdapat beberapa kelompok menu yaitu menu **Aplikasi, Perkakas Sistem, dan Adminitrasi**.
+Panel Menu Utama berisi bilah **pencarian**, beberapa kelompok **aplikasi**, **Place and setting dan sessions**.
 
-Menu Aplikasi untuk membuka aplikasi yang terpasang. Menu aplikasi terdiri dari beberapa kelompok aplikasi dalam sub menu. 
+![](CuplikanLayar/live/PanelKiriId.png)
 
-Menu **Perkakas Sistem** dan **Administrasi** digunakan untuk membuka beberapa peralatan yang berhubungan dengan pengaturan sistem dan perangkat keras.
 
-Di bawah menu kelompok aplikasi terdapat menu kelompok **Preferensi** dan **Pengaturan** yang dapat digunakan untuk melakukan pengaturan destop sistem. 
 
-Menu **Lokasi** digunakan untuk membuka isi suatu folder dengan peramban berkas atau Nautilus. Ketika Menu Lokasi diklik maka muncul submenu lagi yaitu **Lokasi** dan **Bookmark**. 
+Ketika kita memasukkan kata kunci pada bilah pencarian maka akan ditampilkan aplikasi terpasang sesuai kata kunci (bila ada), Run 'kata kunci' pada Terminal, search 'kata kunci' pada Google dan Wikipedia.
 
-Di bagian paling bawah Panel Menu Utama terdapat satu buah menu yaitu **Sessions**. Menu Sessions berisi beberapa tombol dalam bentuk ikon yang fungsinya untuk **Mengunci layar (lock screen)**, **keluar (logout)**, **Nyalakan ulang (restart)**, dan **Matikan (shutdown)**.
+Di bawah bilah pencarian ada beberapa kelompok aplikasi; **Aksesoris, Pendidikan, Permainan, Grafik, Internet, perkantoran, Suara & Video, IPTEK, Perkakas Sistem, Preferensi dan Adminitrasi**. Kelompok-kelompok aplikasi ini berisi daftar aplikasi yang sudah terpasang pada BlankOn.
+
+Menu **Place and settings** berisi **Locations** dan **Pengaturan**. **Locations ** untuk membuka folder Beranda/Rumah, Desktop, Dokumen, Unduhan, Musik, Gambar, Publik, Templates atau Video. Adapun **Pengaturan** digunakan untuk melakukan pengaturan destop sistem. 
+
+Di bagian paling bawah Panel Menu Utama terdapat satu buah menu yaitu **Sessions**. Menu Sessions berisi beberapa tombol dalam bentuk ikon yang fungsinya untuk **Mengunci layar (lock screen)**, **keluar (logout)**, **Nyalakan ulang (restart)** dan **Matikan (shutdown)**.
 
 ### Panel Kanan
 
@@ -65,7 +72,7 @@ Di bagian paling bawah Panel Menu Utama terdapat satu buah menu yaitu **Sessions
 Panel Kanan muncul bila kita mengarahkan kursor tetikus / *mouse* ke tepi kanan-atas destop beberapa saat. Panel Kanan terdriri dari 4 bagian;
 
 #### Bookmarks
-Bookmarks berisi tautan untuk membuka laman;
+Bookmarks berisi ikon-ikon untuk membuka laman;
 
   - Laman BlankOn: blankonlinux.or.id
   - Laman Panduan BlankOn: panduan.blankonlinux.or.id
@@ -111,7 +118,7 @@ System Settings menampilkan tautan-tautan untuk membuka panel pengaturan;
 
   ​
 ## Bekerja dengan Aplikasi 
-Untuk membuka suatu aplikasi pada BlankOn, Anda bisa memanfaatkan menu Aplikasi pada bagian menu utama. Aplikasi yang berada di dalam menu tersebut dikelompokkan berdasarkan jenisnya, yaitu : **Aksesoris**, **Perkantoran**, **Internet**, **Suara & Video**, dsb. Jadi, Anda bisa lebih mudah mencari aplikasi yang akan Anda buka. 
+Untuk membuka suatu aplikasi pada BlankOn, Anda bisa memanfaatkan menu utama. Aplikasi yang berada di dalam menu tersebut dikelompokkan berdasarkan jenisnya, yaitu **Aksesoris, Pendidikan, Permainan, Grafik, Internet, perkantoran, Suara & Video, IPTEK, Perkakas Sistem, Preferensi dan Adminitrasi**. Jadi, Anda bisa lebih mudah mencari aplikasi yang akan Anda buka. 
 
 ### Tombol Pintas 
 Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jendela aplikasi, Anda bisa menggunakan tombol pintas atau keyboard *shortcut* tertentu yang setiap perpaduannya memiliki fungsi khusus. Berikut adalah penjelasan masing-masing tombol pintas: 
@@ -121,7 +128,6 @@ Untuk mempermudah Anda bekerja menggunakan destop BlankOn dan memanipulasi jende
 | Tombol Pintas  	| 				Keterangan			  	|
 | ---------------------- |-----------------------------------------------------------------|
 | PrtSc / SysRq           | Mengambil tangkapan layar pada destop.                            |
-| Alt + Prt Sc            | Mengambil tangkapan layar dari jendela yang sedang aktif.        |
 | Alt + Tab               | Berpindah antar jendela yang sedang aktif.                        |
 | Ctrl + Alt + Left/Right | Cursor Berpindah antara area kerja.                               |
 | Alt+F4                  | Menutup jendela yang sedang aktif.                                |
@@ -142,7 +148,9 @@ Untuk menghapus aplikasi dari Menu Favorit lakukan langkah berikut; klik tombol 
 
 ![](CuplikanLayar/HapusFavorit.png)
 
- Adapun untuk mengubah nama aplikasi, klik menu utama **BlankOn** => **Lokasi** => **Desktop**, kemudian klik kanan nama aplikasi, pilih ubah nama, tulis nama sesuai yang dikehendaki. 
+ Adapun untuk mengubah nama aplikasi, klik menu utama **BlankOn** => **Locations** => **Desktop**, kemudian klik kanan nama aplikasi, pilih ubah nama, tulis nama sesuai yang dikehendaki. 
+
+
 
 ### Mengganti Latar Belakang
 Anda bisa mengatur tampilan latar belakang destop sesuai selera. Latar Belakang dapat Anda ganti dengan gambar yang sudah disediakan secara baku oleh BlankOn atau dengan gambar koleksi Pribadi.
@@ -150,40 +158,46 @@ Anda bisa mengatur tampilan latar belakang destop sesuai selera. Latar Belakang 
 #### Mengganti Latar Belakang dengan Gambar Baku
 Untuk mengganti gambar Latar belakang dengan gambar tertentu yang sudah disediakan secara baku oleh BlankOn, klik **Pengaturan** => **Latar Belakang**,  maka otomatis tampil jendela untuk mengatur Latar Belakang.  Ada 2 (dua) menu, yaitu; **Latar Belakang (*background*)** dan **Kunci Layar (*lockscreen*)**. Latar Belakang digunakan untuk mengatur gambar latar belakang pada destop, sedangkan Kunci Layar digunakan untuk mengatur gambar latar belakang ketika Anda mengunci komputer.
 
-Dalam contoh pada buku ini adalah mengganti latar belakang pada destop, maka dari itu klik menu Latar Belakang, sesaat setelah menu latar belakang diklik maka secara otomatis tampil subjendela pengatur latar belakang yang terdiri dari 3 (tiga) tab, yaitu **Gambar latar**, **Gambar**, dan **Warna**. 
+![](CuplikanLayar/AturLB.png)
 
-Pilih salah satu tab (misal tab  Gambar latar), klik salah satu gambar yang akan dijadikan latar belakang untuk destop, klik tombol **Select**, maka secara otomatis gambar latar belakang pada destop berubah sesuai gambar yang tadi dipilih.
+Sesaat setelah menu latar belakang diklik maka secara otomatis tampil subjendela pengatur latar belakang yang terdiri dari 3 (tiga) tab, yaitu **Gambar latar**, **Gambar**, dan **Warna**. 
+
+![](CuplikanLayar/GambarLatar.png)
+
+Pilih salah satu tab (misal tab  Gambar latar), klik salah satu gambar yang akan dijadikan latar belakang untuk destop, klik tombol **Pilih** di pojok kanan atas jendela., maka secara otomatis gambar latar belakang pada destop berubah sesuai gambar yang tadi dipilih.
 
 #### Mengganti Latar Belakang dengan Gambar Koleksi Pribadi
 Anda dapat mengganti gambar latar belakang pada destop dengan gambar koleksi milik pribadi, berikut caranya: cari gambar yang akan dijadikan latar belakang di direktori komputer Anda, kemudian **klik kanan gambar** tersebut, pilih **Jadikan gambar Latar**.
 
-## Pengaturan Pengguna
-Sistem operasi BlankOn merupakan sistem operasi multiuser atau banyak pengguna. Linux bisa digunakan oleh banyak pengguna yang memiliki ruang dan lingkungan masing-masing. Setiap pengguna juga memiliki nama akun pengguna (userid) dan kata sandi. Nama pengguna dan sandi ini akan diminta pada saat pertama kali menjalankan BlankOn. Oleh karena itu, pengetahuan tentang manajemen pengguna sangat dibutuhkan dalam mempelajari BlankOn. Baik bagi mereka yang sekadar pengguna rumahan yang hanya memilik satu jenis pengguna di sistem mereka, ataupun mereka yang bertindak sebagai sistem administrator. 
 
-Untuk melakukan pengaturan informasi pribadi seperti nama, foto, kata sandi dan sebagainya untuk disimpan oleh sistem, Anda bisa membuka pengaturannya dengan klik **Pengaturan => Sistem => Pengguna**. Sebelum melakukan pengaturan Anda harus **Membuka Kunci** dengan cara klik tombol **Buka Kunci**. Masukkan **sandi Administrator** untuk pembukaan kunci tersebut. 
+
+## Pengaturan Pengguna
+Sistem operasi BlankOn merupakan sistem operasi *multiuser* atau banyak pengguna. Linux bisa digunakan oleh banyak pengguna yang memiliki ruang dan lingkungan masing-masing. Setiap pengguna juga memiliki nama akun pengguna (*user id*) dan kata sandi. Nama pengguna dan sandi ini akan diminta pada saat pertama kali menjalankan BlankOn. Oleh karena itu, pengetahuan tentang manajemen pengguna sangat dibutuhkan dalam mempelajari BlankOn. Baik bagi mereka yang sekadar pengguna rumahan yang hanya memilik satu jenis pengguna di sistem mereka, ataupun mereka yang bertindak sebagai sistem administrator. 
+
+Untuk melakukan pengaturan informasi pribadi seperti nama, foto, kata sandi dan sebagainya untuk disimpan oleh sistem, Anda bisa membuka pengaturannya dengan klik **Pengaturan => rincian => Pengguna**. Sebelum melakukan pengaturan Anda harus **Membuka Kunci** dengan cara klik tombol **Buka Kunci**. Masukkan **sandi Administrator** untuk pembukaan kunci tersebut. 
+
+![](CuplikanLayar/Pengguna.png)
 
 ### Tambah Pengguna
-Untuk menambahkan akun, klik **tombol + (tambah)** dipojok kiri bawah, maka segera tampil jendela **Tambah Pengguna**, lakukan pengaturan pada kotak yang tersedia, contohnya seperti berikut;
-- Tipe Akun: Standar
-- Nama Lengkap: user1
-- Nama pengguna: user1
+Untuk menambahkan akun, klik tombol  **Tambah Pengguna ...** dipojok kanan atas. Pilih tipe akun (satndar atau administrator), nama lengkap dan nama pengguna dan atur sandi, kemudian klik tombol **Tambah**.
 
-Lakukan juga pengaturan sandi untuk pengguna yang akan ditambahkan, yaitu dengan klik **set a password now**, kemudian isikan/ketik sandi Anda pada **kotak Sandi**, ketik ulang sandi yang sama pada kotak **Verifikasi**, jika semua pengaturan sudah selesai, klik tombol **Tambah** untuk menerapkan proses penambahan pengguna baru.
+![](CuplikanLayar/AkunBaru.png)
 
-Maka segera muncul jendela konfirmasi yang meminta sandi, ketik Sandi Adminstrator Anda, kemudian tekan tombol **Authenticate**.
-
-Sekarang, Anda bisa melihat pengguna baru pada daftar pengguna. Untuk menggunakan sistem dengan pengguna yang baru ditambahkan tadi, silakan keluar dari destop BlankOn melalui **menu utama BlankOn => Sessions => Keluar (logout)**, kemudian masuk menggunakan akun yang sudah ditambahkan.
+Untuk menggunakan sistem dengan pengguna yang baru ditambahkan tadi, silakan keluar dari destop BlankOn melalui **menu utama BlankOn => Sessions => Keluar (logout)**, kemudian masuk menggunakan akun yang sudah ditambahkan.
 
 ### Mengganti Gambar Pengguna
 Untuk mengganti gambar akun, tombol **Buka kunci**, ketik sandi **Administrator**, kemudian tekan tombol **Authenticate**. Langkah selanjutnya yaitu, klik gambar pengguna, kemudian pilih gambar yang sesuai. 
 Jika ingin menggunakan gambar yang tersimpan di komputer, klik **Ramban lebih banyak gambar**..., kemudian lakukan pencarian pada folder dimana Anda meletakkan gambar yang ingin digunakan, klik gambar tersebut kemudian klik tombol **buka** di pojok kanan atas jendela, atur besarnya tampilan gambar, kemudian klik **Pilih**.
 
 ### Hapus Pengguna 
-Untuk menghapus pengguna yang sudah ada, klik ikon **gembok** atau tulisan **Buka kunci** di sebelah kanan atas. Anda akan ditanyakan kata sandi, ketikkan kata sandi **Administrator** Anda, klik tombol **Authenticate**, kemudian klik pengguna yang akan dihapus, setelah itu klik pada tombol **- (minus)** yang terletak di sebelah kiri bagian bawah pada menu pengaturan pengguna. 
+Untuk menghapus pengguna yang sudah ada, klik ikon **gembok** atau tulisan **Buka kunci** di sebelah kanan atas. Anda akan ditanyakan kata sandi, ketikkan kata sandi **Administrator** Anda, klik tombol **Authenticate**, kemudian klik pengguna yang akan dihapus, setelah itu klik tombol **Hapus Akun** yang terletak di sebelah kanan bagian bawah.
+
+![](CuplikanLayar/HapusAkun.png)
 
 ### Privasi
-Privasi dapat digunakan untuk mengontrol bagian dekstop yang dapat dilihat oleh pihak lain. Anda juga dapat menggunakan pengaturan Privasi untuk membersihkan riwayat penggunaan komputer dan berkas-berkas/file yang tidak diperlukan.
-Untuk mengatur fitur privasi lakukan langkah berikut, klik **Menu Utama BlankOn** => **Preferensi** => **Pengaturan** => **Pribadi** => **Privasi**, maka segera muncul jendela pengaturan Privasi yang tediri dari 4 (empat) komponen.
+Privasi digunakan untuk mematikan atau menyalakan beberapa fitur; Kunci Layar, Layanan Lokasi, Pemakaian & Riwayat dan Kosongkan Tong Sampah & Berkas Temporer. Untuk mengatur fitur privasi klik **Menu Utama BlankOn**  => **Pengaturan** => **Privasi**.
+
+![](CuplikanLayar/Privasi.png)
 
 #### Kunci Layar (Mati atau Nyala)
 Bila Kunci Layar nyala, maka layar akan dikunci ketika komputer nganggur dalam waktu tertentu sehingga privasi Anda akan tetap terlindung saat Anda meninggalkan komputer dalam keadaan nyala.
@@ -198,7 +212,7 @@ Komponen ini digunakan untuk mengunci layar secara otomatis ketika komputer seda
 ##### Tampilkan Pemberitahuan
 Anda dapat mengatur pemberitahuan agar tampil secara otomatis dengan melakukan klik pada tombol yang tersedia sehingga berubah menjadi tanda centang, jika ingin mematikannya klik lagi tombol tersebut sehingga berubah menjadi tanda silang.
 
-#### Location Services (Off atau On)
+#### Layanan Lokas (Mati atau Nyala)
 Layanan lokasi ini dapat aktif bila komputer terhubung dengan internet
 ​       
 #### Pemakaian & Riwayat 
@@ -213,22 +227,23 @@ Anda juga dapat mengatur jangka waktu pembersihan berkas pada tong sampah dan at
 Pada bagian bawah kotak dialog Kosongkan Tong Sampah & Berkas Temporer terdapat dua tombol pembersihan secara langsung;
 
 - Kosongkan Tong Sampah
+
 - Bersihkan Berkas Temporer
 
+  ​
+
 ### Mengunci Layar 
-Jika Anda akan meninggalkan komputer dalam keadaan hidup dan Anda tidak ingin komputer diutak-atik oleh orang lain, Anda bisa mengunci layar komputer tersebut. Sehingga, jika ingin kembali bekerja dengan destop, Anda harus kembali memasukkan sandi terlebih dahulu. 
+Jika Anda akan meninggalkan komputer dalam keadaan hidup dan Anda tidak ingin komputer diutak-atik oleh orang lain, Anda bisa mengunci layar komputer tersebut. Sehingga, jika ingin kembali bekerja dengan destop, Anda harus kembali memasukkan sandi terlebih dahulu. Untuk mengunci layar klik **menu utama BlankOn => Session => Lock Screen**. 
 
-Untuk melakukan hal ini, Anda bisa mengaktifkan fitur kunci layar dengan klik **menu utama BlankOn => Session => Kunci Layar (Lock Screen)**, atau dengan menekan tombol **Ctrl+Alt+l** pada **papan tik**. 
-
-Pada kondisi terkunci, tampilan monitor komputer akan lansung dalam keadaan blank. Jika ingin mengaktifkan destop, geser mouse atau tekan sembarang tombol di keyboard, masukkan sandi Anda, kemudian klik tombol Buka Kunci (Unlock) kembali. 
+Jika ingin mengaktifkan kembali destop, geser *mouse* atau tekan sembarang tombol di *keyboard*, masukkan sandi Anda, kemudian klik tombol **Buka Kunci**. 
 
 ### Mengakhiri Sesi 
-Untuk mengakhiri sesi bekerja Anda di BlankOn tanpa mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Keluar (Logout) => Keluar Sekarang (Logout Now)**.
+Untuk mengakhiri sesi bekerja Anda di BlankOn tanpa mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Logout => Logout Now**.
 
 ### Menghidupkan Ulang Komputer
-Untuk menghidupkan ulang komputer saat sedang digunakan, **menu utama BlankOn => Session => Nyalakan Ulang (Restart) => Nyalakan Ulang Seakrang (Restart Now)**.
+Untuk menghidupkan ulang komputer saat sedang digunakan, **menu utama BlankOn => Session => Restart => Restart Now**.
 
 ### Mematikan Komputer 
-Untuk mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Matikan (Shutdown)** lalu klik tombol **Matikan Sekarang (Shutdown Now)** maka komputer secara otomatis akan mati sendiri.
+Untuk mematikan komputer, caranya adalah klik **menu utama BlankOn => Session => Shutdown** lalu klik tombol **Shutdown Now** maka komputer secara otomatis akan mati sendiri.
 
 
