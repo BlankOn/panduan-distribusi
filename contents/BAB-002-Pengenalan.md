@@ -1,34 +1,37 @@
 \newpage
+
 # Apa Itu Linux dan BlankOn Linux?
 
 ![](Gambar/logo-blankon.jpg)
 
-Kata “Linux” saat ini semakin banyak didengar oleh pecinta Teknologi Informasi dan Komunikasi (TIK) di seluruh dunia termasuk di Indonesia. Saat ini, Linux telah menjadi salah satu sistem operasi yang banyak digunakan di berbagai kalangan, seperti kalangan bisnis, pendidikan, dan pemerintahan. Hal ini disebabkan karena Linux bersifat terbuka dan merdeka. Siapapun bisa mengembangkannya dan menggunakannya secara bebas. Linux merupakan kernel atau dasar dari Sistem Operasi yang pertama kali ditulis oleh seorang mahasiswa **Finlandia** bernama **Linus Benedict Torvalds** pada tahun 1991. Hasil karyanya dilisensikan secara bebas dan terbuka (*Free Software*) sehingga siapa pun boleh mengembangkannya.
+Kata “Linux” saat ini semakin banyak didengar oleh pecinta Teknologi Informasi dan Komunikasi (TIK) di seluruh dunia termasuk di Indonesia. Saat ini, Linux telah menjadi salah satu sistem operasi yang banyak digunakan di berbagai kalangan, seperti kalangan bisnis, pendidikan, dan pemerintahan. Hal ini disebabkan karena Linux bersifat terbuka dan merdeka. Siapapun bisa mengembangkannya dan menggunakannya secara bebas. Linux merupakan kernel atau dasar dari Sistem Operasi yang pertama kali ditulis oleh seorang mahasiswa **Finlandia** bernama **Linus Benedict Torvalds** pada tahun 1991. Hasil karyanya dilisensikan secara bebas dan terbuka (_Free Software_) sehingga siapa pun boleh mengembangkannya.
 
-Kemudian **Richard Stallman**, seorang aktivis perangkat lunak pendiri **Free Sofware Foundation** (FSF) berniat untuk menggabungkan Linux ke dalam proyek sistem operasinya yang bernama **GNU (GNU is Not Unix)**. Karena pada saat itu, proyek GNU sama sekali belum selesai mengimplementasikan kernel sistem operasi. Akhirnya, dengan dirilisnya kernel Linux, terjadilah perkawinan antara peralatan (*tools*) yang dibuat oleh proyek GNU dengan kernel Linux yang dibuat oleh **Linus Torvalds**, sehingga menghasilkan sistem operasi baru bernama **GNU/Linux**, sebuah sistem operasi yang mirip dengan **UNIX**. Kesemua komponen dari sistem operasi GNU/Linux dilisensikan berdasarkan lisensi yang disebut **GNU General Public License (GPL)** yang ditulis sendiri oleh Richard Stallman. Lisensi ini memungkinkan setiap orang untuk secara bebas mengembangkan bahkan menjual Linux dengan syarat semua pengembangan yang telah dilakukan harus juga dipublikasikan kepada umum.
+Kemudian **Richard Stallman**, seorang aktivis perangkat lunak pendiri **Free Sofware Foundation** (FSF) berniat untuk menggabungkan Linux ke dalam proyek sistem operasinya yang bernama **GNU (GNU is Not Unix)**. Karena pada saat itu, proyek GNU sama sekali belum selesai mengimplementasikan kernel sistem operasi. Akhirnya, dengan dirilisnya kernel Linux, terjadilah perkawinan antara peralatan (_tools_) yang dibuat oleh proyek GNU dengan kernel Linux yang dibuat oleh **Linus Torvalds**, sehingga menghasilkan sistem operasi baru bernama **GNU/Linux**, sebuah sistem operasi yang mirip dengan **UNIX**. Kesemua komponen dari sistem operasi GNU/Linux dilisensikan berdasarkan lisensi yang disebut **GNU General Public License (GPL)** yang ditulis sendiri oleh Richard Stallman. Lisensi ini memungkinkan setiap orang untuk secara bebas mengembangkan bahkan menjual Linux dengan syarat semua pengembangan yang telah dilakukan harus juga dipublikasikan kepada umum.
 
 Pada perkembangan selanjutnya, Linux juga dipaketkan dengan perangkat lunak lain untuk keperluan tertentu seperti **server, desktop, perkantoran, internet, multimedia**, dan lain-lain sehingga menjadikannya apa yang disebut dengan distribusi Linux atau yang sering dikenal dengan istilah **Distro Linux**. Karena sifat Linux yang terbuka, siapapun bisa memaketkan Linux dengan perangkat lunak pilihannya dengan cara pemaketan masing-masing untuk membuat distribusi Linux.
 
-Saat ini, banyak sekali terdapat distro-distro Linux yang memiliki segmen pasar, fitur, kelengkapan dan cita rasa yang berbeda. Anda bisa melihat berbagai distribusi Linux pada situs  [distrowatch](http://www.distrowatch.com). Distro Linux juga bisa disebut sebagai sistem operasi atau *operating system* (OS) karena sudah memiliki perangkat lunak untuk melakukan operasi pada komputer. Linux pada awalnya berkembang di lingkungan server, karena Linux sangat handal dalam hal **kestabilan sistem**. Namun, dengan semakin pesatnya dunia perangkat lunak terbuka, Linux kini juga merambah ke dunia **Desktop**. Perkembangan sangat pesat ini tidak lepas dari peran para sukarelawan yang berjasa dalam menyumbangkan ide dan tenaganya untuk mengembangkan Linux.
+Saat ini, banyak sekali terdapat distro-distro Linux yang memiliki segmen pasar, fitur, kelengkapan dan cita rasa yang berbeda. Anda bisa melihat berbagai distribusi Linux pada situs [distrowatch](http://www.distrowatch.com). Distro Linux juga bisa disebut sebagai sistem operasi atau _operating system_ (OS) karena sudah memiliki perangkat lunak untuk melakukan operasi pada komputer. Linux pada awalnya berkembang di lingkungan server, karena Linux sangat handal dalam hal **kestabilan sistem**. Namun, dengan semakin pesatnya dunia perangkat lunak terbuka, Linux kini juga merambah ke dunia **Desktop**. Perkembangan sangat pesat ini tidak lepas dari peran para sukarelawan yang berjasa dalam menyumbangkan ide dan tenaganya untuk mengembangkan Linux.
 
-## Kelebihan Linux 
+## Kelebihan Linux
+
 Sebagai suatu sistem operasi, Linux secara umum memiliki berbagai kelebihan dan kekurangan daripada sistem operasi lainnya. Berikut adalah kelebihan dari Linux :
 
-* Linux bisa didapatkan secara bebas tanpa perlu membayar lisensi. Anda juga bisa mengunduh kode sumber Linux jika ingin melihatnya tanpa ada batasan apapun.
-* Linux memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk keperluan laptop, desktop dan server. Jika perangkat lunak yang tersedia terasa kurang, Anda dapat menambahkannya dengan mudah melalui repository yang tersedia.
-* Linux sangat stabil karena jarang sekali *crash* maupun *hang*. Anda juga tidak perlu selalu melakukan *restart* jika melakukan konfigurasi sistem.
-* Linux lebih aman terhadap virus, karena selain jumlah virus di Linux sangat sedikit. Linux juga sangat ketat dalam hal **pengelolaan keamanan**.
-* Perbaikan kutu (*bug*) atau cacat yang terdapat di Linux sangat cepat, karena Linux dikembangkan secara komunitas dan setiap komunitas bisa memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut.
+- Linux bisa didapatkan secara bebas tanpa perlu membayar lisensi. Anda juga bisa mengunduh kode sumber Linux jika ingin melihatnya tanpa ada batasan apapun.
+- Linux memiliki koleksi perangkat lunak tersendiri yang sangat lengkap untuk keperluan laptop, desktop dan server. Jika perangkat lunak yang tersedia terasa kurang, Anda dapat menambahkannya dengan mudah melalui repository yang tersedia.
+- Linux sangat stabil karena jarang sekali _crash_ maupun _hang_. Anda juga tidak perlu selalu melakukan _restart_ jika melakukan konfigurasi sistem.
+- Linux lebih aman terhadap virus, karena selain jumlah virus di Linux sangat sedikit. Linux juga sangat ketat dalam hal **pengelolaan keamanan**.
+- Perbaikan kutu (_bug_) atau cacat yang terdapat di Linux sangat cepat, karena Linux dikembangkan secara komunitas dan setiap komunitas bisa memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut.
 
 ## Kekurangan Linux
+
 Apapun yang memiliki kelebihan pasti memiliki kekurangan, karena pada hakikatnya apa yang diciptakan oleh manusia tidak akan pernah sempurna. Berikut adalah berbagai kekurangan dari Linux :
 
-* Linux kurang memiliki dukungan dari produsen perangkat keras dalam hal penyediaan perangkat **lunak pengendali (driver)**. Hampir semua perangkat lunak pengendali yang saat ini ada di Linux merupakan hasil jerih payah komunitas, dan sebagian kecil murni dukungan dari produsen perangkat keras.
-* Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan permbuat **permainan** masih menggunakan sistem operasi Microsoft Windows sebagai platform mereka.
+- Linux kurang memiliki dukungan dari produsen perangkat keras dalam hal penyediaan perangkat **lunak pengendali (driver)**. Hampir semua perangkat lunak pengendali yang saat ini ada di Linux merupakan hasil jerih payah komunitas, dan sebagian kecil murni dukungan dari produsen perangkat keras.
+- Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan permbuat **permainan** masih menggunakan sistem operasi Microsoft Windows sebagai platform mereka.
 
 ## Apa itu BlankOn Linux?
 
-BlankOn Linux merupakan salah satu distro Linux yang berisikan perangkat lunak (*software*) yang dapat digunakan untuk keperluan **Desktop, Laptop,** dan **Workstation**. Dengan dipadukan oleh berbagai pernak–pernik khas Indonesia, distro ini sangat cocok digunakan untuk pengguna komputer di Indonesia.
+BlankOn Linux merupakan salah satu distro Linux yang berisikan perangkat lunak (_software_) yang dapat digunakan untuk keperluan **Desktop, Laptop,** dan **Workstation**. Dengan dipadukan oleh berbagai pernak–pernik khas Indonesia, distro ini sangat cocok digunakan untuk pengguna komputer di Indonesia.
 
 BlankOn Linux dikembangkan oleh **Yayasan Penggerak Linux Indonesia (YPLI** bersama Tim Pengembang BlankOn. Pengembangan BlankOn dilakukan secara terbuka dan gotong royong, sehingga siapa saja bisa turut berkontribusi untuk mengembangkan BlankOn agar menjadi lebih baik. BlankOn Linux juga bisa didapatkan oleh siapa saja tanpa perlu membayar untuk mengunduhnya. Bahkan, Anda bisa mendistribusikannya dan membagi-baginya secara bebas tanpa batas kepada siapa saja.
 
@@ -59,99 +62,102 @@ Pada tahun 2011 BlankOn **Versi 7.0** dirilis nama kode **Pattimura**. Nama Patt
 
 Pada tahun 2012 BlankOn 8.0 dirilis dengan nama kode Rote. BlankOn Rote merupakan nama sebuah pulau di daerah timur Indonesia. BlankOn 8.0 membawa beberapa fitur baru diantaranya HTML5 dan Gnome 3.
 
-Rilis berikutnya adalah BlankOn 9.0 dengan nama kode Suroboyo yang merupakan turunan Debian. BlankOn Suroboyo memberi dukungan pada  perangkat keras lebih banyak sehingga pengguna tidak perlu repot memasang penggerak (*driver*) untuk perangkat kerasnya. Rilis ini juga terdapat penambahan fitur serta aplikasi baru, diantaranya Manokwari. Manokwari adalah destop yang dikembangkan oleh pengembang BlankOn dengan teknologi HTML5 dan CSS3. Hal ini membuat destop manokwari menjadi destop cantik, modern, ringan dan mudah untuk dimodifikasi.
+Rilis berikutnya adalah BlankOn 9.0 dengan nama kode Suroboyo yang merupakan turunan Debian. BlankOn Suroboyo memberi dukungan pada perangkat keras lebih banyak sehingga pengguna tidak perlu repot memasang penggerak (_driver_) untuk perangkat kerasnya. Rilis ini juga terdapat penambahan fitur serta aplikasi baru, diantaranya Manokwari. Manokwari adalah destop yang dikembangkan oleh pengembang BlankOn dengan teknologi HTML5 dan CSS3. Hal ini membuat destop manokwari menjadi destop cantik, modern, ringan dan mudah untuk dimodifikasi.
 
 Setelah tertunda beberapa tahun, di awal tahun 2017, BlankOn X dirilis dengan nama kode Tambora. Pada rilis kali ini pengembang melakukan banyak perubahan, memberikan dukungan pada lebih banyak perangkat keras, dan menambahkan fitur-fitur terbaru pada beberapa paket khas BlankOn. Destop Manokwari BlankOn Tambora dilengapi dengan fitur pencarian, panel kanan, melihat cuaca, pemutar musik, mendukung resolusi layar yang tinggi, seperti retina display dan bisa digunakan di layar 4K. BlankOn Tambora menggunakan ikon Tebu sebagai ganti ikon Komodo yang telah digunakan 2 kali rilis sebelum BlankOn Tambora.
 
-
-
 ### Fitur BlankOn XI Uluwatu
-BlankOn XI Uluwatu berisi berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, laptop dan *workstation*. Perangkat lunak yang tersedia juga bisa ditambah dengan perangkat lunak lainnya agar sesuai dengan keperluan.
+
+BlankOn XI Uluwatu berisi berbagai perangkat lunak bebas dan terbuka untuk keperluan desktop, laptop dan _workstation_. Perangkat lunak yang tersedia juga bisa ditambah dengan perangkat lunak lainnya agar sesuai dengan keperluan.
 
 Secara umum, fitur-fitur dari BlankOn XI Uluwatu adalah sebagai berikut:
 
-* BlankOn Desktop merupakan gabungan [**Manokwari**](http://manokwari.blankonlinux.or.id/) dan **Gnome**. BlankOn XI Uluwatu menggunakan Gnome versi **3.26.2**. Destop BlankOn sangat sederhana, kaya fitur, serta dukungan mudah digunakan,
-* Menggunakan kernel Linux versi **4.14.13** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
-* Mendukung manajemen pemaketan aplikasi Flatpak
-* Menggunakan tema dan tampilan grafis khas Indonesia terutama Bali, sesuai nama kode yang digunakan, Uluwatu,
-* Menyediakan antarmuka menggunakan Bahasa Indonesia, sehingga bisa lebih dimengerti oleh orang awam,
-* Mendukunng berbagai aksara daerah di Indonesia sehingga kita dapat menulis aksara Bugis, Batak Toba, Bali, Sunda, Rejang dan Jawa.
-* Dilengkapi perangkat lunak untuk keperluan Anda berkomputer, seperti keperluan perkantoran, grafis, internet, multimedia, dan sebagainya.
-* Menyertakan dukungan format multimedia yang lengkap, seperti untuk memutar mp3, DVD, dan format lainnya,
-* LibreOffice versi 6.0.1.1 untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
-* Peramban web Firefox Quantum 58.0.1 untuk mengakses situs Internet,
-* Inkscape 0.92 untuk keperluan desain grafis dan Gimp 2.8.20 untuk mengolah foto,
-* Resep/Gnome-recipes untuk membaca dan mengeloa resep masakan (baru),
-* dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
-
+- BlankOn Desktop merupakan gabungan [**Manokwari**](http://manokwari.blankonlinux.or.id/) dan **Gnome**. BlankOn XI Uluwatu menggunakan Gnome versi **3.26.2**. Destop BlankOn sangat sederhana, kaya fitur, serta dukungan mudah digunakan,
+- Menggunakan kernel Linux versi **4.14.13** yang sangat stabil dengan dukungan perangkat keras yang sangat banyak,
+- Mendukung manajemen pemaketan aplikasi Flatpak
+- Menggunakan tema dan tampilan grafis khas Indonesia terutama Bali, sesuai nama kode yang digunakan, Uluwatu,
+- Menyediakan antarmuka menggunakan Bahasa Indonesia, sehingga bisa lebih dimengerti oleh orang awam,
+- Mendukunng berbagai aksara daerah di Indonesia sehingga kita dapat menulis aksara Bugis, Batak Toba, Bali, Sunda, Rejang dan Jawa.
+- Dilengkapi perangkat lunak untuk keperluan Anda berkomputer, seperti keperluan perkantoran, grafis, internet, multimedia, dan sebagainya.
+- Menyertakan dukungan format multimedia yang lengkap, seperti untuk memutar mp3, DVD, dan format lainnya,
+- LibreOffice versi 6.0.1.1 untuk keperluan perkantoran yang sangat mirip dan kompatibel dengan Microsoft Office,
+- Peramban web Firefox Quantum 58.0.1 untuk mengakses situs Internet,
+- Inkscape 0.92 untuk keperluan desain grafis dan Gimp 2.8.20 untuk mengolah foto,
+- Resep/Gnome-recipes untuk membaca dan mengeloa resep masakan (baru),
+- dan ada ratusan ribu aplikasi yang tersimpan dalam lumbung aplikasi.
 
 ### Pengembangan BlankOn Linux
+
 BlankOn Linux dikembangkan oleh Yayasan Penggerak Linux Indonesia (YPLI) bersama para komunitas pengembang Linux yang tergabung menjadi Tim Pengembang BlankOn Linux. Proyek BlankOn Linux terbuka untuk siapa saja yang terlibat dan berperan aktif dalam pengembangan BlankOn Linux ini.
 
 Dalam pengembangan BlankOn Linux Tim Pengembang BlankOn yang semula dibagi menjadi dua tim; Tim Rilis dan Tim Proyek. Pada pengembangan BlankOn Linux Uluwatu, kedua tim tersebut dilebur menjadi satu yang tim dipimpin oleh seorang manajer. Tim Pengembang Blankon terdiri dari tim-tim kecil yang bekerja sesuai tugasnya dan dipimpin oleh seorang **Koordinator**.
 
-  * **Tim Pemaket**
-Tim ini bertanggung jawab terhadap paket-paket yang dirilis ke sebuah rilis BlankOn.
+- **Tim Pemaket**
+  Tim ini bertanggung jawab terhadap paket-paket yang dirilis ke sebuah rilis BlankOn.
 
-  * **Tim Kesenian**
-Tim ini bertanggung jawab terhadap semua materi karya seni yang dirilis ke sebuah rilis BlankOn.
+- **Tim Kesenian**
+  Tim ini bertanggung jawab terhadap semua materi karya seni yang dirilis ke sebuah rilis BlankOn.
 
-  * **Tim Jaminan Kualitas**
-Tim ini bertanggung jawab terhadap kualitas sebuah rilis BlankOn. Tim ini sehari-hari mengurus tiket yang masuk, menjaga kualitas isi tiket, memantau siklus tiket, dan menutup tiket. Tim ini juga menyediakan tim untuk mengetes rilis BlankOn sehari-hari dan menyiapkan daftar tugas untuk tim tersebut.
+- **Tim Jaminan Kualitas**
+  Tim ini bertanggung jawab terhadap kualitas sebuah rilis BlankOn. Tim ini sehari-hari mengurus tiket yang masuk, menjaga kualitas isi tiket, memantau siklus tiket, dan menutup tiket. Tim ini juga menyediakan tim untuk mengetes rilis BlankOn sehari-hari dan menyiapkan daftar tugas untuk tim tersebut.
 
-  * **Tim Dokumentasi**
-Tim ini bertanggung jawab dalam mengumpulkan dokumentasi untuk pengguna pada sebuah rilis BlankOn. Produk tim ini adalah buku panduan, presentasi, dan catatan rilis BlankOn.
+- **Tim Dokumentasi**
+  Tim ini bertanggung jawab dalam mengumpulkan dokumentasi untuk pengguna pada sebuah rilis BlankOn. Produk tim ini adalah buku panduan, presentasi, dan catatan rilis BlankOn.
 
-  * **Tim Riset dan Aplikasi**
-Tim ini bertanggung jawab dalam melakukan riset dan menyediakan solusi dalam suatu permasalahan yang muncul. Tim ini juga bertanggung jawab mengimplementasikan fitur-fitur yang diminta oleh komunitas.
+- **Tim Riset dan Aplikasi**
+  Tim ini bertanggung jawab dalam melakukan riset dan menyediakan solusi dalam suatu permasalahan yang muncul. Tim ini juga bertanggung jawab mengimplementasikan fitur-fitur yang diminta oleh komunitas.
 
-  * **Tim Infrastruktur**
-Bertanggung jawab terhadap tugas-tugas operasional infrastruktur BlankOn, yaitu menjaga ketersediaan dan kualitas layanan infrastruktur. Artinya, Tim ini harus tanggap terhadap masalah pada ketersediaan layanan (server tidak boleh mati, dsb), dan juga masalah kualitas (kecepatan akses tidak boleh lambat, dst). Tim ini juga bertanggung jawab terhadap instalasi-instalasi layanan yang baru, baik fisik maupun perangkat lunak. Tim ini dibagi berdasarkan jenis layanan yang disediakan, diantaranya:
+- **Tim Infrastruktur**
+  Bertanggung jawab terhadap tugas-tugas operasional infrastruktur BlankOn, yaitu menjaga ketersediaan dan kualitas layanan infrastruktur. Artinya, Tim ini harus tanggap terhadap masalah pada ketersediaan layanan (server tidak boleh mati, dsb), dan juga masalah kualitas (kecepatan akses tidak boleh lambat, dst). Tim ini juga bertanggung jawab terhadap instalasi-instalasi layanan yang baru, baik fisik maupun perangkat lunak. Tim ini dibagi berdasarkan jenis layanan yang disediakan, diantaranya:
 
-    * Umum: Tim ini menangani hal-hal administrasi umum, termasuk (namun tidak terbatas pada):
-      	
-	* Akun SSH
-      	* Layanan web
-      	* bzr/git
+      * Umum: Tim ini menangani hal-hal administrasi umum, termasuk (namun tidak terbatas pada):
 
-    * Lumbung paket
-Tim ini menangani operasional lumbung paket, termasuk (namun tidak terbatas pada):
+      * Akun SSH
+        	* Layanan web
+        	* bzr/git
 
-      	* Membuka kunci lumbung
-      	* Membuat komponen baru
-      	* Sinkronisasi antara server
-      	* Menambah/hapus paket secara manual
-      	* DVDRepo
+      * Lumbung paket
 
-    * Pabrik
-Tim ini menangani operasional pabrik-pabrik, baik pabrik paket maupun pabrik CD. Tugas-tugasnya termasuk (namun tidak terbatas pada):
+  Tim ini menangani operasional lumbung paket, termasuk (namun tidak terbatas pada):
 
-      * Menjalankan/menghentikan pabrik
-      * Menambah tugas pabrik secara manual
-      * Membantu pemaket melakukan sidik gangguan saat ada kegagalan pengiriman paket
-      * Melakukan sidik gangguan saat ada kegagalan pembuatan CD
+        	* Membuka kunci lumbung
+        	* Membuat komponen baru
+        	* Sinkronisasi antara server
+        	* Menambah/hapus paket secara manual
+        	* DVDRepo
 
-  * **Tim Hubungan Masyarakat**
-Tim ini bertanggung jawab dalam mengumpulkan, mempromosikan, menghubungkan, dan menyebarluaskan semua informasi manfaat dan kebaikan BlankOn. Tim ini dibagi menjadi beberapa bagian;
+      * Pabrik
 
-    * Komunitas
-Tim ini menjadi penyambung lidah pengguna BlankOn, merawat forum dan milis, merawat wiki. Tim ini harus aktif di milis dan forum serta mengumpulkan informasi-informasi penting yang ada di milis/forum untuk diarsipkan dalam wiki. Tim ini juga menjaga kualitas isi wiki. Tim ini menjadi penghubung dan pendukung komunitas pengguna BlankOn. Tim ini perlu memiliki hak administrasi dalam pengaturan milis, forum, dan wiki.
+  Tim ini menangani operasional pabrik-pabrik, baik pabrik paket maupun pabrik CD. Tugas-tugasnya termasuk (namun tidak terbatas pada):
 
-    * Konferensi
-Tim ini bertanggung jawab dalam menyelenggarakan BlanKonf dan juga menyebarkan informasi BlankOn dalam konferensi-konferensi yang relevan, baik di dalam maupun luar negeri.
+        * Menjalankan/menghentikan pabrik
+        * Menambah tugas pabrik secara manual
+        * Membantu pemaket melakukan sidik gangguan saat ada kegagalan pengiriman paket
+        * Melakukan sidik gangguan saat ada kegagalan pembuatan CD
 
-    * Media
-Tim ini bertanggung jawab dalam menyediakan informasi baru, kliping tentang BlankOn dan penyegaran terhadap situs www.blankonlinux.or.id.
+- **Tim Hubungan Masyarakat**
+  Tim ini bertanggung jawab dalam mengumpulkan, mempromosikan, menghubungkan, dan menyebarluaskan semua informasi manfaat dan kebaikan BlankOn. Tim ini dibagi menjadi beberapa bagian;
 
-    * Tim Bisnis
-Tim ini bertanggung jawab dalam kegiatan yang berhubungan dengan bisnis komersial. Tim ini dipandu oleh YPLI. Jika Anda berminat untuk menjadi pengembang BlankOn Linux, silahkan membuat akun baru di situs pengembangan BlankOn Linux yaitu  http://dev.blankonlinux.or.id  dan bergabung di milis pengembang BlankOn Linux di blankon-dev@…. Anda bisa memilih menjadi salah satu dari tim yang disebutkan di atas. Kontribusi dari Anda sangat diperlukan agar BlankOn Linux bisa menjadi lebih baik.
+      * Komunitas
+
+  Tim ini menjadi penyambung lidah pengguna BlankOn, merawat forum dan milis, merawat wiki. Tim ini harus aktif di milis dan forum serta mengumpulkan informasi-informasi penting yang ada di milis/forum untuk diarsipkan dalam wiki. Tim ini juga menjaga kualitas isi wiki. Tim ini menjadi penghubung dan pendukung komunitas pengguna BlankOn. Tim ini perlu memiliki hak administrasi dalam pengaturan milis, forum, dan wiki.
+
+      * Konferensi
+
+  Tim ini bertanggung jawab dalam menyelenggarakan BlanKonf dan juga menyebarkan informasi BlankOn dalam konferensi-konferensi yang relevan, baik di dalam maupun luar negeri.
+
+      * Media
+
+  Tim ini bertanggung jawab dalam menyediakan informasi baru, kliping tentang BlankOn dan penyegaran terhadap situs www.blankonlinux.id
+
+      * Tim Bisnis
+
+  Tim ini bertanggung jawab dalam kegiatan yang berhubungan dengan bisnis komersial. Tim ini dipandu oleh YPLI. Jika Anda berminat untuk menjadi pengembang BlankOn Linux, silahkan membuat akun baru di situs pengembangan BlankOn Linux yaitu http://blankonlinux.id/en/wiki dan bergabung di milis pengembang BlankOn Linux di blankon-dev@…. Anda bisa memilih menjadi salah satu dari tim yang disebutkan di atas. Kontribusi dari Anda sangat diperlukan agar BlankOn Linux bisa menjadi lebih baik.
 
 ## Tautan dan Umpan Balik
+
 Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai distro BlankOn Linux:
 
-  * http://www.blankonlinux.or.id, situs resmi BlankOn Linux.
-  * http://cdimage.blankonlinux.or.id, halaman web untuk mengunduh distro BlankOn Linux.
-  * http://dev.blankonlinux.or.id, situs wiki untuk informasi pengembangan distro BlankOn Linux.
-
-
-
+- http://www.blankonlinux.id, situs resmi BlankOn Linux.
+- http://jahitan.blankonlinux.id/release, halaman web untuk mengunduh distro BlankOn Linux.
+- http://blankonlinux.id/wiki, situs wiki untuk informasi pengembangan distro BlankOn Linux.

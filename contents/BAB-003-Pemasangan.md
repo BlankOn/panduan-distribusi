@@ -1,123 +1,142 @@
 \newpage
+
 # Memasang BlankOn
 
 Bab ini membahas bagaimana cara memasang BlankOn pada komputer. Pemasangan BlankOn akan sangat mudah dilakukan apabila Anda sudah memahami persiapan dan langkah-langkah apa saja yang perlu dilakukan.
 
 ## Kebutuhan Sistem
+
 Sebelum melakukan pemasangan, maka perlu diperhatikan terlebih dahulu apakah komputer Anda sudah memenuhi syarat spesifikasi minimal agar BlankOn bisa berjalan dengan lancar. Berikut ini adalah spesifikasi minimal untuk BlankOn XI Uluwatu:
-  * Prosesor setara pentium IV dengan kecepatan minimal 2,8 Ghz (rekomendasi Dual Core)
-  * Memori RAM 1 GB
-  * Kartu video atau VGA minimal memiliki memori 128 MB atau 512 MB untuk efek desktop.
-  * Media Simpan dengan ukuran 12 GB atau lebih.
-  * Menggunakan arsitektur amd 64 bit.
+
+- Prosesor setara pentium IV dengan kecepatan minimal 2,8 Ghz (rekomendasi Dual Core)
+- Memori RAM 1 GB
+- Kartu video atau VGA minimal memiliki memori 128 MB atau 512 MB untuk efek desktop.
+- Media Simpan dengan ukuran 12 GB atau lebih.
+- Menggunakan arsitektur amd 64 bit.
 
 ## Cara Mendapatkan BlankOn
-Untuk mendapatkan berkas iso BlankOn, Anda bisa mengunduhnya dari situs resmi BlankOn [http://cdimage.blankonlinux.or.id/](http://cdimage.blankonlinux.or.id/). Berkas cetakan tersebut selanjutnya dapat dibuat *bootable* ke Flashdisk atau Harddisk External dengan Unetbootin, cara lainya adalah dengan dibakar ke DVD kosong menggunakan aplikasi pembakar DVD seperti Brasero, K3b, Nero, Roxio, dsb.
+
+Untuk mendapatkan berkas iso BlankOn, Anda bisa mengunduhnya dari situs resmi BlankOn [http://jahitan.blankonlinux.id/release](https://jahitan.blankonlinux.id/release). Berkas cetakan tersebut selanjutnya dapat dibuat _bootable_ ke Flashdisk atau Harddisk External dengan Unetbootin, cara lainya adalah dengan dibakar ke DVD kosong menggunakan aplikasi pembakar DVD seperti Brasero, K3b, Nero, Roxio, dsb.
 
 ### Tip:
-Agar proses pengunduhan berkas iso BlankOn lebih lancar, Anda dapat memanfaatkan situs cermin (*mirror*) berikut ini:
 
-  * http://kambing.ui.ac.id/iso/blankon
-  * http://mirror.unej.ac.id/blankon-cd
-  * ftp://dl2.foss-id.web.id/iso/blankon
-  * http://buaya.klas.or.id/pub/blankon
-  * http://pandawa.ipb.ac.id/iso/blankon/
-  * http://repo.ugm.ac.id/iso/blankon
-  * http://jaran.undip.ac.id/public/ISO/
-  * http://mugos.ums.ac.id/iso/Blankon
-  * http://pinguin.ittelkom.ac.id/mirror/iso/blankon/
-  * ftp://ftp.paudni.kemdiknas.go.id/blankon/
-  * ftp://singo.ub.ac.id/linux/blankon/
+Agar proses pengunduhan berkas iso BlankOn lebih lancar, Anda dapat memanfaatkan situs cermin (_mirror_) berikut ini:
 
-Bagi Anda yang memiliki koneksi terbatas atau tidak dapat terhubung dengan internet, dapat membeli DVD BlankOn melalui toko penjual DVD atau meminjamnya dari teman yang telah memilikinya. Berikut adalah beberapa toko penjual CD/DVD Linux yang ada di Indonesia: 
-​	
-  * Juragan Kambing ( http://juragan.kambing.ui.ac.id/)
-  * Toko Baliwae ( http://toko.baliwae.com/)
-  * Gudang Linux ( http://gudanglinux.com/)
-  * Lapak Linux dan FOSS ( http://www.lapak-linux-dan-foss.com/)
+- http://kambing.ui.ac.id/iso/blankon
+- http://mirror.unej.ac.id/blankon-cd
+- ftp://dl2.foss-id.web.id/iso/blankon
+- http://buaya.klas.or.id/pub/blankon
+- http://pandawa.ipb.ac.id/iso/blankon/
+- http://repo.ugm.ac.id/iso/blankon
+- http://jaran.undip.ac.id/public/ISO/
+- http://mugos.ums.ac.id/iso/Blankon
+- http://pinguin.ittelkom.ac.id/mirror/iso/blankon/
+- ftp://ftp.paudni.kemdiknas.go.id/blankon/
+- ftp://singo.ub.ac.id/linux/blankon/
+
+Bagi Anda yang memiliki koneksi terbatas atau tidak dapat terhubung dengan internet, dapat membeli DVD BlankOn melalui toko penjual DVD atau meminjamnya dari teman yang telah memilikinya. Berikut adalah beberapa toko penjual CD/DVD Linux yang ada di Indonesia:
+​
+
+- Juragan Kambing ( http://juragan.kambing.ui.ac.id/)
+- Toko Baliwae ( http://toko.baliwae.com/)
+- Gudang Linux ( http://gudanglinux.com/)
+- Lapak Linux dan FOSS ( http://www.lapak-linux-dan-foss.com/)
 
 ## Persiapan Menjelang Pemasangan
+
 Sebelum melakukan pemasangan BlankOn, lakukan beberapa persiapan seperti berikut:
 
-  1. Persiapkan flashdisk atau DVD BlankOn sebagai alat yang akan gunakan untuk mencoba dan atau memasang BlankOn pada komputer. Pastikan flashdisk atau DVD dalam keadaan baik agar proses pemasangan lancar.
+1. Persiapkan flashdisk atau DVD BlankOn sebagai alat yang akan gunakan untuk mencoba dan atau memasang BlankOn pada komputer. Pastikan flashdisk atau DVD dalam keadaan baik agar proses pemasangan lancar.
 
-  2. Agar data Anda aman dan terhindar dari resiko kehilangan data, buatlah cadangan data-data penting ke media simpan cadangan seperti misalnya flashdisk, harddisk, atau CD/DVD.
+2. Agar data Anda aman dan terhindar dari resiko kehilangan data, buatlah cadangan data-data penting ke media simpan cadangan seperti misalnya flashdisk, harddisk, atau CD/DVD.
 
-  3. Tentukan skema partisi harddisk yang Anda inginkan. Partisi merupakan bagian ruang-ruang data yang terdapat pada media simpan. Jika Anda ingin membuat *dual-boot* (terdapat dua sistem operasi dalam satu komputer), Anda harus membuat partisi baru pada media simpan di komputer yang nantinya akan digunakan sebagai tempat pemasangan BlankOn. Pembahasan lebih lanjut akan dijelaskan pada sub-bab pemasangan.
+3. Tentukan skema partisi harddisk yang Anda inginkan. Partisi merupakan bagian ruang-ruang data yang terdapat pada media simpan. Jika Anda ingin membuat _dual-boot_ (terdapat dua sistem operasi dalam satu komputer), Anda harus membuat partisi baru pada media simpan di komputer yang nantinya akan digunakan sebagai tempat pemasangan BlankOn. Pembahasan lebih lanjut akan dijelaskan pada sub-bab pemasangan.
 
-  4. Pastikan tegangan listrik stabil. Hal ini perlu dilakukan untuk menghindari listrik yang tiba-tiba padam pada saat pemasangan dan menyebabkan terjadinya kerusakan fisik pada komputer, terutama media simpan.
+4. Pastikan tegangan listrik stabil. Hal ini perlu dilakukan untuk menghindari listrik yang tiba-tiba padam pada saat pemasangan dan menyebabkan terjadinya kerusakan fisik pada komputer, terutama media simpan.
 
-  5. Lakukan pengaturan pada BIOS agar komputer membaca flashdisk atau DVD terlebih dahulu untuk proses booting. Silahkan merujuk ke buku manual komputer atau motherboard anda mengenai cara melakukan pengaturan ini.
+5. Lakukan pengaturan pada BIOS agar komputer membaca flashdisk atau DVD terlebih dahulu untuk proses booting. Silahkan merujuk ke buku manual komputer atau motherboard anda mengenai cara melakukan pengaturan ini.
 
 ## Mengatur Bahasa dan Memilih Moda
+
 Jendela yang tampil pertama ketika Anda menjalankan BlankOn XI Uluwatu melalui DVD atau Flashdisk adalah **Pilih Bahasa** dan **Pilih Moda**.
 
 ### Mengatur Bahasa
+
 Secara baku BlankOn XI Uluwatu menyediakan dua bahasa ketika akan melakukan pemasang, yaitu **Bahasa Inggris** dan **Bahasa Indonesia**. Pilih bahasa yang sesuai, dalam buku Panduan ini menggunakan **Antarmuka Bahasa Indonesia**.
 
 ![](CuplikanLayar/Pasang/3PilihBahasa.png)
 
 ### Memilih Moda
-Anda dapat memilih, apakah  Anda akan langsung menjalankan BlankOn XI Uluwatu melalui Live DVD/USB tanpa memasangnya ke komputer atau langsung memasangnya pada media simpan.
+
+Anda dapat memilih, apakah Anda akan langsung menjalankan BlankOn XI Uluwatu melalui Live DVD/USB tanpa memasangnya ke komputer atau langsung memasangnya pada media simpan.
 
 ## Memasang BlankOn
+
 Klik tombol **Pasang BlankOn**
 
 ![](CuplikanLayar/Pasang/5Pasang.png)
 
 ### Pilih Zona waktu
+
 Beberapa saat setelah Anda menekan tombol **Pasang BlankOn**, maka tampil jendela untuk memilih **Zona Waktu** sesuai tempat Anda berada. Contoh, pilih **Asia/Jakarta**, klik tombol **Lanjut** untuk menuju proses berikutnya.
 
 ![](CuplikanLayar/Pasang04.png)
 
 ### Pilih Media
+
 Klik **Pilih diska...** dan pilih media simpan di komputer Anda sebagai tempat pemasangan BlankOn XI Uluwatu. Jika di komputer Anda terpasang lebih dari satu media simpan, harap berhati-hati dalam memilih media simpan yang akan digunakan. Klik tombol **Lanjut**.
 
 ![](CuplikanLayar/Pasang05.png)
 
-
 ![](CuplikanLayar/Pasang06.png)
 
 ### Memilih Moda Pemasangan
+
 BlankOn menyediakan dua moda pemasangan;
+
 1. Pemasangan Bersih
 2. Moda Mahir
 
 ![](CuplikanLayar/Pasang07.png)
 
 ### Pemasangan Bersih
+
 Bila kita memilih **Pemasangan Bersih**, pada kotak dialog berikutnya akan muncul peringatan;
->**Peringatan:** Tindakan ini akan menghapus program, dokumen, foto, musik dan berkas lain di semua sistem operasi yang ada.
+
+> **Peringatan:** Tindakan ini akan menghapus program, dokumen, foto, musik dan berkas lain di semua sistem operasi yang ada.
 
 Bila Anda setuju, klik **lanjut**. Bila Anda tidak setuju, klik **Batal**.
 
 ![](CuplikanLayar/Pasang08.png)
 
-
 ### Pemasangan Moda Mahir
+
 Selain pemasangan bersih, Anda dapat juga memilih pemasangan dengan Moda Mahir cara memilih **Masuk ke moda mahir** sehingga muncul jendela untuk mengatur partisi.
 
 > **Peringatan**: Fitur moda mahir masih dalam pengembangan. Anda mungkin akan menemui beberapa kutu dan kesalahan yang dapat berujuang pada kehilangan data. Jika itu terjadi, silakan laporkan ke https://github.com/BlankOn/Uluwatu/issues .
 
-![](CuplikanLayar/Pasang/ModaMahir.png)	
+![](CuplikanLayar/Pasang/ModaMahir.png)
 
 #### Personalisasi
-Masukkan informasi tentang nama komputer, nama pengguna serta *password*/kata sandi pengguna. Ketik beberapa informasi tersebut pada kotak yang tersedia. Jika ketika Anda ingin masuk ke destop tanpa harus memasukkan kata sandi,klik dan beri tanda pada kotak di samping kiri **Masuk secara otomatis**. Klik tombol **Lanjut** untuk melanjutkan ke langkah berikutnya.
 
-![](CuplikanLayar/Pasang09.png)			
+Masukkan informasi tentang nama komputer, nama pengguna serta _password_/kata sandi pengguna. Ketik beberapa informasi tersebut pada kotak yang tersedia. Jika ketika Anda ingin masuk ke destop tanpa harus memasukkan kata sandi,klik dan beri tanda pada kotak di samping kiri **Masuk secara otomatis**. Klik tombol **Lanjut** untuk melanjutkan ke langkah berikutnya.
 
+![](CuplikanLayar/Pasang09.png)
 
 ![](CuplikanLayar/Pasang10.png)
 
 #### Ringkasan Pemasangan
+
 Periksa ringkasan informasi yang telah dibuat sebelumnya. **Ringkasan Pemasangan** berisi keterangan dari Media simpan dan partisi target pemasangan, Nama komputer, Nama pengguna, dan keterangan mode masuk ke destop. Klik tombol **Pasang BlankOn** untuk melakukan pemasangan BlankOn sesungguhnya.
 
 **Catatan:**
-  * Jika Anda masih ragu untuk melanjutkan ke proses berikutnya tekan tombol **Kembali** untuk menyunting/*mengedit informasi pada komputer yang akan dipasang BlankOn.
+
+- Jika Anda masih ragu untuk melanjutkan ke proses berikutnya tekan tombol **Kembali** untuk menyunting/\*mengedit informasi pada komputer yang akan dipasang BlankOn.
 
 ![](CuplikanLayar/Pasang11.png)
 
 #### Proses Pemasangan
+
 Ketika muncul tampilan proses Pemasangan BlankOn yang sedang berlangsung, tunggu beberapa saat hingga selesai.
 
 ![](CuplikanLayar/Pasang12.png)
@@ -135,31 +154,38 @@ Bila pada saat proses pemasangan muncul kotak pesan **blankon-installer is not r
 ![](CuplikanLayar/Pasang16.png)
 
 #### Pemasangan Selesai
+
 Setelah proses pemasangan berhasil maka akan muncul jendela berisi dua pilihan yaitu **Lanjut menggunakan sistem dalam moda live** atau **Mula Ulang**, klik salah satu dari kedua pilihan tersebut sesuai selera Anda.
 
 ![](CuplikanLayar/Pasang18.png)
 
 ## Pasang BlankOn Berdampingan dengan Sistem Operasi Lain
-Pada sub bab sebelumnya sudah dijelaskan cara memasang BlankOn XI Uluwatu pada media simpan yang masih kosong atau pada komputer yang belum memiliki sistem operasi. Pada sub bab ini akan dijelaskan bagaimana cara memasang BlankOn XI Uluwatu pada komputer yang sudah memiliki sistem operasi tanpa menghapus sistem operasi tersebut, atau dengan kata lain memasang BlankOn berdampingan dengan sistem operasi lain (*dual boot*)
+
+Pada sub bab sebelumnya sudah dijelaskan cara memasang BlankOn XI Uluwatu pada media simpan yang masih kosong atau pada komputer yang belum memiliki sistem operasi. Pada sub bab ini akan dijelaskan bagaimana cara memasang BlankOn XI Uluwatu pada komputer yang sudah memiliki sistem operasi tanpa menghapus sistem operasi tersebut, atau dengan kata lain memasang BlankOn berdampingan dengan sistem operasi lain (_dual boot_)
 
 Bila pada media simpan masih ada partisi yang kosong, kita dapat langsung BlankOn pada partisi tersebut. Akan tetapi jika media simpan sudah tidak memiliki partisi yang masih kosong maka Anda perlu menyiapkan partisi kosong dengan cara memotong salah satu partisi yang sudah ada. Di bawah ini adalah penjelasan singkat cara menyiapkan partisi baru pada komputer yang belum memiliki partisi kosong
 
 ### Menyiapkan Partisi
+
 Nyalakan komputer dan jalan BlankOn XI Uluwatu melalui **live DVD** atau **Flashdisk**, kemudian pilih opsi **Lanjut menggunakan sistem dalam moda live**.
 
 Jika media simpan di komputer yang akan dipasang BlankOn XI Uluwatu sudah tersedia partisi kosong langsung pilih **Pasang BlankOn**.
 
 ##### Peringatan
-  * Sebelum mengikuti panduan pada sub bab ini lebih lanjut, sebaiknya pahami dulu lebih dalam mengenai manajemen partisi pada komputer. Anda juga perlu membuat data cadangan (*backup*) data penting yang ada di dalam partisi yang akan disunting ke media simpan luar (misal: *hard* *disk* *external*), karena resiko kehilangan data sangat besar.
+
+- Sebelum mengikuti panduan pada sub bab ini lebih lanjut, sebaiknya pahami dulu lebih dalam mengenai manajemen partisi pada komputer. Anda juga perlu membuat data cadangan (_backup_) data penting yang ada di dalam partisi yang akan disunting ke media simpan luar (misal: _hard_ _disk_ _external_), karena resiko kehilangan data sangat besar.
 
 #### Menjalankan GParted
+
 Untuk mengatur partisi di media simpan pada BlankOn XI Uluwatu dapat dilakukan dengan menggunakan aplikasi penyunting partisi bernama **Gparted**, berikut cara menggunakannya:
 Buka aplikasi penyunting partisi melalui **Menu utama BlankOn** => **Administrasi** => **Gparted Partition Editor**
 
 #### Memilih Media Simpan
-Langkah pertama untuk menyunting partisi adalah **memilih media simpan** yang terpasang di komputer. Hal ini wajib dilakukan jika pada komputer yang akan Anda pasang sistem operasi baru memiliki lebih dari satu media simpan, untuk melakukannya klik tanda segitiga kecil menghadap ke bawah di sebelah kanan Baris Alat /*Tool bar*, pilih salah satu media simpan yang akan digunakan sebagai tempat pemasangan sistem operasi.
+
+Langkah pertama untuk menyunting partisi adalah **memilih media simpan** yang terpasang di komputer. Hal ini wajib dilakukan jika pada komputer yang akan Anda pasang sistem operasi baru memiliki lebih dari satu media simpan, untuk melakukannya klik tanda segitiga kecil menghadap ke bawah di sebelah kanan Baris Alat /_Tool bar_, pilih salah satu media simpan yang akan digunakan sebagai tempat pemasangan sistem operasi.
 
 #### Mengubah Ukuran Partisi
+
 Dalam contoh buku ini media simpan yang digunakan sudah tidak memiliki partisi kosong lagi sebagai tempat pemasangan sistem operasi baru. Satu-satunya cara agar dapat memasang sistem operasi baru adalah mengubah ukuran partisi yang sudah ada dengan cara memperkecil ukurannya, kemudian menambahkan partisi baru.
 
 Berikut caranya; Letakkan kursor pada partisi paling akhir, **klik kanan** => **Ubah Ukuran/Pindahkan**
@@ -172,5 +198,4 @@ Jika muncul peringatan untuk melakukan perubahan klik **Terapkan Semua Operasi**
 
 Maka proses penggeseran partisi segera berlangsung. Tunggu hingga selesai, kemudian klik tombol **Tutup**. Lama proses penggeseran partisi tergantung dari banyaknya data dan spesifikasi komputer yang Anda gunakan.
 
-Sekarang Anda sudah memiliki area yang masih kosong pada media simpan yang terpasang di komputer Anda. Area kosong tersebut dapat digunakan sebagai tempat pemasangan sistem operasi baru. Anda dapat langsung membuat partisi baru atau langsung memasang sistem operasi baru pada area kosong tersebut. Dalam  buku ini menggunakan pilih kedua, yaitu memasang langsung sistem operasi baru pada area kosong tersebut, caranya kurang lebih sama dengan memasang BlankOn yang sudah dijelaskan pada sub bab sebelumnya.
-
+Sekarang Anda sudah memiliki area yang masih kosong pada media simpan yang terpasang di komputer Anda. Area kosong tersebut dapat digunakan sebagai tempat pemasangan sistem operasi baru. Anda dapat langsung membuat partisi baru atau langsung memasang sistem operasi baru pada area kosong tersebut. Dalam buku ini menggunakan pilih kedua, yaitu memasang langsung sistem operasi baru pada area kosong tersebut, caranya kurang lebih sama dengan memasang BlankOn yang sudah dijelaskan pada sub bab sebelumnya.
