@@ -1,21 +1,12 @@
-
-
     *
 
-
-
-
-
-
-
-
-
-  /
-
+/
 
     * 5  /
     * Bab7
+
 ## BAB VII Aplikasi Internet
+
 TOC?
 Internet saat ini tidaklah lagi termasuk ke dalam kebutuhan tersier atau mewah.
 Kini, Internet menjadi kebutuhan yang sangat penting bagi setiap orang untuk
@@ -27,11 +18,15 @@ melalui notebook atau perangkat lain yang memiliki fitur Wifi.
 Untuk memanfaatkan jaringan Internet, BlankOn Linux menyediakan berbagai
 aplikasi yang siap dipakai untuk keperluan Anda internet seperti peramban atau
 peramban web, klien e-mail atau surat elektronik dan pesan instan.
+
 ### Koneksi ke Jaringan Internet
+
 Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus
 menyambungkan komputer ke jaringan Internet melalui LAN, Wireless LAN (Wifi),
 Modem 3G/HSDPA, atau Modem ADSL.
+
 #### Melalui kabel LAN
+
 Pada umumnya, tempat-tempat kerja menyediakan jaringan Internet melalui
 jaringan kabel atau wired. Untuk melakukan koneksi internet melalui kabel,
 cukup sambungkan kabel RJ-45 dari jaringan LAN Anda ke LAN Card atau NIC yang
@@ -61,7 +56,9 @@ Untuk melakukan koneksi dengan jaringan kabel dengan pengaturan jaringan yang
 baru dibuat, klik pada ikon dua komputer pada area notifikasi. Pada bagian
 “Wired Networks”, pilih nama pengaturan jaringan Anda. Maka tidak lama kemudian
 akan muncul pesan bahwa jaringan telah berhasil terjalin.
+
 #### Melalui hotspot atau Wireless LAN
+
 Saat ini, banyak sekali terdapat tempat-tempat umum atau perkantoran yang
 menerapkan jaringan melalui teknologi wireless LAN atau yang sering dikenal
 dengan istilah hotspot. Dengan jaringan seperti ini, tidak perlu lagi
@@ -86,7 +83,9 @@ Sekarang, Anda bisa mengulangi melakukan koneksi ke jaringan hotspot yang sudah
 Anda atur. Maka tidak akan lama, koneksi akan terjalin.
 TIP : Jika kartu jaringan wireless tidak terdeteksi dengan baik, Anda bisa
 menuju ke Bab 13 pada subbab tentang konfigurasi kartu WLAN.
+
 #### Melalui modem ADSL
+
 Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan
 telepon PSTN. Penggunaan modem ADSL tidak serepot menggunakan ISP berbasis
 radio yang menjamur saat ini, karena tidak perlu membangun tower yang tinggi.
@@ -97,7 +96,9 @@ pada komputer, maka komputer akan langsung melakukan koneksi terhadap modem
 tersebut. Tidak akan lama, koneksi akan terjalin dan Anda bisa mulai ber-
 internet ria.
 [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/nm-lan-connect.png]
+
 #### Melalui modem 3G/HSDPA
+
 Saat ini, banyak operator telekomunikasi berbasis 3G/HSDPA di Indonesia yang
 menawarkan koneksi Internet yang cepat dan murah serta menjangkau banyak
 tempat.
@@ -108,41 +109,46 @@ HSDPA yang diberikan oleh operator.
 Untuk menggunakan modem 3G/HSDPA pada BlankOn Linux, bukanlah perkara yang
 sangat sulit karena, BlankOn sudah memiliki peralatan yang mendukung banyak
 modem 3G/HSDPA. Berikut adalah langkah-langkahnya :
-   1. Pertama-tama, klik kanan ikon dua buah komputer pada area notifikasi,
-      kemudian pilih “Rubah Koneksi”. Kemudian, klik pada tab “Broadband alat
-      bergerak”.
-   2. Klik tambah untuk menambahkan operator baru. Pada jendela “New Mobile
-      Broadband”, klik pada tombol “Maju” untuk maju ke langkah selanjutnya.
-   3. Pada pemilihan provider, pilih operator/provider dari layanan 3G/HSDPA
-      yang Anda gunakan. Kemudian, klik tombol “Maju”.
-[/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/nm-select-provider.png]
-   1. Kemudian, tentukan dari nama operator yang diinginkan. Lalu klik tombol
-      “Terapkan”.
-   2. Jika ingin melakukan pengaturan lebih lanjut, Anda bisa klik pada
-      operator yang baru dibuat, lalu klik tombol “Ubah”. Kemudian, sesuaikan
-      pengaturan sesuai dengan pengaturan dari operator Anda.
-   3. Sekarang, colokkan modem 3G/HSDPA melalui port USB. Kemudian, klik pada
-      ikon dua buah komputer pada notifikasi area. Lalu pada bagian Mobile
-      Broadband, klik pada nama operator yang sudah dibuat sebelumnya. Jika
-      koneksi berhasil dilakukan, maka akan muncul pesan notifikasi bahawa
-      sambungan berhasil terjalin.
-TIP. Jika modem 3G/HSDPA tidak terdeteksi, Anda bisa berdiskusi melalui Mailing
-List atau Forum BlankOn Linux untuk menemukan pemecahannya.
+
+1.  Pertama-tama, klik kanan ikon dua buah komputer pada area notifikasi,
+    kemudian pilih “Rubah Koneksi”. Kemudian, klik pada tab “Broadband alat
+    bergerak”.
+2.  Klik tambah untuk menambahkan operator baru. Pada jendela “New Mobile
+    Broadband”, klik pada tombol “Maju” untuk maju ke langkah selanjutnya.
+3.  Pada pemilihan provider, pilih operator/provider dari layanan 3G/HSDPA
+    yang Anda gunakan. Kemudian, klik tombol “Maju”.
+    [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/nm-select-provider.png]
+4.  Kemudian, tentukan dari nama operator yang diinginkan. Lalu klik tombol
+    “Terapkan”.
+5.  Jika ingin melakukan pengaturan lebih lanjut, Anda bisa klik pada
+    operator yang baru dibuat, lalu klik tombol “Ubah”. Kemudian, sesuaikan
+    pengaturan sesuai dengan pengaturan dari operator Anda.
+6.  Sekarang, colokkan modem 3G/HSDPA melalui port USB. Kemudian, klik pada
+    ikon dua buah komputer pada notifikasi area. Lalu pada bagian Mobile
+    Broadband, klik pada nama operator yang sudah dibuat sebelumnya. Jika
+    koneksi berhasil dilakukan, maka akan muncul pesan notifikasi bahawa
+    sambungan berhasil terjalin.
+    TIP. Jika modem 3G/HSDPA tidak terdeteksi, Anda bisa berdiskusi melalui Mailing
+    List atau Forum BlankOn Linux untuk menemukan pemecahannya.
+
 ### Peramban web Mozilla Firefox
+
 Kebanyakan orang memanfaatkan jaringan internet dengan melakukan browsing atau
 merambah halaman web untuk keperluan mencari suatu informasi atau keperluan
 lainnya. Untuk melakukan browsing pada BlankOn Linux, Anda bisa memanfaatkan
 aplikasi bernama Mozilla Firefox. Untuk membuka aplikasi ini, klik menu BlankOn
+
 > Internet > Firefox web peramban.
-INFO: Mozilla Firefox hanya tersedia pada BlankOn edisi Reguler. Untuk edisi
-Minimalis, Anda bisa menggunakan aplikasi serupa bernama Epiphany yang bisa
-diakses melalui menu BlankOn > Network > Epiphany Web peramban. Penampilan dari
-Epiphany tidak jauh berbeda dengan Firefox, bahkan mesin atau engine yang
-digunakanpun sama.
-[/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/firefox-main-window.png]
-Jika Anda sudah pernah menggunakan Mozilla Firefox di sistem operasi Microsoft
-Windows, Anda tidak akan asing dengan Firefox di BlankOn karena tampilannya
-sangat mirip. Berikut adalah bagian-bagian dari jendela aplikasi Firefox :
+> INFO: Mozilla Firefox hanya tersedia pada BlankOn edisi Reguler. Untuk edisi
+> Minimalis, Anda bisa menggunakan aplikasi serupa bernama Epiphany yang bisa
+> diakses melalui menu BlankOn > Network > Epiphany Web peramban. Penampilan dari
+> Epiphany tidak jauh berbeda dengan Firefox, bahkan mesin atau engine yang
+> digunakanpun sama.
+> [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/firefox-main-window.png]
+> Jika Anda sudah pernah menggunakan Mozilla Firefox di sistem operasi Microsoft
+> Windows, Anda tidak akan asing dengan Firefox di BlankOn karena tampilannya
+> sangat mirip. Berikut adalah bagian-bagian dari jendela aplikasi Firefox :
+
     * Menu bar, berisikan semua perintah-perintah berbentuk menu yang bisa Anda
       jalankan.
     * Toolbar navigasi, berisikan ikon-ikon perintah yang berfungsi untuk
@@ -157,9 +163,10 @@ sangat mirip. Berikut adalah bagian-bagian dari jendela aplikasi Firefox :
       pencari yang Anda inginkan.
     * Halaman web, disinilah halaman web ditampilkan.
     * Status, menampilkan status dari pembukaan suatu halaman web.
+
 Untuk membuka suatu situs, ketik alamat situs yang Anda buka pada bar alamat.
 Misalnya, untuk membuka situs resmi BlankOn Linux, ketik
-www.blankonlinux.or.id. Setelah alamat diketik, tekan tombol Enter untuk
+www.blankonlinux.id. Setelah alamat diketik, tekan tombol Enter untuk
 memulai membukanya. Tunggu sebentar sampai halaman situs dibuka. Firefox juga
 bisa Anda gunakan untuk membuka berbagai macam situs dalam satu waktu. Untuk
 melakukan hal ini, Anda bisa menambahkan tab baru pada Firefox melalui menu
@@ -187,7 +194,9 @@ fitur-fitur yang ada di Mozilla Firefox. Anda bisa mengunjungi situs ​http://
 addons.mozilla.com untuk mencari dan menambah pengaya untuk Mozilla Firefox.
 TIP. Untuk menggunakan fitur Flash dan Java pada Mozilla Firefox, Anda bisa
 memasang paket “flashplugin-nonfree” serta “sun-java6-plugin” melalui APT.
+
 ### Klien E-Mail Evolution
+
 E-Mail merupakan sarana bersurat melalui Internet yang saat ini banyak
 digunakan oleh pengguna layanan Internet untuk melakukan komunikasi melalui
 surat. E-Mail bisa dibuka melalui dua jalur, yang pertama adalah melalui jalur
@@ -203,38 +212,41 @@ Microsoft Outlook di Microsoft Windows.
 Untuk membuka Evolution, klik menu BlankOn > Internet > E-Mail Evolution. Pada
 saat pertama kali dibuka, Evolution akan menampilkan program bantu/wizard
 pengaturan awal. Ikuti langkah-langkahnya sebagai berikut :
-   1. Langkah pertama, klik tombol “Maju”.
-   2. Jika memiliki backup data tugas, klik pada centang “Restore Evolution
-      from Backup file” dan tentukan berkas backupnya. Kemudian, klik tombol
-      “Maju”.
-   3. Isikan identitas lengkap anda, kemudian klik tombol “Maju”.
-   4. Tentukan jenis server penerimaan E-Mail serta atur parameter server E-
-      Mail sesuai dengan petunjuk yang diberikan oleh layanan E-Mail. Kemudian,
-      klik tombol “Maju”.
-[/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/evolution-pop-setting-
-wizard.png]
-   1. Tentukan opsi penerimaan e-mail yang diinginkan, kemudian klik tombol
-      “Maju”.
-   2. Tentukan jenis server pengiriman E-Mail serta atur parameter server
-      pengiriman sesuai dengan petunjuk yang diberikan oleh penyedia layanan E-
-      Mail. Selanjutnya, klik tombol “Maju”.
-   3. Berikan nama dari akun E-Mail Anda. Lalu klik tombol “Maju”.
-   4. Tentukan lokasi Anda pada peta yang disediakan, lalu klik tombol “Maju”.
-   5. Evolution selesai diatur, sekarang klik tombol “Terapkan” untuk
-      menerapkan pengaturan Anda.
-Sekarang, Anda akan melihat aplikasi jendela utama dari fitur E-Mail pada
-aplikasi Evolution. Untuk menerima surat dari server, klik ikon “Kirim/Terima?”
-pada toolbar. Kemudian, Evolution akan mengunduh surat dari server dan
-membawanya ke folder. Setelah pengunduhan selesai, Anda siap membaca surat baru
-Anda.
-[/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/evolution-mail.png]
-Selain fitur klien E-Mail, Evolution sebagai aplikasi pengelola tugas juga
-memiliki fungsi untuk mengelola kontak dan alamat, memo, kalender dan tugas.
-Untuk menggunakan fitur tersebut, klik pada salah satu pilihan tombol yang
-tersedia di pojok kiri bawah jendela aplikasi Evolution. Untuk pembahasan
-mengenai fitur-fitur tersebut, Anda bisa membaca bab selanjutnya mengenai
-aplikasi perkantoran.
+
+1.  Langkah pertama, klik tombol “Maju”.
+2.  Jika memiliki backup data tugas, klik pada centang “Restore Evolution
+    from Backup file” dan tentukan berkas backupnya. Kemudian, klik tombol
+    “Maju”.
+3.  Isikan identitas lengkap anda, kemudian klik tombol “Maju”.
+4.  Tentukan jenis server penerimaan E-Mail serta atur parameter server E-
+    Mail sesuai dengan petunjuk yang diberikan oleh layanan E-Mail. Kemudian,
+    klik tombol “Maju”.
+    [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/evolution-pop-setting-
+    wizard.png]
+5.  Tentukan opsi penerimaan e-mail yang diinginkan, kemudian klik tombol
+    “Maju”.
+6.  Tentukan jenis server pengiriman E-Mail serta atur parameter server
+    pengiriman sesuai dengan petunjuk yang diberikan oleh penyedia layanan E-
+    Mail. Selanjutnya, klik tombol “Maju”.
+7.  Berikan nama dari akun E-Mail Anda. Lalu klik tombol “Maju”.
+8.  Tentukan lokasi Anda pada peta yang disediakan, lalu klik tombol “Maju”.
+9.  Evolution selesai diatur, sekarang klik tombol “Terapkan” untuk
+    menerapkan pengaturan Anda.
+    Sekarang, Anda akan melihat aplikasi jendela utama dari fitur E-Mail pada
+    aplikasi Evolution. Untuk menerima surat dari server, klik ikon “Kirim/Terima?”
+    pada toolbar. Kemudian, Evolution akan mengunduh surat dari server dan
+    membawanya ke folder. Setelah pengunduhan selesai, Anda siap membaca surat baru
+    Anda.
+    [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab7/evolution-mail.png]
+    Selain fitur klien E-Mail, Evolution sebagai aplikasi pengelola tugas juga
+    memiliki fungsi untuk mengelola kontak dan alamat, memo, kalender dan tugas.
+    Untuk menggunakan fitur tersebut, klik pada salah satu pilihan tombol yang
+    tersedia di pojok kiri bawah jendela aplikasi Evolution. Untuk pembahasan
+    mengenai fitur-fitur tersebut, Anda bisa membaca bab selanjutnya mengenai
+    aplikasi perkantoran.
+
 ### Perpesanan Instan (IM) dengan Pidgin
+
 Untuk keperluan komunikasi berbasis teks secara langsung atau chatting
 menggunakan fitur perpesanan instan (Instant Messanging), BlankOn Linux
 menyediakan aplikasi bernama Pidgin. Aplikasi ini mendukung IM dari berbagai
@@ -274,7 +286,9 @@ klik ikon Pidgin pada area notifikasi. Untuk benar-benar keluar dari Pidgin
 serta melogout semua akun, klik menu Teman > Keluar pada jendela “Daftar Teman”
 atau tekan tombol Ctrl+Q pada keyboard.
 Last modified on 07/06/2009 03:28:39 PM
+
 #### Attachments (12)
+
     * evolution-mail.png​ (106.0 KB) - added by wirama 8 years ago.
     * evolution-pop-setting-wizard.png​ (44.2 KB) - added by wirama 8 years
       ago.
@@ -288,14 +302,5 @@ Last modified on 07/06/2009 03:28:39 PM
     * pidgin-buddy-list.png​ (14.6 KB) - added by wirama 8 years ago.
     * pidgin-welcome.png​ (28.0 KB) - added by wirama 8 years ago.
     * nm-lan-ipv4.png​ (44.3 KB) - added by wirama 8 years ago.
-#### 
-    
- 
- 
- 
- 
- 
 
-
- 
-
+####

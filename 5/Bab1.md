@@ -20,9 +20,9 @@ temanya memiliki ciri khas Indonesia, sehingga sangat cocok untuk digunakan
 bagi orang Indonesia.
 
 ### Apa itu Linux?
+
 Linux merupakan kernel atau dasar dari sistem operasi yang pertama kali ditulis
-oleh seorang mahasiswa Finlandia bernama Linus Benedict Torvalds pada tahun
-1991. Hasil karyanya dilisensikan secara bebas dan terbuka (Free Software)
+oleh seorang mahasiswa Finlandia bernama Linus Benedict Torvalds pada tahun 1991. Hasil karyanya dilisensikan secara bebas dan terbuka (Free Software)
 sehingga siapa saja boleh mengembangkannya.
 Kemudian Richard Stallman, seorang aktivis piranti lunak pendiri FSF (Free
 Sofware Foundation) berniat untuk menggabungkan Linux ke dalam proyek sistem
@@ -55,36 +55,37 @@ ini tidak lepas dari peran para sukarelawan yang berjasa dalam menyumbangkan
 ide dan tenaganya untuk mengembangkan Linux.
 
 ### Kelebihan Linux
+
 Sebagai suatu sistem operasi, Linux secara umum memiliki berbagai kelebihan dan
 kekurangan daripada sistem operasi lainnya. Berikut adalah kelebihan dari Linux
 :
-    * Linux bisa didapatkan secara bebas tanpa perlu membayar lisensi. Anda
-      juga bisa mengunduh kode sumber Linux jika ingin melihatnya tanpa ada
-      batasan apapun.
-    * Linux memiliki koleksi piranti lunak yang sangat lengkap untuk keperluan
-      desktop, laptop dan server. Jika piranti lunak yang tersedia terasa
-      kurang, Anda dapat menambahkannya dengan mudah melalui repository yang
-      tersedia.
-    * Linux sangat stabil karena jarang sekali crash maupun hang. Anda juga
-      tidak perlu bahkan tidak pernah melakukan restart jika melakukan
-      konfigurasi sistem.
-    * Linux lebih aman terhadap virus, karena selain jumlah virus di Linux
-      sangat sedikit. Linux juga sangat ketat dalam hal pengelolaan keamanan.
-    * Perbaikan kutu (bug) atau cacat yang terdapat di Linux sangat cepat,
-      karena Linux dikembangkan secara komunitas dan setiap komunitas bisa
-      memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut
+_ Linux bisa didapatkan secara bebas tanpa perlu membayar lisensi. Anda
+juga bisa mengunduh kode sumber Linux jika ingin melihatnya tanpa ada
+batasan apapun.
+_ Linux memiliki koleksi piranti lunak yang sangat lengkap untuk keperluan
+desktop, laptop dan server. Jika piranti lunak yang tersedia terasa
+kurang, Anda dapat menambahkannya dengan mudah melalui repository yang
+tersedia.
+_ Linux sangat stabil karena jarang sekali crash maupun hang. Anda juga
+tidak perlu bahkan tidak pernah melakukan restart jika melakukan
+konfigurasi sistem.
+_ Linux lebih aman terhadap virus, karena selain jumlah virus di Linux
+sangat sedikit. Linux juga sangat ketat dalam hal pengelolaan keamanan.
+_ Perbaikan kutu (bug) atau cacat yang terdapat di Linux sangat cepat,
+karena Linux dikembangkan secara komunitas dan setiap komunitas bisa
+memberikan masukan-masukan dan perbaikan untuk kutu atau cacat tersebut
 Apapun yang memiliki kelebihan pasti memiliki kekurangan, karena pada
 hakikatnya apa yang diciptakan oleh manusia tidak akan pernah sempurna. Berikut
 adalah berbagai kekurangan dari Linux :
-    * Linux kurang memiliki dukungan dari produsen piranti keras dalam hal
-      penyediaan piranti lunak pengendali (driver). Hampir semua piranti lunak
-      pengendali yang saat ini ada di Linux merupakan hasil jerih payah
-      komunitas, dan sebagian kecil murni dukungan dari produsen piranti keras.
-    * Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan
-      permbuat permainan masih menggunakan sistem operasi Microsoft Windows
-      sebagai platform mereka.
+_ Linux kurang memiliki dukungan dari produsen piranti keras dalam hal
+penyediaan piranti lunak pengendali (driver). Hampir semua piranti lunak
+pengendali yang saat ini ada di Linux merupakan hasil jerih payah
+komunitas, dan sebagian kecil murni dukungan dari produsen piranti keras. \* Linux masih kurang didukung oleh beberapa pembuat permainan. Kebanyakan
+permbuat permainan masih menggunakan sistem operasi Microsoft Windows
+sebagai platform mereka.
 
 ### Apa itu BlankOn Linux?
+
 BlankOn Linux merupakan salah satu distro Linux yang berisikan piranti lunak
 (software) yang dapat digunakan untuk keperluan desktop, laptop, dan
 workstation.
@@ -111,6 +112,7 @@ motivator bangsa Indonesia untuk menggunakan dan mengembangkan piranti lunak
 berlisensi bebas dan terbuka.
 
 ### Asal nama BlankOn Linux
+
 Nama BlankOn berasal dari nama penutup kepala beberapa suku/budaya yang ada di
 Indonesia, antara lain suku Jawa, suku Sunda, dan daerah lainnya. Dari asal
 kata tersebut, BlankOn diharapkan menjadi penutup atau pelindung dari
@@ -121,6 +123,7 @@ menjadi sadar bahwa Linux bisa dimanfaatkan untuk meningkatkan keterampilan
 dalam bidang Teknologi Informasi.
 
 ### Sejarah BlankOn Linux
+
 BlankOn Linux pertama kali dikembangkan oleh YPLI pada tahun 2004 dengan nama
 kode “Bianglala”. Pada saat itu, BlankOn merupakan turunan dari distro Fedora
 Core 3. Namun, rilis BlankOn pada saat itu berakhir sampai versi 1.1 dan
@@ -144,23 +147,25 @@ dominan hijau. Pada rilis ini, Logo BlankOn diganti sehingga lebih modern.
 Versi ini dibuat berbasis Ubuntu versi 8.10. Rilis terakhir pada saat buku ini
 ditulis adalah BlankOn Linux 5.0, dengan nama kode “Nanggar”. Versi ini
 berbasis Ubuntu 9.04.
+
 ### Fitur dari BlankOn Linux 5.0
+
 BlankOn Linux 5.0 berisikan berbagai piranti lunak bebas dan terbuka untuk
 keperluan desktop, laptop dan workstation. Piranti lunak yang tersedia juga
 bisa ditambah dengan piranti lunak lainnya agar sesuai dengan keperluan.
 Secara umum, fitur-fitur dari BlankOn versi 5.0 adalah sebagai berikut :
-    * Diturunkan dari Ubuntu 9.04 dengan nama kode “Jaunty Jackalope” yang
-      terkenal sangat mudah digunakan dan banyak tersedia pilihan software,
-    * Menggunakan kernel Linux versi 2.6.28 yang sangat stabil dengan dukungan
-      piranti keras yang sangat banyak,
-    * Piranti lunak untuk keperluan Anda berkomputer, seperti keperluan
-      perkantoran, grafis, internet, multimedia, dsb. Anda juga masih bisa
-      menambah piranti lunak lainnya yang tersedia melalui repository Ubuntu,
-    * Interface atau antarmuka menggunakan Bahasa Indonesia, sehingga bisa
-      lebih dimengerti oleh orang awam,
-    * Sudah menyertakan dukungan format multimedia yang lengkap, seperti untuk
-      memutar mp3, DVD, dan format lainnya,
-    * Menggunakan tema dan tampilan grafis khas Indonesia.
+_ Diturunkan dari Ubuntu 9.04 dengan nama kode “Jaunty Jackalope” yang
+terkenal sangat mudah digunakan dan banyak tersedia pilihan software,
+_ Menggunakan kernel Linux versi 2.6.28 yang sangat stabil dengan dukungan
+piranti keras yang sangat banyak,
+_ Piranti lunak untuk keperluan Anda berkomputer, seperti keperluan
+perkantoran, grafis, internet, multimedia, dsb. Anda juga masih bisa
+menambah piranti lunak lainnya yang tersedia melalui repository Ubuntu,
+_ Interface atau antarmuka menggunakan Bahasa Indonesia, sehingga bisa
+lebih dimengerti oleh orang awam,
+_ Sudah menyertakan dukungan format multimedia yang lengkap, seperti untuk
+memutar mp3, DVD, dan format lainnya,
+_ Menggunakan tema dan tampilan grafis khas Indonesia.
 Secara umum BlankOn Linux terbagi menjadi dua edisi, yaitu edisi Regular dan
 edisi Minimalis. Yang membedakan kedua edisi ini adalah kebutuhan sistem serta
 piranti lunak yang disertakan. Edisi Reguler diperuntukkan untuk komputer-
@@ -169,76 +174,78 @@ edisi Minimalis diperuntukkan bagi komputer lama sekelas Pentium III dengan
 ukuran RAM minimal 128 MB. Berikut adalah rincian piranti lunak yang digunakan
 pada BlankOn Linux edisi Reguler dan Minimalis :
 Edisi Reguler :
-    * Desktop berkonteks, di mana layar komputer akan berubah sejalan dengan
-      perubahan konteks di luar komputer. Saat ini hanya konteks waktu dan
-      konteks cuaca yang dapat merubah tampilan komputer. Artinya tampilan di
-      pagi hari akan berbeda dengan di malam hari, juga demikian misalnya bila
-      di luar sedang terang benderang atau sedang hujan disertai petir maka
-    akan menyesuaikan. Fitur ini hanya terdapat di BlankOn dan tidak
-      tersedia di distro Ubuntu.
-    * GNOME versi 2.26 sebagai lingkungan desktop atau desktop environment yang
-      sangat sederhana, kaya fitur dan mudah digunakan,
-    * OpenOffice?.org 3.0.1 untuk keperluan perkantoran yang sangat mirip dan
-      kompatibel dengan Microsoft Office,
-    * GIMP 2.6.6 dan Inkscape 0.46 untuk kebutuhan grafis,
-    * Peramban web Firefox 3 untuk mengakses situs Internet,
-    * Aplikasi surat elektronik Evolution,
-    * dan berbagai piranti lunak lainnya.
+_ Desktop berkonteks, di mana layar komputer akan berubah sejalan dengan
+perubahan konteks di luar komputer. Saat ini hanya konteks waktu dan
+konteks cuaca yang dapat merubah tampilan komputer. Artinya tampilan di
+pagi hari akan berbeda dengan di malam hari, juga demikian misalnya bila
+di luar sedang terang benderang atau sedang hujan disertai petir maka
+akan menyesuaikan. Fitur ini hanya terdapat di BlankOn dan tidak
+tersedia di distro Ubuntu.
+_ GNOME versi 2.26 sebagai lingkungan desktop atau desktop environment yang
+sangat sederhana, kaya fitur dan mudah digunakan,
+_ OpenOffice?.org 3.0.1 untuk keperluan perkantoran yang sangat mirip dan
+kompatibel dengan Microsoft Office,
+_ GIMP 2.6.6 dan Inkscape 0.46 untuk kebutuhan grafis,
+_ Peramban web Firefox 3 untuk mengakses situs Internet,
+_ Aplikasi surat elektronik Evolution,
+_ dan berbagai piranti lunak lainnya.
 Edisi Minimalis :
-    * LXDE sebagai lingkungan desktop yang sangat sederhana dan ringan,
-    * Abiword dan Gnumeric untuk aplikasi perkantoran yang sangat ringan,
-    * GIMP 2.6.6 dan Inkscape 0.46 untuk keperluan grafis (sama dengan edisi
-      regular),
-    * Peramban web Epiphany yang ringan namun bertenaga,
-    * Aplikasi surat elektronik Mozilla Thunderbird,
-    * Peramban Wikipedia tanpa jaringan Daluang, sehingga Anda bisa mengakses
-      artikel dari Wikipedia tanpa perlu jaringan Internet (masih dalam tahap
-      percobaan),
-    * dan berbagai piranti lunak lainnya.
+_ LXDE sebagai lingkungan desktop yang sangat sederhana dan ringan,
+_ Abiword dan Gnumeric untuk aplikasi perkantoran yang sangat ringan,
+_ GIMP 2.6.6 dan Inkscape 0.46 untuk keperluan grafis (sama dengan edisi
+regular),
+_ Peramban web Epiphany yang ringan namun bertenaga,
+_ Aplikasi surat elektronik Mozilla Thunderbird,
+_ Peramban Wikipedia tanpa jaringan Daluang, sehingga Anda bisa mengakses
+artikel dari Wikipedia tanpa perlu jaringan Internet (masih dalam tahap
+percobaan),
+_ dan berbagai piranti lunak lainnya.
+
 ### Pengembangan BlankOn Linux
+
 Seperti yang dijelaskan sebelumnya, BlankOn Linux dikembangkan oleh Yayasan
 Penggerak Linux Indonesia (YPLI) bersama para komunitas pengembang Linux yang
 tergabung menjadi Tim pengembang BlankOn Linux. Proyek BlankOn Linux terbuka
 untuk siapa saja yang terlibat dan berperan aktif dalam pengembangan BlankOn
 Linux ini. Dalam pengembangan proyek BlankOn Linux, pengembang dibagi menjadi
 beberapa tim antara lain :
-    * Tim Infrastruktur
-      Tim ini mengelola segala infrastruktur dalam rangka pengembangan BlankOn
-      Linux, seperti situs, forum, mirror, pabrik CD, dsb.
-    * Tim Riset dan Aplikasi
-      Tim ini mengelola fitur-fitur dan aplikasi khas BlankOn Linux yang tidak
-      ada pada Distro Linux lainnya, serta melakukan riset terhadap fitur
-      tersebut.
-    * Tim Rilis
-      Tim ini bertanggung jawab untuk memutuskan rilis, apakah rilis tersebut
-      menjadi rilis percobaan atau rilis final.
-    * Tim Pemaket
-      Tim ini melakukan pemaketan untuk BlankOn Linux yang selanjutnya paket-
-      paket dikirim ke Pabrik CD dan diolah secara otomatis.
-    * Tim Kesenian
-      Tim ini membuat berbagai hasil karya seni atau artwork untuk BlankOn
-      Linux, seperti latar belakang, tema, suara, splash screen, dll.
-    * Tim Bug dan Tester
-      Tim ini melakukan testing terhadap setiap rilis dan mengecek adanya cacat
-      atau kutu didalamnya.
-    * Tim Dokumentasi
-      Tim ini membuat serta mengelola dokumentasi pada BlankOn Linux.
-    * Tim Pemasaran
-      Tim ini bertanggung jawab untuk melakukan pemasaran terhadap BlankOn
-      Linux kepada masyarakat luas.
+_ Tim Infrastruktur
+Tim ini mengelola segala infrastruktur dalam rangka pengembangan BlankOn
+Linux, seperti situs, forum, mirror, pabrik CD, dsb.
+_ Tim Riset dan Aplikasi
+Tim ini mengelola fitur-fitur dan aplikasi khas BlankOn Linux yang tidak
+ada pada Distro Linux lainnya, serta melakukan riset terhadap fitur
+tersebut.
+_ Tim Rilis
+Tim ini bertanggung jawab untuk memutuskan rilis, apakah rilis tersebut
+menjadi rilis percobaan atau rilis final.
+_ Tim Pemaket
+Tim ini melakukan pemaketan untuk BlankOn Linux yang selanjutnya paket-
+paket dikirim ke Pabrik CD dan diolah secara otomatis.
+_ Tim Kesenian
+Tim ini membuat berbagai hasil karya seni atau artwork untuk BlankOn
+Linux, seperti latar belakang, tema, suara, splash screen, dll.
+_ Tim Bug dan Tester
+Tim ini melakukan testing terhadap setiap rilis dan mengecek adanya cacat
+atau kutu didalamnya.
+_ Tim Dokumentasi
+Tim ini membuat serta mengelola dokumentasi pada BlankOn Linux.
+_ Tim Pemasaran
+Tim ini bertanggung jawab untuk melakukan pemasaran terhadap BlankOn
+Linux kepada masyarakat luas.
 Jika Anda berminat untuk menjadi pengembang BlankOn Linux, silahkan membuat
 akun baru di situs pengembangan BlankOn Linux yaitu ​http://
-dev.blankonlinux.or.id dan bergabung di mailling list pengembang BlankOn Linux
+blankonlinux.id/wiki dan bergabung di mailling list pengembang BlankOn Linux
 di blankon-dev@…. Anda bisa memilih menjadi salah satu dari tim yang disebutkan
 di atas. Kontribusi dari Anda sangat diperlukan agar BlankOn Linux bisa menjadi
 lebih baik.
+
 ### Tautan dan Umpan Balik
+
 Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut mengenai
 distro BlankOn Linux :
-    * ​http://www.blankonlinux.or.id, situs resmi BlankOn Linux.
-    * ​http://cdimage.blankonlinux.or.id, halaman web untuk mengunduh distro
-    Linux.
-    * ​http://dev.blankonlinux.or.id, situs WIKI untuk informasi pengembangan
-      distro BlankOn Linux.
+_ ​https://www.blankonlinux.id, situs resmi BlankOn Linux.
+_ ​https://jahitan.blankonlinux.id/release, halaman web untuk mengunduh distro
+Linux. \* ​https://.blankonlinux.id, situs WIKI untuk informasi pengembangan
+distro BlankOn Linux.
 Last modified on 05/30/2009 07:41:52 PM
-

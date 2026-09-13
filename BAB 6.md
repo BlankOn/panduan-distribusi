@@ -2,13 +2,13 @@
 
 Seperti yang sudah kita ketahui bahwa internet telah menciptakan revolusi yang sangat tidak terduga dalam dunia teknologi, informasi maupun komunikasi. Kini, Internet menjadi kebutuhan yang sangat penting bagi setiap orang untuk mengakses informasi atau berkomunikasi dengan orang lain di seluruh penjuru dunia. Pengertian internet (interconnection networking) sendiri adalah jaringan komunikasi global yang terbuka dan menghubungkan jutaan, bahkan milyaran jaringan komputer dengan berbagai tipe dan jenis, dengan menggunakan tipe komunikasi seperti **telepon**, **satelit dan lain sebagainya**.
 
-Pada masa kini biaya untuk jaringan Internet sudah tidak semahal seperti pada saat pertama kali diperkenalkan. Bahkan, beberapa tempat umum menyediakan jaringan hotspot yang sebagian besar bersifat gratis agar Anda bisa mengakses internet melalui notebook atau perangkat lain yang memiliki fitur Wi-Fi. Untuk memanfaatkan jaringan Internet, BlankOn menyediakan berbagai aplikasi yang siap digunakan untuk kebutuhan sehari-hari, misalnya  sudah tersedia peramban web, klien e-mail atau surat elektronik dan pesan instan.
+Pada masa kini biaya untuk jaringan Internet sudah tidak semahal seperti pada saat pertama kali diperkenalkan. Bahkan, beberapa tempat umum menyediakan jaringan hotspot yang sebagian besar bersifat gratis agar Anda bisa mengakses internet melalui notebook atau perangkat lain yang memiliki fitur Wi-Fi. Untuk memanfaatkan jaringan Internet, BlankOn menyediakan berbagai aplikasi yang siap digunakan untuk kebutuhan sehari-hari, misalnya sudah tersedia peramban web, klien e-mail atau surat elektronik dan pesan instan.
 
 ## 6.1. Koneksi ke Jaringan Internet
 
 Ada berbagaimacam tipe koneksi ke internet, baik yang mengunakan **kabel (wire)** maupun yang **tanpa kabel (wireless)**. Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus menyambungkan komputer ke jaringan Internet melalui **LAN**, **Wi-Fi**, **Modem 3G/HSDPA**, atau **Modem ADSL**.
 
-### 6.1.1.   Melalui kabel LAN
+### 6.1.1. Melalui kabel LAN
 
 Pada umumnya, tempat-tempat kerja menyediakan jaringan Internet melalui jaringan kabel (wired). Untuk melakukan koneksi internet melalui kabel, cukup sambungkan **kabel RJ-45** dari jaringan LAN Anda ke LANCard atau NIC yang ada di komputer atau laptop Anda. Jika muncul pesan bahwa sambungan sudah terjalin pada area notifikasi, berarti komputer telah sukses bergabung dengan jaringan tanpa masalah.
 
@@ -18,17 +18,17 @@ Beri tanda centang pada **Tersedia** untuk semua pengguna jika Anda menghendaki 
 
 Untuk melakukan koneksi melalui jaringan kabel degnan pengaturan jaringan yang baru dibuat, klik pada **ikon koneksi jaringan** pada notifikasi destop. Pada bagian **Jaringan Kabel**, pilih nama pengaturan jaringan Anda. Maka tidak lama kemudian akan muncul pesan bahwa jaringan telah berhasil terjalin.
 
-### 6.1.2.   Melalui hotspot atau Wireless LAN
+### 6.1.2. Melalui hotspot atau Wireless LAN
 
 Saat ini, banyak sekali terdapat tempat-tempat umum atau perkantoran yang menerapkan jaringan melalui teknologi **wireless LAN** atau yang sering dikenal dengan istilah **hotspot**. Dengan jaringan seperti ini, tidak perlu lagi direpotkan dengan penggunaan kabel karena jaringan ini menggunakan **gelombang microwave** seperti jaringan **GSM Handphone**. Untuk melakukan koneksi Internet melalui hotspot, sangat mudah sekali. Jika kartu jaringan tanpa kabel sudah terdeteksi dengan baik oleh BlankOn, cukup klik pada **ikon koneksi jaringan** pada notifikasi, kemudian pada bagian **Jaringan Nirkabel**, pilih nama jaringan hotspot yang akan dikoneksikan. Tidak beberapa lama kemudian, koneksi akan langsung terjalin.
 
 Jika ternyata koneksi tidak terjalin, mungkin Anda perlu melakukan penyetelan konfigurasi jaringan secara manual. Untuk melakukan hal ini, klik kanan pada ikon koneksi jaringan pada area notifikasi, lalu klik menu **Sunting sambungan**. **Buka Nirkabel**, pada tab ini, klik pada nama **jaringan** yang ingin Anda atur yang diawali dengan teks **Auto**, lalu klik pada tombol Ubah. Selanjutnya buka tab **Pengaturan IPv4**. Pada tab ini, pilih opsi **Atur Sendiri** pada bagian method. Kemudian, klik tombol **Tambah** dan isikan **Address**, **Netmask**, dan **Gateway** sesuai dengan pengaturan jaringan **hotspot** tersebut. Setelah semua pengaturan selesai, klik tombol **Terapkan**. Sekarang, Anda bisa mengulangi melakukan koneksi kejaringan hotspot yang sudah Anda atur. Maka tidak akan lama, koneksi akan terjalin.
 
-### 6.1.3.   Melalui modem ADSL
+### 6.1.3. Melalui modem ADSL
 
 Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan telepon PSTN. Penggunaan modem ADSL tidak serepot menggunakan ISP berbasis radio yang menjamur saat ini, karena tidak perlu membangun tower yang tinggi. Cukup mengandalkan jaringan telpon PSTN yang sudah terpasang. Biasanya, modem ADSL yang ada saat ini sekaligus berfungsi sebagai router untuk jaringan. Anda cukup menyambungkan kabel LAN RJ-45 dari modem ADSL ke **LAN Card** pada komputer, maka komputer akan langsung melakukan koneksi terhadap modem tersebut. Tidak akan lama, koneksi akan terjalin dan Anda bisa mulai ber-internet ria.
 
-### 6.1.4.   Melalui Mobile Broadband
+### 6.1.4. Melalui Mobile Broadband
 
 Setelah Modem Anda dipasangkan dan dikenali oleh BlankOn X Tambora, selanjutnya lakukan setting parameter kartu sesuai provider yang Anda gunakan. Pertama-tama, klik ikon **koneksi jaringan** pada **notifikasi**, kemudian centang **New Mobile Broadband conection**. Atau dengan cara lain, yaitu klik **Menu utama BlankOn => Preferensi => Pengaturan => Jaringan => Tambah sambungan baru**, pengaturan tersebut seperti tampilan dibawah ini :
 
@@ -40,7 +40,7 @@ Sekarang masuk ke bagian pemilihan nama **Operator selular** yang Anda gunakan, 
 
 Selanjutnya memilih planing **paket data** yang Anda akan gunakan, jika tidak tersedia pada daftar **planing khusus** maka pilih **Default**, dan klik **Next**.
 
-Selanjutnya konfirmasi pengaturan jaringan Anda, jika masih ada kesalahan pada pengaturan telah Anda lakukan, klik tombol **Back**, **namun** jika pengaturan sudah benar, silakan klik Apply. Setelah  itu akan muncul jendela permintaan **Password** untuk melakukan **Dial-Up** maka isikan **password** tersebut dengan kata sandi Anda.
+Selanjutnya konfirmasi pengaturan jaringan Anda, jika masih ada kesalahan pada pengaturan telah Anda lakukan, klik tombol **Back**, **namun** jika pengaturan sudah benar, silakan klik Apply. Setelah itu akan muncul jendela permintaan **Password** untuk melakukan **Dial-Up** maka isikan **password** tersebut dengan kata sandi Anda.
 
 Jika koneksi jaringan anda berhasil, akan tampil notifikasi bahwa koneksi anda berhasil terkoneksi, atau anda dapat melakukan pengecekan dengan mengklik ikon jaringan Anda. Selanjutnya anda dapat melakukan aktifitas internet, baik berselancar web maupun aktifitas internet lain dengan satu syarat bahwa sinyal jaringan internet Anda berada dalam posisi baik.
 
@@ -54,7 +54,7 @@ Untuk membuka aplikasi ini, klik menu **Menu utama BlankOn => Internet => Firefo
 
 Secara baku, Firefox menggunakan mensin pencari **Google Search**. Anda dapat mengubah mesin pencari dengan mudah karena secara default sudah terpasang beberapa mesin pencari lainya, seperti **DuckDuckGo**, **Bing** dan **Yahoo**.
 
-Untuk membuka suatu situs, ketik alamat situs yang Anda buka pada **Bar Alamat**. Misalnya, untuk membuka situs resmi BlankOn, ketik **www.blankonlinux.or.id**. Setelah alamat diketik, tekan tombol Enter untuk memulai membukanya. Tunggu sebentar hingga halaman situs terbuka.
+Untuk membuka suatu situs, ketik alamat situs yang Anda buka pada **Bar Alamat**. Misalnya, untuk membuka situs resmi BlankOn, ketik **www.blankonlinux.id**. Setelah alamat diketik, tekan tombol Enter untuk memulai membukanya. Tunggu sebentar hingga halaman situs terbuka.
 
 Firefox juga bisa Anda gunakan untuk membuka berbagai macam situs dalam satu waktu. Untuk melakukan hal ini, Anda bisa menambahkan **tab baru** dengan melakukan klik tanda + (tambah). Semakin banyak tab yang Anda buka, maka akan semakin banyak **RAM** komputer yang akan terpakai. Jika komputer terasa agak lambat, sebaiknya kurangi tab yang sudah Anda buka.
 
@@ -63,6 +63,7 @@ Untuk mencatat situs favorit, Anda bisa memanfaatkan fitur **Bookmark**. Jika An
 Secara default Bookmark belum di tampilkan oleh Firefox, untuk menampilkan Bookmark berikut caranya, klik kanan pada **Menu Firefox**, kemudian beri tanda centang pada **Bookmarks** toolbar (Menu Firefox => Bookmarks toolbar).
 
 Cara termudah untuk membuat bookmark laman adalah dengan mengeklik ikon bintang di samping **bilah alamat**. Balon yang mengonfirmasi penambahan bookmark akan ditampilkan. Berikut penejelasan singkat cara melakukan Bookmark:
+
 - Ubah nama bookmark pada bidang **Nama**.
 - Jika tidak diubah, bookmark disimpan dalam folder bookmark yang terakhir digunakan. Gunakan menu Folder untuk memilih lokasi penyimpanan bookmark. Jika tidak diubah, lima folder bookmark yang terakhir digunakan akan muncul dalam menu. Jika folder yang diinginkan tidak tercantum, gunakan **Pilih folder lain** untuk membuka kotak dialog Edit Bookmark. Bookmark akan ditempatkan dalam folder yang terakhir digunakan secara bawaan, kecuali jika Anda memilih folder lain dalam menu.
 - Klik **Cancel** untuk mengurungkan penambahan bookmark.
@@ -98,7 +99,7 @@ Secara default di BlankOn X Tambora sudah terinstall **Twitter client** yaitu **
 
 Untuk membuka aplikasi ini, klik **Menu Utama BlankOn => Internet => Corebird**. Maka akan membuka jendela Corebird, dan jika Anda belum pernah melakukan login, maka Corebird akan meminta **PIN**.
 
-Untuk mendapatkan **PIN**,  klik tombol **Permintaan PIN**, secara otomatis akan membuka jendela baru di **peramban web**. Isikan **username **dan **password** Twitter akun Anda kemudian klik **Izinkan Aplikasi**. Setelah itu akan muncul **PIN** yang diberikan oleh aplikasi tersebut. Langkah selanjutnya ketikan PIN tersebut pada aplikasi Corebird dan klik **Konfirmasi**. Maka selanjutnya Anda akan di bawa ke jendela **Corebird**.
+Untuk mendapatkan **PIN**, klik tombol **Permintaan PIN**, secara otomatis akan membuka jendela baru di **peramban web**. Isikan **username **dan **password** Twitter akun Anda kemudian klik **Izinkan Aplikasi**. Setelah itu akan muncul **PIN** yang diberikan oleh aplikasi tersebut. Langkah selanjutnya ketikan PIN tersebut pada aplikasi Corebird dan klik **Konfirmasi**. Maka selanjutnya Anda akan di bawa ke jendela **Corebird**.
 
 ## 6.6. Akun Daring
 
@@ -106,7 +107,7 @@ Akun Daring digunakan untuk mengelola akun pribadi yang Anda miliki dalam menggu
 
 Untuk mengatur Akun Daring dapat dilakuan dengan cara klik **Menu Utama BlankOn => Preferensi => Pengaturan => Pribadi => Akun Daring**, maka segera tampil jendela untuk mengatur Akun Daring.
 
-### 6.6.1.   Menambah Akun
+### 6.6.1. Menambah Akun
 
 Klik tombol **Tambah akun daring**. Pastikan, Anda terhubung dengan internet.
 
@@ -120,17 +121,17 @@ Langkah selanjutnya adalah, memasukkan **sandi ring kunci**, bila berhasil, pada
 
 Untuk menambahkan akun daring, Anda juga dapat mengklik ikon tanda **tambah** pada pojok kiri bawah jendela Akun Daring.
 
-### 6.6.2.   Menghapus Akun
+### 6.6.2. Menghapus Akun
 
 Untuk menghaapus akun, lakukan langkah berikut; pilih akun daring yang akan dihapus, klik ikon tanda **minus (-) di pojok kiri bawah** sehingga muncul kotak dialog konfirmasi, kemudian klik tombol **Hapus**.
 
-#### 6.6.2.1.  Mengapa Perlu Akun Daring Destop?
+#### 6.6.2.1. Mengapa Perlu Akun Daring Destop?
 
 Dengan Akun Daring Anda dapat membawa layanan pilihan seperti kalender, obrolan, dan surel ke destop sehingga dapat dengan mudah tetap terhubung dengan layanan-layanan dari akun yang berbeda pada waktu yang bersamaan.
 
 Anda cukup mengatur akun daring sekali saja, dan setiap kali Anda menghidupkan komputer, semua akun tersebut siap digunakan.
 
-#### 6.6.2.2.  Daftar Layanan dan Aplikasi Daring
+#### 6.6.2.2. Daftar Layanan dan Aplikasi Daring
 
 Berikut beberapa layanan yang tersedia pada Akun Daring
 

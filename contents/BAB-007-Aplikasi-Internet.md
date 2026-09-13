@@ -1,4 +1,5 @@
 \newpage
+
 # Aplikasi Internet
 
 Seperti yang kita ketahui bahwa internet telah menciptakan revolusi yang
@@ -20,9 +21,9 @@ surat elektronik dan pesan instan.
 
 ## <span id="anchor-90"></span>Koneksi ke Jaringan Internet
 
-Ada berbagai macam koneksi ke internet, baik yang mengunakan kabel (*wire*) maupun yang tanpa kabel (*wireless*). Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus menyambungkan komputer ke jaringan Internet. Untuk tersambung dengan internet kita dapat memilih LAN, Wi-Fi, Modem 3G/HSDPA, atau Modem ADSL.
+Ada berbagai macam koneksi ke internet, baik yang mengunakan kabel (_wire_) maupun yang tanpa kabel (_wireless_). Sebelum berselancar di dunia maya menggunakan BlankOn, tentunya Anda harus menyambungkan komputer ke jaringan Internet. Untuk tersambung dengan internet kita dapat memilih LAN, Wi-Fi, Modem 3G/HSDPA, atau Modem ADSL.
 
-### <span id="anchor-91"></span>Melalui kabel LAN 
+### <span id="anchor-91"></span>Melalui kabel LAN
 
 Pada umumnya, tempat-tempat kerja menyediakan jaringan Internet melalui jaringan kabel. Untuk melakukan koneksi internet melalui kabel, cukup sambungkan kabel RJ-45 dari jaringan LAN Anda ke LANCard atau NIC yang ada di komputer atau laptop Anda. Jika muncul pesan bahwa sambungan sudah terjalin pada area notifikasi, berarti komputer telah sukses bergabung dengan jaringan tanpa masalah.
 
@@ -41,18 +42,18 @@ Untuk melakukan koneksi Internet melalui hotspot, sangat mudah sekali. Jika kart
 
 Jika ternyata koneksi tidak terjalin, mungkin Anda perlu melakukan penyetelan konfigurasi jaringan secara manual;
 
-  - Klik kanan pada ikon koneksi jaringan pada area notifikasi, 
-  - klik menu **Sunting sambungan**
-  - **Buka Nirkabel**, pada tab ini, klik pada **nama jaringan** yang ingin Anda atur yang diawali dengan teks **Auto**,
-  - klik pada tombol **Ubah**.
-  - buka tab **Pengaturan IPv4**, 
-  - pilih opsi **Atur Sendiri** pada bagian **method**,
-  - klik tombol **Tambah** dan isikan **Address**, **Netmask**, dan **Gateway** sesuai dengan pengaturan jaringan **hotspot**,
-  - klik tombol **Terapkan**.
+- Klik kanan pada ikon koneksi jaringan pada area notifikasi,
+- klik menu **Sunting sambungan**
+- **Buka Nirkabel**, pada tab ini, klik pada **nama jaringan** yang ingin Anda atur yang diawali dengan teks **Auto**,
+- klik pada tombol **Ubah**.
+- buka tab **Pengaturan IPv4**,
+- pilih opsi **Atur Sendiri** pada bagian **method**,
+- klik tombol **Tambah** dan isikan **Address**, **Netmask**, dan **Gateway** sesuai dengan pengaturan jaringan **hotspot**,
+- klik tombol **Terapkan**.
 
 Sekarang, Anda bisa mengulangi melakukan koneksi ke jaringan hotspot yang sudah Anda atur.
 
-### <span id="anchor-93"></span>Melalui modem ADSL 
+### <span id="anchor-93"></span>Melalui modem ADSL
 
 Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan telepon PSTN. Penggunaan modem ADSL tidak serepot menggunakan ISP berbasis radio yang menjamur saat ini, karena tidak perlu membangun tower yang tinggi. Cukup mengandalkan jaringan telpon PSTN yang sudah terpasang. Biasanya, modem ADSL yang ada saat ini sekaligus berfungsi sebagai router untuk jaringan. Anda cukup menyambungkan kabel LAN RJ-45 dari modem ADSL ke **LAN Card** pada komputer, maka komputer akan langsung melakukan koneksi terhadap modem tersebut. Tidak akan lama, koneksi akan terjalin dan Anda bisa mulai ber-internet ria.
 
@@ -60,26 +61,26 @@ Saat ini, modem ADSL banyak digunakan untuk keperluan Internet melalui jaringan 
 
 Setelah Modem Anda dipasangkan dan dikenali oleh BlankOn XI Uluwatu, lakukan setting parameter kartu sesuai provider yang Anda gunakan;
 
-  - klik ikon **koneksi jaringan** pada **notifikasi**, kemudian centang **New Mobile Broadband conection**. Atau dengan cara lain, yaitu klik Menu utama **BlankOn** => **Preferensi** => **Pengaturan** => **Jaringan** => **Tambah sambungan baru**, pengaturan tersebut seperti tampilan di bawah ini:
-  
-  - Langkah selanjutnya adalah, klik ikon **Tambah sambungan baru**. maka akan tampil **Sambungan Data Seluler Baru** (pada contoh pada buku ini menggunakan Modem Huawei), klik **Next**.
+- klik ikon **koneksi jaringan** pada **notifikasi**, kemudian centang **New Mobile Broadband conection**. Atau dengan cara lain, yaitu klik Menu utama **BlankOn** => **Preferensi** => **Pengaturan** => **Jaringan** => **Tambah sambungan baru**, pengaturan tersebut seperti tampilan di bawah ini:
 
-  - Pada **Daftar Negara** atau Pilih **Wilayah** negara tempat Anda berada karena kita berada di **Indonesia** maka pilih Indonesia (untuk memudahkan pencarian tekan **huruf I** pada Papan Tik).
+- Langkah selanjutnya adalah, klik ikon **Tambah sambungan baru**. maka akan tampil **Sambungan Data Seluler Baru** (pada contoh pada buku ini menggunakan Modem Huawei), klik **Next**.
 
-  - Masuk ke bagian pemilihan nama **Operator selular** yang Anda gunakan, pilih sesuai dengan kartu yang terpasang pada modem (pada contoh buku ini menggunakan kartu Telkomsel) dan jika tidak ada dalam
-pilihan ini klik **I can’t find my provider and i wish to enter it manually**, tulis nama Provider yang Anda gunakan dengan cara manual, klik **Next**.
+- Pada **Daftar Negara** atau Pilih **Wilayah** negara tempat Anda berada karena kita berada di **Indonesia** maka pilih Indonesia (untuk memudahkan pencarian tekan **huruf I** pada Papan Tik).
 
-  - Selanjutnya memilih planing paket data yang Anda akan gunakan, jika tidak tersedia pada daftar planing khusus maka pilih **Default**, dan klik **Next**.
+- Masuk ke bagian pemilihan nama **Operator selular** yang Anda gunakan, pilih sesuai dengan kartu yang terpasang pada modem (pada contoh buku ini menggunakan kartu Telkomsel) dan jika tidak ada dalam
+  pilihan ini klik **I can’t find my provider and i wish to enter it manually**, tulis nama Provider yang Anda gunakan dengan cara manual, klik **Next**.
 
-  - Selanjutnya konfirmasi pengaturan jaringan Anda, jika masih adakesalahan pada pengaturan telah Anda lakukan, klik tombol **Back**, namun jika pengaturan sudah benar, silakan klik **Apply**. Setelah itu
-akan muncul jendela permintaan Password untuk melakukan *Dial-Up* maka isikan **password** tersebut dengan kata sandi Anda.
+- Selanjutnya memilih planing paket data yang Anda akan gunakan, jika tidak tersedia pada daftar planing khusus maka pilih **Default**, dan klik **Next**.
+
+- Selanjutnya konfirmasi pengaturan jaringan Anda, jika masih adakesalahan pada pengaturan telah Anda lakukan, klik tombol **Back**, namun jika pengaturan sudah benar, silakan klik **Apply**. Setelah itu
+  akan muncul jendela permintaan Password untuk melakukan _Dial-Up_ maka isikan **password** tersebut dengan kata sandi Anda.
 
 Jika koneksi jaringan anda berhasil, akan tampil notifikasi bahwa koneksi anda berhasil terkoneksi, atau anda dapat melakukan pengecekan dengan mengklik ikon jaringan Anda. Selanjutnya anda dapat melakukan
 aktifitas internet, baik berselancar web maupun aktifitas internet lain dengan satu syarat bahwa sinyal jaringan internet Anda berada dalam posisi baik.
 
 ## <span id="anchor-95"></span>Peramban web Firefox
 
-Tentunya dalam memanfaatkan jaringan internet untuk melakukan *browsing* atau meramban halaman web dalam mencari suatu informasi atau keperluan lainnya membutuhkan sebuah Peramban. Secara baku, pada BlankOn XI Uluwatu sudah tersedia sebuah peramban web, yaitu **Mozilla Firefox** (saat bukuini ditulis menggunakan versi 47.0.1)**.
+Tentunya dalam memanfaatkan jaringan internet untuk melakukan _browsing_ atau meramban halaman web dalam mencari suatu informasi atau keperluan lainnya membutuhkan sebuah Peramban. Secara baku, pada BlankOn XI Uluwatu sudah tersedia sebuah peramban web, yaitu **Mozilla Firefox** (saat bukuini ditulis menggunakan versi 47.0.1)\*\*.
 
 Mozilla Firefox adalah sebuah proyek browser open-source yang bertujuan untuk membangun browser agar pengalaman berselancar bagi pengguna Internet lebih aman, lebih cepat dan lebih stabil.
 
@@ -87,7 +88,7 @@ Untuk membuka aplikasi ini, klik menu **Menu utama BlankOn** => **Internet** => 
 
 Secara baku, Firefox menggunakan mensin pencari **Google Search**. Anda dapat mengubah mesin pencari dengan mudah karena secara default sudah terpasang beberapa mesin pencari lainya, seperti **DuckDuckGo**, **Bing** dan **Yahoo**.
 
-Untuk membuka suatu situs, ketik alamat situs yang Anda buka pada **Bar Alamat**. Misalnya, untuk membuka situs resmi BlankOn, ketik `www.blankonlinux.or.id`. Setelah alamat diketik, tekan tombol **Enter** untuk memulai membukanya. Tunggu sebentar hingga halaman situs terbuka.
+Untuk membuka suatu situs, ketik alamat situs yang Anda buka pada **Bar Alamat**. Misalnya, untuk membuka situs resmi BlankOn, ketik `www.blankonlinux.id`. Setelah alamat diketik, tekan tombol **Enter** untuk memulai membukanya. Tunggu sebentar hingga halaman situs terbuka.
 
 Firefox juga bisa Anda gunakan untuk membuka berbagai macam situs dalam
 satu waktu. Untuk melakukan hal ini, Anda bisa menambahkan **tab baru**
@@ -108,20 +109,20 @@ bintang di samping **bilah alamat**. Balon yang mengonfirmasi penambahan
 bookmark akan ditampilkan. Berikut penejelasan singkat cara melakukan
 Bookmark:
 
-  - Ubah nama bookmark pada bidang **Nama**.
-  - Jika tidak diubah, bookmark disimpan dalam folder bookmark yang
-    terakhir digunakan. Gunakan menu **Folder** untuk memilih lokasi
-    penyimpanan bookmark. Jika tidak diubah, lima folder bookmark yang
-    terakhir digunakan akan muncul dalam menu. Jika folder yang
-    diinginkan tidak tercantum, gunakan **Pilih folder lain** untuk
-    membuka kotak dialog **Edit Bookmark**. Bookmark akan ditempatkan
-    dalam folder yang terakhir digunakan secara bawaan, kecuali jika
-    Anda memilih folder lain dalam menu.
-  - Klik **Cancel** untuk mengurungkan penambahan bookmark.
-  - Jika Anda ingin mengubah **URL** bookmark, klik **Edit**. Lainnya,
-    klik **Tutup** untuk menambahkan bookmark.
+- Ubah nama bookmark pada bidang **Nama**.
+- Jika tidak diubah, bookmark disimpan dalam folder bookmark yang
+  terakhir digunakan. Gunakan menu **Folder** untuk memilih lokasi
+  penyimpanan bookmark. Jika tidak diubah, lima folder bookmark yang
+  terakhir digunakan akan muncul dalam menu. Jika folder yang
+  diinginkan tidak tercantum, gunakan **Pilih folder lain** untuk
+  membuka kotak dialog **Edit Bookmark**. Bookmark akan ditempatkan
+  dalam folder yang terakhir digunakan secara bawaan, kecuali jika
+  Anda memilih folder lain dalam menu.
+- Klik **Cancel** untuk mengurungkan penambahan bookmark.
+- Jika Anda ingin mengubah **URL** bookmark, klik **Edit**. Lainnya,
+  klik **Tutup** untuk menambahkan bookmark.
 
-## <span id="anchor-96"></span>Perpesanan Instan (IM) dengan Pidgin 
+## <span id="anchor-96"></span>Perpesanan Instan (IM) dengan Pidgin
 
 Untuk keperluan komunikasi berbasis teks secara langsung atau chatting
 menggunakan fitur perpesanan instan (Instant Messanging), BlankOn
@@ -185,7 +186,7 @@ yang lain ada pada bilah sebelah kiri, sedangkan **bilah tengah** adalah
 
 Twitter adalah [layanan jejaring sosial](https://id.wikipedia.org/wiki/Layanan_jejaring_sosial) dan
 [mikroblog](https://id.wikipedia.org/wiki/Mikroblog) [daring](https://id.wikipedia.org/wiki/Dalam_jaringan_dan_luar_jaringan) yang memungkinkan Anda untuk mengirim dan membaca pesan berbasis teks
-hingga 140 [karakter](https://id.wikipedia.org/w/index.php?title=Karakter_%28komputasi%29&action=edit&redlink=1), yang dikenal dengan sebutan kicauan (*tweet*). Twitter mengalami
+hingga 140 [karakter](https://id.wikipedia.org/w/index.php?title=Karakter_%28komputasi%29&action=edit&redlink=1), yang dikenal dengan sebutan kicauan (_tweet_). Twitter mengalami
 pertumbuhan yang pesat dan dengan cepat meraih popularitas di seluruh dunia.
 
 Secara default di BlankOn XI Uluwatu sudah terinstall **Twitter client**
@@ -218,7 +219,7 @@ Misalnya Anda pilih **Facebook**, maka secara otomatis akan tampil
 jendela untuk masuk ke akun **Facebook** Anda. Masukkan data login Anda
 pada Facebook, kemudian klik tombol **Masuk.**
 
-Pada jendela yang tampil** **klik tombol **Lanjutkan sebagai ....**
+Pada jendela yang tampil\*\* **klik tombol **Lanjutkan sebagai ....\*\*
 
 Langkah selanjutnya adalah, memasukkan **sandi ring kunci**, bila
 berhasil, pada jendela **Akun Daring** akan muncul daftar akun daring
@@ -295,5 +296,3 @@ cetak pada lain waktu.
 Dengan layanan Baca Nanti Anda dapat menyimpan halaman web pada layanan
 luar sehingga Anda dapat membacanya pada lain waktu dan pada perangkat
 yang lain. Saat ini belum ada aplikasi yang menggunakan layanan ini.
-
-

@@ -1,21 +1,12 @@
-
-
     *
 
-
-
-
-
-
-
-
-
-  /
-
+/
 
     * 5  /
     * Bab3
+
 ## BAB III : Pasang dan Hapus piranti lunak
+
 TOC?
 Bawaan dari BlankOn Linux sudah menyertakan berbagai piranti lunak untuk
 keperluan dasar seperti aplikasi perkantoran, multimedia, internet, grafis,
@@ -24,7 +15,9 @@ pemasangan piranti lunak yang Anda inginkan sesuai dengan keperluan.
 INGAT! Pemasangan dan penghapusan piranti lunak membutuhkan hak administratif
 karena dapat merubah sistem. Untuk itu, yang hanya bisa melakukan hal tersebut
 hanyalah pengguna yang memiliki kewenangan administratif.
+
 ### Pengaturan piranti lunak pada BlankOn Linux
+
 Cara pemasangan dan penghapusan piranti lunak pada BlankOn Linux sangat berbeda
 dengan cara yang ada di sistem operasi Microsoft Windows. Jika pemasangan
 piranti lunak di Windows menggunakan sebuah installer atau program pemasang
@@ -39,12 +32,12 @@ dihapus. Maka APT akan melakukan apa yang Anda inginkan termasuk mengunduh
 paket, memasang, pemasangan konfigurasi, melakukan konfigurasi sistem,
 pemutakhiran (update) serta penghapusan. Sumber paket atau repository bisa
 berada dari empat sumber, yaitu :
-    * Server Web
-    * Jaringan Lokal, misalnya dari server NFS,
-    * CD/DVD-ROM,
-    * Folder lokal.
+_ Server Web
+_ Jaringan Lokal, misalnya dari server NFS,
+_ CD/DVD-ROM,
+_ Folder lokal.
 Komunitas BlankOn Linux memiliki repository resmi yang berada di situs ​http://
-arsip.blankonlinux.or.id/blankon. Untuk memasang lebih banyak piranti lunak
+arsip.blankonlinux.id/blankon. Untuk memasang lebih banyak piranti lunak
 lagi, Anda dapat menggunakan repository dari Ubuntu karena BlankOn Linux
 merupakan distribusi Linux turunan dari Ubuntu. Repository resmi Ubuntu
 Indonesia berada di situs ​http://id.archive.ubuntu.com/ubuntu.
@@ -54,24 +47,28 @@ yang ada disediakan oleh penyedia jasa cermin (mirror) dan beberapa perguruan
 tinggi di Indonesia. Berikut adalah beberapa alamat repository yang ada di
 Indonesia :
 Mirror BlankOn :
-    * ​http://dl2.foss-id.web.id/blankon (FOSS-ID, Telkom Indonesia)
-    * ​http://kambing.ui.ac.id/blankon (Universitas Indonesia)
-    * ​http://kebo.vlsm.org/blankon (vLSM.org)
-    * ​http://mirror.unej.ac.id/blankon (Universitas Negeri Jember)
-    * ​http://repo.undip.ac.id/blankon (Universitas Diponegoro)
+_ ​http://dl2.foss-id.web.id/blankon (FOSS-ID, Telkom Indonesia)
+_ ​http://kambing.ui.ac.id/blankon (Universitas Indonesia)
+_ ​http://kebo.vlsm.org/blankon (vLSM.org)
+_ ​http://mirror.unej.ac.id/blankon (Universitas Negeri Jember)
+_ ​http://repo.undip.ac.id/blankon (Universitas Diponegoro)
 Mirror Ubuntu :
-    * ​http://dl2.foss-id.web.id/ubuntu (FOSS-ID, Telkom Indonesia)
-    * ​http://kambing.ui.ac.id/ubuntu (Universitas Indonesia)
-    * ​http://kebo.vlsm.org/ubuntu (vLSM.org)
-    * ​http://mirror.unej.ac.id/ubuntu (Universitas Negeri Jember)
-    * ​http://repo.undip.ac.id/ubuntu (Universitas Diponegoro)
+_ ​http://dl2.foss-id.web.id/ubuntu (FOSS-ID, Telkom Indonesia)
+_ ​http://kambing.ui.ac.id/ubuntu (Universitas Indonesia)
+_ ​http://kebo.vlsm.org/ubuntu (vLSM.org)
+_ ​http://mirror.unej.ac.id/ubuntu (Universitas Negeri Jember)
+_ ​http://repo.undip.ac.id/ubuntu (Universitas Diponegoro)
+
 ### Pengaturan Repository
+
 Untuk melakukan pengaturan repository APT, Anda bisa klik menu System >
 Administrasi > Sumber Perangkat Lunak pada BlankOn Linux edisi Reguler, atau
 menu BlankOn > Peralatan Sistem > Sumber Perangkat Lunak pada BlankOn Linux
 edisi Minimalis. Berikut adalah cara – cara pengaturan repository dari setiap
 jenis sumber.
+
 #### Repository Resmi BlankOn Linux (Internet)
+
 Jika Anda ingin melakukan pengaturan sumber perangkat lunak dari mirror resmi
 BlankOn Linux, Anda bisa lihat pada tab “Perangkat Lunak BlankOn”. Pilih semua
 cabang piranti lunak yang tersedia pada bagian “Dapat diunduh dari Internet”.
@@ -82,7 +79,9 @@ mengaktifkan repository update dari repository resmi BlankOn Linux yang Anda
 pilih. Untuk melakukan hal ini, klik tab “Pemutakhiran”, dan pilih repository
 update yang ingin Anda aktifkan dan memberi centang pada semua jenis
 pemutakhiran pada bagian “BlankOn pembaharuan”.
+
 #### Repository pihak ketiga (Internet)
+
 Repository resmi BlankOn Linux hanya menyediakan paket-paket piranti lunak
 dalam jumlah yang terbatas. Jika Anda ingin memasang lebih banyak piranti lunak
 lagi, Anda bisa menggunakan repository tambahan dari Ubuntu dengan membuka tab
@@ -93,35 +92,40 @@ dari mirror ​http://dl2.foss-id.web.id. Jika Anda ingin mengubah servernya,
 Anda bisa klik pada salah satu cabang repository, lalu klik tombol “Ubah...”.
 Kemudian, atur alamat server pada bagian “URI”. Lalu klik tombol “OK”. Terdapat
 tiga cabang repository Ubuntu yang bisa Anda aktifkan, yaitu :
-   1. Resmi disokong (Main) dan Driver tak bebas (Restricted) berisi paket
-      piranti lunak umum yang sudah didukung oleh Ubuntu secara resmi dan juga
-      berisi paket piranti lunak pengendali piranti lunak yang tidak bebas.
-   2. Dikelola oleh komunitas (Universe) berisi paket piranti lunak yang umum
-      namun tidak didukung secara resmi oleh Ubuntu.
-   3. Perangkat Lunak Terbatas (Multiverse) berisi paket piranti lunak tertutup
-      dan tidak didukung secara resmi oleh Ubuntu.
-Jika ingin mengaktifkan pemutakhiran pada piranti lunak yang berasal dari
-repository Ubuntu, Anda bisa beri tanda centang pada “Pembaharuan yang
-disarankan” dan “Pemutakhiran keamanan yang penting” pada setiap cabang
-repository yang tertera pada daftar. Jika Anda ingin menambahkan repository
-lainnya, Anda bisa klik pada tombol “Tambah” lalu mengetik baris APT sesuai
-dengan repository yang diinginkan. Informasi dari baris APT bisa dilihat pada
-situs repository bersangkutan.
-INFO: Repository Ubuntu berisikan sekitar 27000+ paket piranti lunak untuk
-Linux yang siap untuk dipasang. Jika masih merasa kurang, ada repository
-tambahan yang bernama Medibuntu yang berisikan berbagai piranti lunak non open
-source untuk Ubuntu. Informasinya, silahkan buka situs ​http://
-www.medibuntu.org.
+
+1.  Resmi disokong (Main) dan Driver tak bebas (Restricted) berisi paket
+    piranti lunak umum yang sudah didukung oleh Ubuntu secara resmi dan juga
+    berisi paket piranti lunak pengendali piranti lunak yang tidak bebas.
+2.  Dikelola oleh komunitas (Universe) berisi paket piranti lunak yang umum
+    namun tidak didukung secara resmi oleh Ubuntu.
+3.  Perangkat Lunak Terbatas (Multiverse) berisi paket piranti lunak tertutup
+    dan tidak didukung secara resmi oleh Ubuntu.
+    Jika ingin mengaktifkan pemutakhiran pada piranti lunak yang berasal dari
+    repository Ubuntu, Anda bisa beri tanda centang pada “Pembaharuan yang
+    disarankan” dan “Pemutakhiran keamanan yang penting” pada setiap cabang
+    repository yang tertera pada daftar. Jika Anda ingin menambahkan repository
+    lainnya, Anda bisa klik pada tombol “Tambah” lalu mengetik baris APT sesuai
+    dengan repository yang diinginkan. Informasi dari baris APT bisa dilihat pada
+    situs repository bersangkutan.
+    INFO: Repository Ubuntu berisikan sekitar 27000+ paket piranti lunak untuk
+    Linux yang siap untuk dipasang. Jika masih merasa kurang, ada repository
+    tambahan yang bernama Medibuntu yang berisikan berbagai piranti lunak non open
+    source untuk Ubuntu. Informasinya, silahkan buka situs ​http://
+    www.medibuntu.org.
+
 #### Repository jaringan Lokal (Intranet)
+
 Beberapa institusi pendidikan dan kantor menyediakan repository secara lokal
 yang bisa Anda manfaatkan untuk menekan biaya penggunaan bandwidth internet.
 Untuk memanfaatkannya, silahkan tanyakan kepada administrator jaringan Anda
 tentang baris APT dari repository termasuk repository untuk pemutakhiran (jika
 ada). Lalu tambahkan baris APT baru sesuai dengan cara yang dijelaskan di atas.
+
 #### Menggunakan Cakram Pengaya atau DVD Repository Ubuntu
+
 Tidak memiliki koneksi internet langsung? Anda bisa menggunakan media CD/DVD
 sebagai repository. Komunitas BlankOn Linux menyediakan Cakram Pengaya dalam
-bentuk CD/DVD yang bisa Anda unduh melalui situs ​http://www.blankonlinux.or.id
+bentuk CD/DVD yang bisa Anda unduh melalui situs ​http://www.blankonlinux.id
 atau membelinya di toko linux terdekat.
 Selain itu, jika ingin menggunakan repository Ubuntu tanpa perlu jaringan
 Internet, Anda juga bisa mendapatkan DVD Repository Ubuntu yang versinya setara
@@ -135,11 +139,15 @@ Setelah semua pengaturan repository selesai dilakukan, klik tombol Tutup.
 Kemudian APT akan meminta Anda untuk mengunduh informasi paket dari setiap
 repository, klik pada tombol Muat Ulang. Sekarang, Anda siap melakukan
 penambahan piranti lunak untuk BlankOn Linux.
+
 ### Memasang dan menghapus piranti lunak
+
 Terdapat tiga cara untuk melakukan pemasangan dan penghapusan piranti lunak.
 Yaitu melalui fitur Tambah/Hapus?, menggunakan manajer paket Synaptic dan
 melalui antarmuka teks dengan perintah APT-GET.
+
 #### Melalui fitur Tambah/Hapus?
+
 Untuk pemasangan piranti lunak melalui fitur Tambah/Hapus?, klik menu BlankOn
 lalu pilih menu Tambah/Hapus? pada BlankOn reguler, atau klik menu BlankOn >
 Peralatan Sistem > Tambah/Hapus? pada BlankOn minimalis.
@@ -158,7 +166,9 @@ piranti lunak yang ingin Anda hapus. Setelah selesai melakukan penerapan, Anda
 bisa klik tombol “Tambah/Hapus? piranti lunak” jika Anda ingin memasang atau
 menghapus piranti lunak. Atau klik tombol “Tutup” jika Anda ingin keluar dari
 aplikasi ini.
+
 #### Manajer Paket Synaptic
+
 Jika Anda ingin memasang atau menghapus piranti lunak secara detail, Anda bisa
 menggunakan aplikasi Synaptic yang bisa Anda buka melalui menu System >
 Administrasi > Manajer paket Synaptic pada BlankOn Linux edisi Reguler, atau
@@ -180,7 +190,9 @@ yang Anda inginkan.
 Untuk menerapkannya, Anda bisa klik ikon “Terapkan” pada toolbar dan klik
 tombol “Terapkan” pada jendela konfirmasi. Maka APT akan memasang/menghapus
 piranti lunak yang Anda minta.
+
 ### Melalui perintah APT-GET
+
 Menggunakan perintah apt-get sangat sederhana sekali. Anda cukup ketikkan nama
 paket piranti lunak yang ingin dipasang/dihapus, maka APT akan melakukan hal
 yang Anda inginkan.
@@ -200,7 +212,9 @@ sebutkan lebih dari satu nama paket pada perintah APT yang dipisah dengan
 spasi. Contohnya, jika ingin memasang piranti lunak aplikasi Abiword dan
 Gnumeric sekaligus, Anda bisa ketik perintah berikut
 blankon@blankon:~$ sudo apt-get install abiword gnumeric↵
+
 #### Pemasangan melalui berkas DEB
+
 Selain melalui repository, Anda juga bisa memasang suatu piranti lunak yang
 didistribusikan dalam format berkas DEB seperti aplikasi RealPlayer?,
 VirtualBox, Skype, dll. Untuk melakukan instalasi dari paket DEB, Anda bisa
@@ -209,7 +223,9 @@ jendela yang akan menuntun Anda dalam melakukan pemasangan.
 [/raw-attachment/wiki/Dokumentasi/Panduan/5/Bab3/gdebi.png]
 Pada jendela tersebut, Anda bisa klik tombol “Instal paket”. Maka paket
 tersebut akan di-instal ke komputer bersamaan dengan paket ketergantungannya.
+
 ### Instalasi dukungan Bahasa
+
 Bahasa yang terinstall secara otomatis dalam BlankOn Linux adalah Bahasa
 Indonesia. Jika Anda ingin memasang bahasa lainnya, Anda bisa membuka fitur
 dukungan bahasa melalui menu System > Administrasi > Dukungan Bahasa pada
@@ -232,7 +248,9 @@ TIP: Jika ingin mengaktifkan fitur metoda input (IME) pada BlankOn, Anda bisa
 memberi tanda centang pada “use input method engine (IME) to enter complex
 character”. Secara bawaan, BlankOn sudah menyertakan metoda input untuk aksara
 Lontara (Bugis) dan Batak Toba.
+
 ### Melakukan pemutakhiran sistem
+
 Untuk melakukan pemutakhiran sistem, pastikan Anda sudah menambahkan repository
 update pada APT seperti yang sudah dijelaskan sebelumnya. Kemudian, klik menu
 System > Administrasi > Manajer Pemutakhiran pada BlankOn Linux edisi Reguler,
@@ -254,7 +272,9 @@ update paket piranti lunak, lalu tekan tombol enter :
 blankon@blankon:~$ sudo apt-get upgrade↵
 INGAT! Pastikan Anda terhubung dengan repository update agar proses
 pemutakhiran bisa berjalan dengan lancar.
+
 ### Memasang aplikasi Windows
+
 Sebenarnya, Anda juga bisa memasang aplikasi-aplikasi berbasis Microsoft
 Windows favorit Anda ke dalam BlankOn Linux. Caranya adalah dengan menggunakan
 piranti lunak emulator yang bernama WINE (Windows Emulator). Sebelum melakukan
@@ -269,7 +289,9 @@ mungkin tidak bisa berjalan dengan maksimal atau bahkan tidak bisa berjalan
 sama sekali. Untuk informasi lebih lanjut mengenai WINE, Anda bisa membuka
 situs resminya yaitu ​http://www.winehq.com.
 Last modified on 06/01/2009 03:40:10 PM
+
 #### Attachments (10)
+
     * apt-3rdparty-repository.png​ (63.2 KB) - added by wirama 8 years ago.
     * apt-add-cdrom.png​ (9.5 KB) - added by wirama 8 years ago.
     * apt-official-repository.png​ (43.8 KB) - added by wirama 8 years ago.
@@ -280,14 +302,5 @@ Last modified on 06/01/2009 03:40:10 PM
     * synaptic-package-manager.png​ (82.6 KB) - added by wirama 8 years ago.
     * update-manager.png​ (60.0 KB) - added by wirama 8 years ago.
     * wine-install-software.png​ (10.3 KB) - added by wirama 8 years ago.
-#### 
-    
- 
- 
- 
- 
- 
 
-
- 
-
+####

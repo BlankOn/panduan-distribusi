@@ -1,7 +1,8 @@
 \newpage
+
 # Penutup
-<span id="anchor-210"></span>Umpan Balik 
------------------------------------------
+
+## <span id="anchor-210"></span>Umpan Balik
 
 Tim Pengembang BlankOn menerima kritik dan saran serta masukan yang
 membangun untuk kesuksesan BlankOn. Jika Anda memiliki masalah dalam
@@ -11,22 +12,21 @@ melalui surel maupun melalui diskusi di Internet .
 Berikut adalah berbagai tautan/link situs untuk informasi lebih lanjut
 mengenai BlankOn:
 
--   [http://www.blankonlinux.or.id](http://www.blankonlinux.or.id/),
-    situs resmi BlankOn Linux
--   [http://forum.blankonlinux.or.id](http://forum.blankonlinux.or.id/),
-    situs forum untuk berdiskusi tentang penggunaan BlankOn
--   [http://serambi.blankonlinux.or.id](http://serambi.blankonlinux.or.idm/),
-    situs blog tempat para pengembang BlankOn mengungkapkan isi hati
--   [http://cdimage.blankonlinux.or.id](http://cdimage.blankonlinux.or.id/),
-    halaman web untuk mengunduh BlankOn
--   [http://dev.blankonlinux.or.id](http://dev.blankonlinux.or.id/),
-    situs WIKI untuk informasi pengembangan BlankOn
--   [http://webchat.freenode.net](http://webchat.freenode.net/), situs
-    untuk berbincang dengan pengembang BlankOn, isi nama Anda dan ketik
-    ”\#blankon” pada kolom Channels.
+- [https://www.blankonlinux.id](http://www.blankonlinux.id/),
+  situs resmi BlankOn Linux
+- [https://forum.blankonlinux.id](http://forum.blankonlinux.id/),
+  situs forum untuk berdiskusi tentang penggunaan BlankOn
+- [https://serambi.blankonlinux.or.id](http://serambi.blankonlinux.or.id/),
+  situs blog tempat para pengembang BlankOn mengungkapkan isi hati
+- [https://jahitan.blankonlinux.id](http://jahitan.blankonlinux.id/),
+  halaman web untuk mengunduh BlankOn
+- [http://blankonlinux.id/wiki](http://blankonlinux.id/wiki),
+  situs WIKI untuk informasi pengembangan BlankOn
+- [http://webchat.freenode.net](http://webchat.freenode.net/), situs
+  untuk berbincang dengan pengembang BlankOn, isi nama Anda dan ketik
+  ”\#blankon” pada kolom Channels.
 
-<span id="anchor-211"></span>Pengembangan BlankOn Linux 
---------------------------------------------------------
+## <span id="anchor-211"></span>Pengembangan BlankOn Linux
 
 Seperti yang dijelaskan sebelumnya, BlankOn Linux dikembangkan oleh
 Yayasan Penggerak Linux Indonesia (YPLI) bersama para komunitas
@@ -41,10 +41,10 @@ berikutnya.
 
 Caranya mudah, cukup kunjungi halaman:
 
-<http://dev.blankonlinux.or.id/wiki/Memulai> Jika Anda berminat untuk
+<http://blankonlinux.id/wiki/> Jika Anda berminat untuk
 menjadi pengemban BlankOn Linux, silahkan membuat akun baru di situs
 pengembangan BlankOn Linux yaitu
-[http://dev.blankonlinux.or.id](http://dev.blankonlinux.or.id/) dan
+[http://blankonlinux.id/wiki](http://blankonlinux.id/wiki) dan
 bergabung di milis pengembang BlankOn Linux di
 <blankon-dev@googlegroups.com>. Anda bisa memilih menjandi salah satu
 dari tim yang disebutkan di atas. Kontribusi dari Anda sangat diperlukan
@@ -63,67 +63,65 @@ berdiri di atas kaki sendiri, tanpa harus membajak hasil karya orang
 lain. Tim Pengembang BlankOn percaya bahwa Anda adalah salah satu di
 antaranya.
 
-<span id="anchor-212"></span>Tim Pengembang BlankOn X Tambora
--------------------------------------------------------------
+## <span id="anchor-212"></span>Tim Pengembang BlankOn X Tambora
 
 ##### Menejer Proyek
 
--   Mohammad Anwari (MDAMT)
+- Mohammad Anwari (MDAMT)
 
-##### Menejer Rilis 
+##### Menejer Rilis
 
--   Ahmad Haris
+- Ahmad Haris
 
-##### Tim Pemaket 
+##### Tim Pemaket
 
--   Mahyuddin (Koordinator)
--   Rahman Yusri Aftian (MahaDEV)
--   Azis W Katamsi (Bayan Desa)
--   Anto Samalona
+- Mahyuddin (Koordinator)
+- Rahman Yusri Aftian (MahaDEV)
+- Azis W Katamsi (Bayan Desa)
+- Anto Samalona
 
 ##### Tim Riset dan Aplikasi
 
--   Herpiko Dwi Aguno (Koordinator)
--   Cahaya Maulidan
--   Aris Winardi
--   Hikmah Gumelar
--   Hanhan
--   Ngalim Siregar
--   Sucipto
+- Herpiko Dwi Aguno (Koordinator)
+- Cahaya Maulidan
+- Aris Winardi
+- Hikmah Gumelar
+- Hanhan
+- Ngalim Siregar
+- Sucipto
 
-##### Tim Kesenian 
+##### Tim Kesenian
 
--   Aris Winardi aka winardiaris (Koordinator)
--   Kukuh Syafaat aka cho2
--   Muhammad Irfan aka irfanpule
--   Ramadoni aka invaleed
+- Aris Winardi aka winardiaris (Koordinator)
+- Kukuh Syafaat aka cho2
+- Muhammad Irfan aka irfanpule
+- Ramadoni aka invaleed
 
-##### Tim Infrastruktur. 
+##### Tim Infrastruktur.
 
--   Syah Dwi Prihatmoko (Koordinator)
--   Budi Wijaya
--   Darian Rizalludin
--   Kamas Muhammad
--   Rahman Yusri Aftian (mahadev)
+- Syah Dwi Prihatmoko (Koordinator)
+- Budi Wijaya
+- Darian Rizalludin
+- Kamas Muhammad
+- Rahman Yusri Aftian (mahadev)
 
-##### Tim Jaminan Kualitas 
+##### Tim Jaminan Kualitas
 
--   Rahman Yusri Aftian
--   M. Nasrul Alawy
+- Rahman Yusri Aftian
+- M. Nasrul Alawy
 
-##### Tim Dokumentasi 
+##### Tim Dokumentasi
 
--   Sokibi (koordinator)
--   Umul Sidikoh
--   Faiq Aminuddin
--   TS Faizal
--   Dicky Bagus
+- Sokibi (koordinator)
+- Umul Sidikoh
+- Faiq Aminuddin
+- TS Faizal
+- Dicky Bagus
 
 ##### Tim Hubungan Masyarakat
 
--   Aris Eko Priyanto (koordinator)
--   Estu
--   Saputro Aryulianto
--   Utian Ayuba
--   Levay
-
+- Aris Eko Priyanto (koordinator)
+- Estu
+- Saputro Aryulianto
+- Utian Ayuba
+- Levay
